@@ -5,6 +5,7 @@ source: unknown (Japanese recipe screenshot, バターロール)
 servings: 18
 tags: [bread, rolls, enriched, japanese, freezable]
 last_made: 2026-09-27
+thumbnail: ../images/butter-rolls/thumbnail.jpg
 ---
 
 # Butter Rolls
