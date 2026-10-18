@@ -36,6 +36,7 @@ To file a downloaded recipe into this repo:
 1. Find candidates: `.md` files in `~/Downloads` with a `recipe-` prefix or a `category:` frontmatter field.
 2. Reformat to the template below if not already compliant.
 3. Rename to kebab-case of the title (drop the `recipe-` prefix), move into the folder named by `category`.
+   If it has a source URL, add its thumbnail (rule 10 below).
 4. Add to the Index, commit, push, delete the Downloads copy.
 
 ## Instructions for AI
@@ -51,6 +52,7 @@ When creating or updating a recipe in this repo, follow these rules exactly:
 7. **Tips section**: record any AI suggestions or techniques that were actually used.
 8. **Adjustment Log**: when a recipe is changed, append a dated entry saying what changed and why. Never silently overwrite quantities without logging the change.
 9. Put the file in the correct folder (`bread/`, `breakfast/`, `dinner/`, `dessert/`) and add it to the Index below.
+10. **Thumbnail from the source link**: if the recipe came from a URL and has no `thumbnail` yet, take the page's main recipe photo (its `og:image`), save it as `images/<recipe-slug>/thumbnail.jpg`, run `scripts/clean-images.sh` on it, and set `thumbnail: ../images/<recipe-slug>/thumbnail.jpg`. Skip it if the page has no usable photo.
 
 ## Recipe template
 
