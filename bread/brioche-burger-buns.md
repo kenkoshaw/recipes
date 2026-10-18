@@ -5,6 +5,7 @@ source: own recipe (Claude chat, saved 2026-08-29)
 servings: 8 buns (110 g each)
 tags: [bread, burger, brioche]
 last_made: 2026-08-29
+thumbnail: ../images/brioche-burger-buns/thumbnail.jpg
 ---
 
 # Brioche Burger Buns
