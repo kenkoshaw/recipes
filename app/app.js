@@ -13,6 +13,9 @@
     bowl: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 11h17a8.5 8.5 0 0 1-17 0z"/><path d="M9 7c0-1.2 1-1.4 1-2.6M14 7c0-1.2 1-1.4 1-2.6"/></svg>',
     chevron: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>',
     check: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg>',
+    reset: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg>',
+    sun: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>',
+    moon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>',
     close: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>',
   };
   const EMOJI = { breakfast: '🥞', dinner: '🍲', dessert: '🍰', bread: '🍞' };
@@ -36,6 +39,19 @@
     favourites.has(slug) ? favourites.delete(slug) : favourites.add(slug);
     store.set('favourites', [...favourites]);
     return favourites.has(slug);
+  };
+
+  // ---------- Theme ----------
+  const darkQuery = window.matchMedia('(prefers-color-scheme: dark)');
+  const currentTheme = () => document.documentElement.dataset.theme || (darkQuery.matches ? 'dark' : 'light');
+  function setTheme(t) {
+    document.documentElement.dataset.theme = t;
+    document.querySelector('meta[name="theme-color"]').content = t === 'dark' ? '#0f0f11' : '#ffffff';
+    store.set('theme', t);
+  }
+  const themeButton = () => {
+    const dark = currentTheme() === 'dark';
+    return `<button class="icon-btn" id="theme" aria-label="Switch to ${dark ? 'light' : 'dark'} mode">${dark ? ICONS.sun : ICONS.moon}</button>`;
   };
 
   // ---------- Data ----------
@@ -99,6 +115,7 @@
         <div class="greeting">
           <div class="badge"><img src="icon.svg" alt="" style="width:52px;height:52px;border-radius:50%"></div>
           <div><h1>${greeting()}</h1><p>What are we cooking today?</p></div>
+          ${themeButton()}
         </div>
         <label class="search">
           ${ICONS.search}
@@ -141,6 +158,11 @@
       view.querySelectorAll('.chip').forEach((c) => c.classList.toggle('active', c === b));
       paint();
     }));
+
+    view.querySelector('#theme').addEventListener('click', () => {
+      setTheme(currentTheme() === 'dark' ? 'light' : 'dark');
+      renderHome();
+    });
 
     if (focusSearch) {
       input.focus();
@@ -222,6 +244,10 @@
             <button class="switch" role="switch" aria-checked="${!!wakeLock}" id="wake" aria-label="Keep screen on"></button>
           </div>` : ''}
 
+        <div class="recipe-tools">
+          <button class="reset-btn" id="reset" ${anyProgress ? '' : 'disabled'}>${ICONS.reset}Untick everything</button>
+        </div>
+
         <details class="block" open>
           <summary>Ingredients ${ICONS.chevron}</summary>
           <div class="block-body">
@@ -264,7 +290,6 @@
                   </div>
                 </li>`).join('')}
             </ol>
-            ${anyProgress ? '<button class="more" id="reset">Reset progress</button>' : ''}
           </div>
         </details>
 
@@ -316,7 +341,11 @@
     const wake = view.querySelector('#wake');
     if (wake) wake.addEventListener('click', () => setWake(!wakeLock, wake));
 
-    const save = () => store.set(progressKey, progress);
+    const resetBtn = view.querySelector('#reset');
+    const save = () => {
+      store.set(progressKey, progress);
+      resetBtn.disabled = !(progress.ing.length || progress.steps.length || progress.bowls.length);
+    };
     view.querySelectorAll('[data-ing]').forEach((li) => li.addEventListener('click', () => {
       const n = Number(li.dataset.ing);
       const done = li.classList.toggle('done');
@@ -336,10 +365,12 @@
       progress.steps = done ? [...progress.steps, n] : progress.steps.filter((x) => x !== n);
       save();
     }));
-    const reset = view.querySelector('#reset');
-    if (reset) reset.addEventListener('click', () => {
+    resetBtn.addEventListener('click', () => {
       try { localStorage.removeItem(progressKey); } catch { /* ignore */ }
+      const y = window.scrollY;
       renderRecipe(slug);
+      window.scrollTo(0, y);
+      toast('Everything unticked');
     });
   }
 

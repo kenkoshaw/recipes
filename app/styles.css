@@ -20,8 +20,9 @@
   color-scheme: light;
 }
 
+/* Dark theme: follows the system unless the viewer picked one (data-theme on <html>). */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #0f0f11;
     --surface: #18181b;
     --muted-surface: #222226;
@@ -37,6 +38,23 @@
     --shadow: 0 1px 2px rgba(0,0,0,.4);
     color-scheme: dark;
   }
+}
+
+:root[data-theme="dark"] {
+  --bg: #0f0f11;
+  --surface: #18181b;
+  --muted-surface: #222226;
+  --border: #2a2a2f;
+  --text: #f4f4f5;
+  --text-2: #a1a1aa;
+  --text-3: #71717a;
+  --accent: #ff7a4a;
+  --accent-soft: #3a2219;
+  --dark: #f4f4f5;
+  --on-dark: #0f0f11;
+  --done: #55555c;
+  --shadow: 0 1px 2px rgba(0,0,0,.4);
+  color-scheme: dark;
 }
 
 * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
@@ -190,6 +208,15 @@ input { font: inherit; color: inherit; }
 .bowl.done .tick { background: var(--accent); border-color: var(--accent); color: #fff; }
 .bowl.done .bowl-title, .bowl.done .bowl-items { opacity: .45; }
 .bowl-ref { display: inline-block; padding: 0 7px; border-radius: 7px; background: var(--accent-soft); color: var(--accent); font-weight: 600; font-size: .92em; white-space: nowrap; }
+
+/* ---------- Theme toggle and reset ---------- */
+.greeting .icon-btn { margin-left: auto; }
+.icon-btn { width: 48px; height: 48px; flex: none; border-radius: 14px; border: 1px solid var(--border); background: var(--surface); display: grid; place-items: center; color: var(--text); }
+.icon-btn svg { width: 22px; height: 22px; }
+.recipe-tools { display: flex; justify-content: flex-end; margin: 10px 0 2px; }
+.reset-btn { display: inline-flex; align-items: center; gap: 8px; height: 38px; padding: 0 14px; border-radius: 12px; border: 1px solid var(--border); font-size: 14px; color: var(--text-2); background: var(--surface); }
+.reset-btn svg { width: 16px; height: 16px; }
+.reset-btn:disabled { opacity: .45; cursor: default; }
 
 /* ---------- Tab bar ---------- */
 .tabbar { position: fixed; left: 0; right: 0; bottom: 0; height: var(--tabbar-h); padding: 10px 24px var(--safe-bottom); display: flex; justify-content: space-around; align-items: flex-start; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border-top: 1px solid var(--border); z-index: 10; }
