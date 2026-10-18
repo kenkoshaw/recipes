@@ -1,6 +1,6 @@
 ---
 title: Classic Scones with Jam and Clotted Cream
-category: dessert
+category: breakfast
 source: https://www.bbcgoodfood.com/recipes/classic-scones-jam-clotted-cream
 servings: 8
 tags: [scones, baking, afternoon-tea, quick, british]

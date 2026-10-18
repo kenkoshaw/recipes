@@ -5,7 +5,7 @@ source: https://theliveinkitchen.com/lolas-third-birthday-with-nutmeg-ginger-app
 servings: 28
 tags: [cookies, apple, spiced, fantastic-mr-fox, baking]
 last_made: 2026-09-27
-thumbnail: ../images/nutmeg-ginger-apple-snaps/img-0999.jpg
+thumbnail: ../images/nutmeg-ginger-apple-snaps/img-5732.jpg
 ---
 
 # Nutmeg & Ginger Apple Snaps

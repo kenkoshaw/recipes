@@ -1,6 +1,6 @@
 ---
 title: Gazpacho
-category: dinner
+category: breakfast
 source: own recipe
 servings: 4
 tags: [soup, spanish, cold, vegetarian, summer]

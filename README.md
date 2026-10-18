@@ -118,13 +118,14 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 
 **Breakfast**
 
+- [Classic Scones with Jam and Clotted Cream](breakfast/classic-scones-with-jam-and-clotted-cream.md) — quick, Kenwood-rubbed butter
 - [Crêpes](breakfast/crepes.md) — double-cream batter, optional toppings
+- [Gazpacho](breakfast/gazpacho.md) — cold Andalusian tomato soup, cucumber garnish
 
 **Dinner**
 
 - [Baked Camembert with Garlic Honey and Walnuts](dinner/baked-camembert-with-garlic-honey-and-walnuts.md) — sharing starter
 - [Epic Chunky Beef and Mushroom Pie](dinner/epic-chunky-beef-and-mushroom-pie.md) — slow-cooked beef, porcini gravy, puff pastry lid
-- [Gazpacho](dinner/gazpacho.md) — cold Andalusian tomato soup, cucumber garnish
 - [Honey Soy Baked Chicken Thighs](dinner/honey-soy-baked-chicken-thighs.md) — marinated, baked then broiled
 - [Quick Peri Peri Marinade](dinner/quick-peri-peri-marinade.md) — for 1kg chicken or veg
 - [Sicilian Prawn and Tomato Spaghetti](dinner/sicilian-prawn-and-tomato-spaghetti.md) — anchovy toast on the side
@@ -134,7 +135,6 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 
 - [Brown Butter Chocolate Chip Cookies](dessert/brown-butter-chocolate-chip-cookies.md) — half batch, coffee not milk
 - [Brownies](dessert/brownies.md) — Tasty ultimate, 10-min egg beat + mid-bake drop
-- [Classic Scones with Jam and Clotted Cream](dessert/classic-scones-with-jam-and-clotted-cream.md) — quick, Kenwood-rubbed butter
 - [Grape Juice Ice Lollies](dessert/grape-juice-ice-lollies.md) — honey-softened, kid-friendly
 - [Japanese Strawberry Cake](dessert/japanese-strawberry-cake.md) — water-bath sponge, whipped cream, optional gelatin
 - [Nutmeg & Ginger Apple Snaps](dessert/nutmeg-ginger-apple-snaps.md) — Fantastic Mr Fox cookies, step photos
