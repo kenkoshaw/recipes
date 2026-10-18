@@ -130,5 +130,6 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 - [Brown Butter Chocolate Chip Cookies](dessert/brown-butter-chocolate-chip-cookies.md) — half batch, coffee not milk
 - [Brownies](dessert/brownies.md) — Tasty ultimate, 10-min egg beat + mid-bake drop
 - [Grape Juice Ice Lollies](dessert/grape-juice-ice-lollies.md) — honey-softened, kid-friendly
+- [Japanese Strawberry Cake](dessert/japanese-strawberry-cake.md) — water-bath sponge, whipped cream, optional gelatin
 - [Nutmeg & Ginger Apple Snaps](dessert/nutmeg-ginger-apple-snaps.md) — Fantastic Mr Fox cookies, step photos
 - [White Fig Clafoutis](dessert/white-fig-clafoutis.md) — all-milk custard bake
