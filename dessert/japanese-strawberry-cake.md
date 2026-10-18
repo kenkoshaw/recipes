@@ -41,9 +41,9 @@ Japanese bakery-style strawberry shortcake: a light, fluffy sponge baked in a wa
 
 ## Method
 
-1. **Prep everything** · 15 min
+1. **Prep the tin** · 10 min
 
-   Line the base of a 20cm round tin with baking paper. If it's a springform or loose-bottomed tin, wrap the outside in a few layers of foil so the water bath can't leak in. Find a deep roasting tin that the cake tin fits inside. Fit the whisk to the Kenwood and make sure the bowl and whisk are clean and dry; any fat stops the whites whipping. Weigh the cake flour (**75g**) out for step 3. Separate the eggs: 4 yolks (**~70g**) into a small bowl for step 3, 4 whites (**~120g**) straight into the Kenwood bowl for step 4. Weigh the caster sugar (**70g**) into a small bowl by the mixer.
+   Line the base of a 20cm round tin with baking paper. If it's a springform or loose-bottomed tin, wrap the outside in a few layers of foil so the water bath can't leak in. Find a deep roasting tin that the cake tin fits inside.
 
 2. **Heat the oven, melt the butter** · 5 min
 
@@ -55,7 +55,7 @@ Japanese bakery-style strawberry shortcake: a light, fluffy sponge baked in a wa
 
 4. **Whip the whites** · 8 min
 
-   Whisk the 4 whites (**~120g**) in the Kenwood on medium-high speed until frothy. With the mixer still running, add the caster sugar (**70g**) a little at a time. Keep whisking until the meringue is glossy and holds medium peaks.
+   Make sure the Kenwood bowl and whisk are clean and dry, as any fat stops the whites whipping. Whisk the 4 whites (**~120g**) on medium-high speed until frothy. With the mixer still running, add the caster sugar (**70g**) a little at a time. Keep whisking until the meringue is glossy and holds medium peaks.
 
 5. **Fold** · 5 min
 
@@ -119,3 +119,4 @@ Japanese bakery-style strawberry shortcake: a light, fluffy sponge baked in a wa
 - 2026-10-18: imported from omnivorescookbook.com and converted to grams. Egg yolks (**~70g**) and whites (**~120g**) are estimates for 4 large eggs. Spoon measures converted by estimate: icing sugar 2 tbsp → **16g**, gelatin ¾ tsp → **2.5g**, caster sugar 2 tbsp → **25g**, water 2 tbsp → **30g** and 3 tbsp → **45g**, strawberry sugar 1½ tsp → **6g**. Strawberries set to the low end of the source's range (340g).
 - 2026-10-18: Kenwood balloon whisk replaces the hand mixer for the whites and cream. Tin 20cm and oven 160°C (the source doesn't say fan or conventional).
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Milk and butter bowl); steps refer to it by name. The syrup, cream and gelatin stay as single ingredients weighed at their step: gelatin sets and cream needs to stay cold, so neither can be combined hours ahead. Quantities unchanged.
+- 2026-10-18: cut step 1 down to the tin prep; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.

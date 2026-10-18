@@ -22,11 +22,11 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 
 | Ingredient | Grams |
 |------------|-------|
-| Unsalted butter | 450 |
+| Unsalted butter, cut into small cubes | 450 |
 | Gala apples | 5 (~900g) |
 | Granulated sugar + ground cinnamon, for sprinkling | ~15 + 2 |
 
-### Sugar mix bowl (step 3)
+### Sugar mix bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -35,14 +35,14 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 | Maple syrup | 40 |
 | Fresh ginger, grated | 6 |
 
-### Egg and vanilla bowl (step 4)
+### Egg and vanilla bowl (step 3)
 
 | Ingredient | Grams |
 |------------|-------|
 | Eggs, medium | 2 (100g) |
 | Vanilla extract | 5 |
 
-### Dry mix bowl (step 5)
+### Dry mix bowl (step 4)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -55,49 +55,44 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 
 ## Method
 
-1. **Cube the butter, whisk the dry mix** · 10 min
-
-   Large bowl: the butter (**450g**), cut into small cubes. Whisk the dry mix bowl together until evenly mixed.
-
-   ![Mixing bowl](../images/nutmeg-ginger-apple-snaps/img-5703.jpg)
-   ![Grating the ginger](../images/nutmeg-ginger-apple-snaps/img-5706.jpg)
-   ![Sugar mixture](../images/nutmeg-ginger-apple-snaps/img-5707.jpg)
-   ![Flour mixture](../images/nutmeg-ginger-apple-snaps/img-5705.jpg)
-
-2. **Cream the butter** · 3 min
+1. **Cream the butter** · 3 min
 
    Cream the cubed butter (**450g**) in the large bowl with a spatula or whisk until smooth.
 
+   ![Mixing bowl](../images/nutmeg-ginger-apple-snaps/img-5703.jpg)
    ![Creamed butter](../images/nutmeg-ginger-apple-snaps/img-5713.jpg)
 
-3. **Add the sugar mixture** · 3 min
+2. **Add the sugar mixture** · 3 min
 
    Add the sugar mix bowl to the butter and whisk together until fluffy.
 
+   ![Grating the ginger](../images/nutmeg-ginger-apple-snaps/img-5706.jpg)
+   ![Sugar mixture](../images/nutmeg-ginger-apple-snaps/img-5707.jpg)
    ![Adding the sugar mixture](../images/nutmeg-ginger-apple-snaps/img-5715.jpg)
    ![Whisked fluffy](../images/nutmeg-ginger-apple-snaps/img-5718.jpg)
 
-4. **Eggs and vanilla** · 2 min
+3. **Eggs and vanilla** · 2 min
 
    Add the egg and vanilla bowl. Beat until fully blended.
 
    ![Eggs and vanilla in](../images/nutmeg-ginger-apple-snaps/img-5720.jpg)
 
-5. **Flour in thirds** · 5 min
+4. **Flour in thirds** · 5 min
 
-   Add a third of the dry mix bowl and mix until fully blended. Repeat twice more until it's all in.
+   Whisk the dry mix bowl until evenly mixed, then add a third of it and mix until fully blended. Repeat twice more until it's all in.
 
+   ![Flour mixture](../images/nutmeg-ginger-apple-snaps/img-5705.jpg)
    ![First third of flour](../images/nutmeg-ginger-apple-snaps/img-5721.jpg)
    ![Finished dough](../images/nutmeg-ginger-apple-snaps/img-5723.jpg)
 
-6. **Oven on, prep the apples** · 10 min
+5. **Oven on, prep the apples** · 10 min
 
    Oven to 160°C. Wash the 5 gala apples (**~900g**), cut off tops and bottoms, and slice as thinly as you can — crosswise, so the star of the core shows in the middle of each slice.
 
    ![Topped and tailed](../images/nutmeg-ginger-apple-snaps/img-5724.jpg)
    ![Thin crosswise slices](../images/nutmeg-ginger-apple-snaps/img-5725.jpg)
 
-7. **Scoop, ball, press** · 15 min
+6. **Scoop, ball, press** · 15 min
 
    Scoop slightly more than a tablespoon of dough, shape into a ball on a lightly floured board, place on a lined baking tray and press down with an apple slice until the dough just peeks around the edges of the slice. Repeat until the dough is used up.
 
@@ -106,25 +101,25 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
    ![Pressed under an apple slice](../images/nutmeg-ginger-apple-snaps/img-5729.jpg)
    ![A full tray](../images/nutmeg-ginger-apple-snaps/dscf2409.jpg)
 
-8. **Sprinkle** · 2 min
+7. **Sprinkle** · 2 min
 
    Sprinkle each cookie with granulated sugar (**~15g** across the batch) and a little ground cinnamon (**~2g**).
 
    ![Sugared and ready](../images/nutmeg-ginger-apple-snaps/dscf2450.jpg)
 
-9. **Bake** · 15 min
+8. **Bake** · 15 min
 
    Into the oven for about 15 minutes, until browned at the edges.
 
    ![Just baked](../images/nutmeg-ginger-apple-snaps/img-5731.jpg)
 
-10. **Finish and cool** · 10 min
+9. **Finish and cool** · 10 min
 
-    Sprinkle a little extra granulated sugar over for decoration, then cool on a rack.
+   Sprinkle a little extra granulated sugar over for decoration, then cool on a rack.
 
-    ![Extra sugar](../images/nutmeg-ginger-apple-snaps/dscf2465.jpg)
-    ![Cooling](../images/nutmeg-ginger-apple-snaps/img-5732.jpg)
-    ![Eat!](../images/nutmeg-ginger-apple-snaps/dscf2478.jpg)
+   ![Extra sugar](../images/nutmeg-ginger-apple-snaps/dscf2465.jpg)
+   ![Cooling](../images/nutmeg-ginger-apple-snaps/img-5732.jpg)
+   ![Eat!](../images/nutmeg-ginger-apple-snaps/dscf2478.jpg)
 
 ## Tips
 
@@ -136,3 +131,4 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 
 - 2026-09-27: imported from Notion export with step photos. Used the full "Amount" column of the Notion ingredients table (¾-scale column noted in Tips). Eggs 2 medium ≈ 100g, 5 gala apples ≈ 900g; sprinkling sugar/cinnamon estimated (not in the Notion table). Photos compressed to max 400px.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Sugar mix bowl, Egg and vanilla bowl, Dry mix bowl); steps refer to them by name. Quantities unchanged.
+- 2026-10-18: removed the prep step and moved its photos into the steps they show; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.

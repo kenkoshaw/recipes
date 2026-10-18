@@ -18,18 +18,19 @@ Same-day bagels made the classic way: the dough is shaped into rings and boiled 
 
 | Ingredient | Grams |
 |------------|-------|
-| Warm water, 40–46°C (may need up to ~60 more) | 300ml (300g) |
+| Warm water, 40–46°C, for the yeast | 120ml (120g) |
+| Warm water, 40–46°C, for the dough (may need up to ~60 more) | 180ml (180g) |
 | Oil, for the bowl and baking sheet | as needed |
 | Toppings, optional (see Tips) | to taste |
 
-### Yeast bowl (step 2)
+### Yeast bowl (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
 | Active dry yeast | 2 tsp (6g) |
 | Granulated sugar | 4½ tsp (19g) |
 
-### Mixer bowl (step 3)
+### Mixer bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -38,53 +39,49 @@ Same-day bagels made the classic way: the dough is shaped into rings and boiled 
 
 ## Method
 
-1. **Prep everything** · 10 min
-
-   Warm the water to 40–46°C and pour it into two jugs: 120ml (**120g**) for the yeast in step 2, and 180ml (**180g**) for the dough in step 3. Of that, 80ml (**80g**) goes in first and the remaining 100ml (**100g**) only as needed. Have up to **60g** of extra flour ready in a bowl for the kneading. Lightly oil a large bowl for the rise and a baking sheet.
-
-2. **Activate the yeast** · 5 min
+1. **Activate the yeast** · 5 min
 
    Tip the yeast bowl into the jug of 120ml (**120g**) warm water. Don't stir. Leave for 5 min, then stir until everything has dissolved.
 
-3. **Mix the dough** · 5 min
+2. **Mix the dough** · 5 min
 
    Make a well in the mixer bowl. Fit the dough hook, pour in the yeast mixture and the first 80ml (**80g**) of the dough water and mix on the lowest speed. Add the rest of the water (up to 100ml, **100g**, and a little more if it still needs it) a bit at a time, until the dough is moist and firm.
 
-4. **Knead** · 5–6 min
+3. **Knead** · 5–6 min
 
    Keep the Kenwood on its lowest speed for about 5–6 min, until the dough is smooth and elastic. If it's sticky, work in some of the extra flour (up to **60g**) to get a firm, stiff dough.
 
-5. **First rise** · 1 hr 10
+4. **First rise** · 1 hr 10
 
    Brush the large bowl lightly with oil, turn the dough in it to coat and cover with a damp dish towel. Leave in a warm place for 1 hour, until doubled in size. Punch it down and rest for another 10 min.
 
-6. **Divide and shape into balls** · 10 min
+5. **Divide and shape into balls** · 10 min
 
    Divide the dough into 8 pieces. Weighing is optional, but each is about **95g** from the **~760g** of dough. Shape each into a round. Cup your hand over a piece and press it gently against the unfloured worktop, moving your hand and the dough in a slow circle so the dough pulls into itself. Ease the pressure on top as you go, until you have a smooth round ball. Repeat with the rest, using no extra flour.
 
-7. **Form the rings** · 5 min
+6. **Form the rings** · 5 min
 
-   Coat a finger in flour and press it into the centre of each ball to make a ring. Stretch the ring to about a third of the diameter of the bagel and put it on the lightly oiled baking sheet. Repeat with the rest.
+   Coat a finger in flour and press it into the centre of each ball to make a ring. Stretch the ring to about a third of the diameter of the bagel and put it on a lightly oiled baking sheet. Repeat with the rest.
 
-8. **Rest and heat the oven** · 10 min
+7. **Rest and heat the oven** · 10 min
 
    Cover the bagels with a damp kitchen towel and rest for 10 min. Meanwhile, heat the oven to 220°C (gas 7), and bring a large pot of water to the boil, then turn the heat down to a simmer.
 
-9. **Boil** · 10 min
+8. **Boil** · 10 min
 
    Lower the bagels into the water with a slotted spoon or skimmer, without crowding the pot. They float to the top within a couple of seconds. Leave them for 1 min, then flip and boil for another 1 min. For a chewier, more New York-style bagel, boil for 2 min each side.
 
-10. **Top and bake** · 20–25 min
+9. **Top and bake** · 20–25 min
 
-    If you want toppings, add them as the bagels come out of the water, or brush with beaten egg first so they stick. Put the bagels on an oiled or parchment-lined baking sheet and bake for 20–25 min, until golden brown. The source usually errs towards 20 min.
+   If you want toppings, add them as the bagels come out of the water, or brush with beaten egg first so they stick. Put the bagels on an oiled or parchment-lined baking sheet and bake for 20–25 min, until golden brown. The source usually errs towards 20 min.
 
-11. **Cool** · 5 min
+10. **Cool** · 5 min
 
     Cool on a wire rack. Slice and spread with cream cheese or softened butter.
 
 ## Tips
 
-- **Kenwood use**: the dough hook on the lowest speed for about 5–6 min (steps 3–4), from the source's stand mixer instructions. It's written for a single batch; for a double batch the source says to check your manufacturer's instructions first, as the mixer may not cope.
+- **Kenwood use**: the dough hook on the lowest speed for about 5–6 min (steps 2–3), from the source's stand mixer instructions. It's written for a single batch; for a double batch the source says to check your manufacturer's instructions first, as the mixer may not cope.
 - **Water**: the amount is a guide. The dough should be moist, firm and smooth. Add extra water while mixing, not after the dough has risen (from the source).
 - **Flour**: all-purpose flour works too but gives less chew (from the source).
 - **Ready to shape**: poke the risen dough with a finger. If the dent stays, it's risen enough; if it bounces back, it needs longer (from the source).
@@ -96,3 +93,4 @@ Same-day bagels made the classic way: the dough is shaped into rings and boiled 
 - 2026-10-18: imported from sophisticatedgourmet.com using the source's metric weights for the flour, salt, sugar and yeast. The warm water (300ml) is kept as **300g**, split **120g** for the yeast, **80g** first and **100g** as needed, which is how the card splits the ml. The **~95g** per piece is worked out from the ingredient total, and ~40 min active is an estimate from the card's prep and cook times.
 - 2026-10-18: the Kenwood dough hook (lowest speed, 5–6 min) comes from the article's stand mixer text; the recipe card itself gives 10 min of hand kneading. Oil and toppings have no amounts in the source.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Yeast bowl, Mixer bowl); steps refer to them by name. Quantities unchanged.
+- 2026-10-18: removed the prep step (the warm water is now two rows, for the yeast and for the dough); the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.

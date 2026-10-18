@@ -21,14 +21,14 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 | Unsalted butter | 226 |
 | Flaky or coarse salt, to finish | 4 |
 
-### Sugar bowl (step 2)
+### Sugar bowl (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
 | Light brown sugar | 180 |
 | Caster sugar | 100 |
 
-### Wet jug (step 5)
+### Wet jug (step 4)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -36,7 +36,7 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 | Strong brewed coffee or espresso, cooled | 15 |
 | Vanilla extract | 8 |
 
-### Dry mix bowl (step 6)
+### Dry mix bowl (step 5)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -44,7 +44,7 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 | Fine salt | 6 |
 | Bicarbonate of soda | 3.5 |
 
-### Chocolate bowl (step 7)
+### Chocolate bowl (step 6)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -53,45 +53,41 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 
 ## Method
 
-1. **Prep the chocolate, egg and bowl** · 10 min
+1. **Brown the butter** · 10 min
 
-   Chop the chocolate bar into irregular shards on a board, tip them into the chocolate bowl with the chips, and chill. Note the weight of the sugar bowl on the scale. Beat 1 whole egg plus 1 yolk and weigh out **59g** into the wet jug.
+   Melt the butter (**226g**) in a wide, light-coloured pan over medium heat, swirling. It foams loudly as the water boils off, then goes quiet with a fine dense foam — swirl constantly from that point. The milk solids at the bottom turn tan, then amber, and it smells nutty. That's 30 seconds from done. Off the heat immediately. Note the weight of the sugar bowl on the scale, then pour the butter in, scraping every brown speck out.
 
-2. **Brown the butter** · 10 min
-
-   Melt the butter (**226g**) in a wide, light-coloured pan over medium heat, swirling. It foams loudly as the water boils off, then goes quiet with a fine dense foam — swirl constantly from that point. The milk solids at the bottom turn tan, then amber, and it smells nutty. That's 30 seconds from done. Off the heat immediately and pour into the sugar bowl, scraping every brown speck out.
-
-3. **Top up and cool** · 20 min
+2. **Top up and cool** · 20 min
 
    Browning drives off 30-40g of water. With the bowl on the scale, add cold water until the total reads the bowl's starting weight plus **226g**. Leave until just warm, not hot, or it will scramble the egg.
 
-4. **Sugars** · 2 min
+3. **Sugars** · 2 min
 
    Whisk the butter and sugars together for a full minute, until smooth and glossy. This dissolves the sugar and gives the crackly top.
 
-5. **Wet ingredients** · 2 min
+4. **Wet ingredients** · 2 min
 
    Whisk in the wet jug. Whisk hard for 30 seconds until it thickens slightly and lightens in colour.
 
-6. **Dry ingredients** · 2 min
+5. **Dry ingredients** · 2 min
 
    Add the dry mix bowl and fold with a spatula until a few floury streaks remain. Don't beat it.
 
-7. **Chocolate** · 2 min
+6. **Chocolate** · 2 min
 
    Fold in the chilled chocolate bowl, tipping in the dust from the board as well. Chilled shards stay as shards; warm ones smear.
 
-8. **Chill** · 1 hr minimum
+7. **Chill** · 1 hr minimum
 
    Cover and refrigerate at least 1 hour. 24-36 hours is noticeably better for flavour and gives less spread.
 
-9. **Bake** · 12 min
+8. **Bake** · 12 min
 
    Heat the oven to 175°C fan / 190°C conventional. Scoop 40g balls onto a cool, paper-lined tray, 8 per tray, well spaced. Bake 11-13 minutes — edges set, centres still looking underdone.
 
-10. **Finish** · 5 min
+9. **Finish** · 5 min
 
-    Sprinkle with flaky salt (**4g** across the batch) straight from the oven. Bang the tray once on the worktop for ripples. Cool 5 minutes on the tray before moving to a rack.
+   Sprinkle with flaky salt (**4g** across the batch) straight from the oven. Bang the tray once on the worktop for ripples. Cool 5 minutes on the tray before moving to a rack.
 
 ## Tips
 
@@ -102,9 +98,11 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 - **Pink Himalayan salt: weigh it, don't measure by volume.** It's ~98% NaCl like table salt, but coarse crystals pack much lighter per spoon. Grind it or dissolve it into the coffee if it's coarse.
 - **Baking powder omitted.** The original called for 1/4 tsp at this scale, which is negligible. Don't increase the bicarb to compensate — more bicarb means more spread and a soapy edge.
 - **Freeze the surplus as dough balls**, not as baked cookies. Scoop, freeze on a tray, bag. Bake from frozen, adding 2 minutes.
-- **For more toffee depth with light brown sugar**, whisk 2 tsp black treacle into the warm butter at step 4. That roughly closes the molasses gap to dark brown sugar.
+- **For more toffee depth with light brown sugar**, whisk 2 tsp black treacle into the warm butter at step 3. That roughly closes the molasses gap to dark brown sugar.
+- Keep the chocolate bowl in the fridge until you fold it in.
 
 ## Adjustment Log
 
 - 2026-09-27: Created as a half batch of the original 48-50 cookie recipe. Butter 4 sticks salted → **226g** unsalted, with the butter's ~3.5g salt folded into the **6g** fine salt total. Milk **15g** → brewed coffee **15g**. Dark brown sugar → light brown (what was in the cupboard); treacle noted as optional in Tips. Baking powder **1.25g** dropped — none in the cupboard and negligible at this scale. Chocolate **170g** → **200g** to use up what was open. Added the browned-butter water top-up step, which the source omits.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Sugar bowl, Wet jug, Dry mix bowl, Chocolate bowl); steps refer to them by name. Quantities unchanged.
+- 2026-10-18: removed the prep step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.

@@ -25,7 +25,7 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 | Jam, to serve | to taste |
 | Clotted cream, to serve | to taste |
 
-### Mixer bowl (step 3)
+### Mixer bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -33,7 +33,7 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 | Baking powder | 1 tsp (4g) |
 | Salt | ¼ tsp (~1.5g) |
 
-### Flavouring bowl (step 5)
+### Flavouring bowl (step 4)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -42,45 +42,41 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 
 ## Method
 
-1. **Prep everything** · 10 min
-
-   Cube the butter (**85g**) into a small bowl for step 4 and weigh 3 tbsp (**~38g**) caster sugar into another. Pour 175ml (**180g**) milk into a jug for step 5. Beat the egg (**~25g**) in a cup for the glaze. Keep some extra flour aside for dusting.
-
-2. **Heat the oven and tray** · 10 min
+1. **Heat the oven and tray** · 10 min
 
    Heat the oven to 220°C (200°C fan). Put a baking tray in to heat up.
 
-3. **Mix the dry ingredients** · 1 min
+2. **Mix the dry ingredients** · 1 min
 
    Fit the K-beater and mix the mixer bowl on low until combined.
 
-4. **Rub in the butter** · 3 min
+3. **Rub in the butter** · 3 min
 
    Add the butter (**85g**) and mix on low until the mixture looks like fine crumbs, checking it often. Stop as soon as it does. Stir in 3 tbsp (**~38g**) caster sugar.
 
-5. **Warm the milk** · 2 min
+4. **Warm the milk** · 2 min
 
    Microwave the 175ml (**180g**) milk in the jug for about 30 secs, until warm but not hot. Stir in the flavouring bowl and set aside for a moment.
 
-6. **Mix the dough** · 2 min
+5. **Mix the dough** · 2 min
 
    Take the bowl off the Kenwood. Make a well in the dry mix, pour in the milk mixture and combine it quickly with a cutlery knife. It will seem pretty wet at first.
 
-7. **Fold and cut** · 10 min
+6. **Fold and cut** · 10 min
 
    Scatter some flour onto the work surface and tip the dough out. Dredge the dough and your hands with a little more flour and fold the dough over 2–3 times until it's a little smoother. Pat it into a round about 4cm deep. Dip a 5cm cutter in flour and plunge it into the dough, repeating until you have four scones. Press what's left of the dough back into a round and cut out another four.
 
-8. **Glaze and bake** · 10 min
+7. **Glaze and bake** · 10 min
 
    Brush the tops with the beaten egg (**~25g**) and carefully arrange the scones on the hot baking tray. Bake for 10 min, until risen and golden on top.
 
-9. **Serve** · 5 min
+8. **Serve** · 5 min
 
    Eat just warm, or cold on the day of baking, generously topped with jam and clotted cream.
 
 ## Tips
 
-- **Kenwood use**: the K-beater on low mixes the dry ingredients and rubs in the butter (steps 3–4). The wet mix and the folding stay by hand, since the source says scones are like soda bread and turn tough when over-handled.
+- **Kenwood use**: the K-beater on low mixes the dry ingredients and rubs in the butter (steps 2–3). The wet mix and the folding stay by hand, since the source says scones are like soda bread and turn tough when over-handled.
 - **Lemon juice**: it acts as a buttermilk substitute and boosts the raising agents. Use buttermilk if you can get it, or apple cider vinegar in a pinch (from the source).
 - **Warm milk**: a tip from the source for light scones that rise every time.
 - **Tall scones**: pat the dough out a bit thicker than you think you should. A hot baking tray kick-starts the rise, and don't leave the dough sitting around (from the source).
@@ -93,3 +89,4 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 - 2026-10-18: imported from bbcgoodfood.com and converted to grams. The source gives some amounts by spoon or in ml, so these are estimates: ¼ tsp salt **~1.5g**, 1 tsp baking powder **4g**, 3 tbsp caster sugar **~38g**, 175ml milk **180g**, 1 tsp vanilla **5g**, a squeeze of lemon juice **~5g**. The source gives no amount for the egg glaze (**~25g**) or for the jam and clotted cream.
 - 2026-10-18: Kenwood K-beater replaces rubbing the butter in by fingers. The source gives a 15 min total time and no active time, so ~10 min active is an estimate.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Mixer bowl, Flavouring bowl); steps refer to them by name. Quantities unchanged.
+- 2026-10-18: removed the prep step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.

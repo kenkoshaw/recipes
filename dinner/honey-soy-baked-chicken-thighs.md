@@ -18,12 +18,12 @@ Skinless boneless chicken thighs marinated in a honey soy sauce, baked, then bro
 
 | Ingredient | Grams |
 |------------|-------|
-| Skinless boneless chicken thighs | 1200 |
+| Skinless boneless chicken thighs, patted dry and trimmed of excess fat | 1200 |
 | Salt, to season | 1 pinch (~1g) |
 | Black pepper, to season | 1 pinch (~1g) |
 | Fresh parsley, chopped, to garnish | 1 pinch (~1g) |
 
-### Marinade bowl (step 2)
+### Marinade bowl (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -38,31 +38,23 @@ Skinless boneless chicken thighs marinated in a honey soy sauce, baked, then bro
 
 ## Method
 
-1. **Prep the chicken and parsley** · 5 min
+1. **Marinate the chicken** · 30 min–overnight
 
-   Pat the chicken thighs (**1200g**) dry with paper towel and trim off any excess fat. Chop 1 pinch (**~1g**) of parsley for the garnish and set it aside.
+   Mix the marinade bowl well. Season the chicken (**1200g**) with 1 pinch (**~1g**) of salt and 1 pinch (**~1g**) of pepper, then put it in the marinade bowl. Cover and marinate for at least 30 min if you have time, or overnight.
 
-2. **Make the marinade** · 2 min
-
-   Mix the marinade bowl well and set aside.
-
-3. **Marinate the chicken** · 30 min–overnight
-
-   Season the chicken (**1200g**) with 1 pinch (**~1g**) of salt and 1 pinch (**~1g**) of pepper, then put it in the marinade bowl. Cover and marinate for at least 30 min if you have time, or overnight.
-
-4. **Heat the oven, load the pan** · 5 min
+2. **Heat the oven, load the pan** · 5 min
 
    Heat the oven to 220°C. Spray a little vegetable oil into a cast iron skillet or baking dish so the honey doesn't make the chicken stick. Tip in the chicken along with all the marinade.
 
-5. **Bake** · 20–25 min
+3. **Bake** · 20–25 min
 
    Bake for 20–25 min, flipping the chicken twice while it bakes so the tops don't dry out.
 
-6. **Broil** · 5 min
+4. **Broil** · 5 min
 
    Broil at high heat for 5 min, until golden brown and slightly charred at the edges. The chicken should reach an internal temperature of 70°C.
 
-7. **Garnish and serve** · 2 min
+5. **Garnish and serve** · 2 min
 
    Scatter 1 pinch (**~1g**) of parsley over the chicken, and sesame seeds too if you like. Serve with the pan juices over steamed rice, cauliflower rice, zucchini noodles, regular noodles or mashed potatoes.
 
@@ -77,3 +69,4 @@ Skinless boneless chicken thighs marinated in a honey soy sauce, baked, then bro
 
 - 2026-10-18: imported from cafedelites.com using the source's metric weights, with the chicken at **1200g** (1.2kg). The source gives honey (90ml), soy sauce (65ml) and oil (40ml) in ml, converted by density to **~128g**, **~75g** and **~37g**. The pinches of salt, pepper and parsley are **~1g** each. The source gives no active time, so ~15 min is an estimate. Total 1 hr 5 includes the 30 min marinade.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Marinade bowl); steps refer to them by name. Quantities unchanged.
+- 2026-10-18: removed the chicken prep step and merged mixing the marinade into marinating; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.
