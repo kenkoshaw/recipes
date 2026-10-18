@@ -10,7 +10,7 @@ command -v exiftool >/dev/null || { echo "exiftool missing: brew install exiftoo
 
 if [ $# -eq 0 ]; then
   files=()
-  while IFS= read -r f; do files+=("$f"); done < <(find images -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.heic' \))
+  while IFS= read -r f; do files+=("$f"); done < <(find images -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.heic' -o -iname '*.webp' \))
   set -- "${files[@]}"
 fi
 

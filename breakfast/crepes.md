@@ -5,6 +5,7 @@ source: own recipe
 servings: 4
 tags: [crepes, pancakes, double-cream]
 last_made: 2026-09-27
+thumbnail: ../images/crepes/crepes.jpg
 ---
 
 # Crêpes
