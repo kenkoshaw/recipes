@@ -123,6 +123,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 
 - [Baked Camembert with Garlic Honey and Walnuts](dinner/baked-camembert-with-garlic-honey-and-walnuts.md) — sharing starter
 - [Gazpacho](dinner/gazpacho.md) — cold Andalusian tomato soup, cucumber garnish
+- [Honey Soy Baked Chicken Thighs](dinner/honey-soy-baked-chicken-thighs.md) — marinated, baked then broiled
 - [Quick Peri Peri Marinade](dinner/quick-peri-peri-marinade.md) — for 1kg chicken or veg
 - [Sicilian Prawn and Tomato Spaghetti](dinner/sicilian-prawn-and-tomato-spaghetti.md) — anchovy toast on the side
 - [Tori-jaga](dinner/tori-jaga.md) — soy-braised chicken and potato, no mirin/sake
