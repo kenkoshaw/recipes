@@ -112,6 +112,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 - [Brioche Burger Buns](bread/brioche-burger-buns.md) — proper version, overnight prove option
 - [Fast Burger Buns](bread/brioche-burger-buns-fast.md) — 90-minute version
 - [Butter Rolls](bread/butter-rolls.md) — soft Japanese-style rolls, freezable
+- [Melon Pan](bread/melon-pan.md) — cookie-crust Japanese sweet bread, Kenwood-kneaded
 
 **Breakfast**
 
