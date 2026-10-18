@@ -46,11 +46,11 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 
 1. **Thin the cream** · 2 min
 
-   Whisk the double cream (**75g**) into the water (**225g**) in a jug until uniform. This lands at roughly 6% fat, standing in for 300g of milk. Combining them first prevents lumps later. If whipped cream is going on top, do step 7 before this — diluted cream will not whip, and it is easier to keep the two lots of cream separate from the start.
+   Whisk the double cream (**75g**) into the water (**225g**) in a jug until uniform. This lands at roughly 6% fat, standing in for 300g of milk. Combining them first prevents lumps later. Put a small cup on the scale, zero it, and pour **50g** of the mixture into it to hold back for step 4. If whipped cream is going on top, do step 7 before this — diluted cream will not whip, and it is easier to keep the two lots of cream separate from the start.
 
 2. **Make the batter** · 5 min
 
-   Whisk the dry mix bowl together, make a well, and beat in 2 medium eggs (**100g**). Add the cream-and-water mixture in three stages, whisking smooth between each, holding back the last **50g**. Cue: single-cream consistency — coats the back of a spoon, then runs straight off.
+   Whisk the dry mix bowl together, make a well, and beat in 2 medium eggs (**100g**). Add the rest of the cream-and-water mixture in three stages, whisking smooth between each. Cue: single-cream consistency — coats the back of a spoon, then runs straight off.
 
 3. **Rest the batter** · 30 min
 
@@ -58,7 +58,7 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 
 4. **Recheck and loosen** · 1 min
 
-   Stir, then add the reserved liquid (**50g**) a splash at a time until it flows again. Too thin is easier to correct than too thick.
+   Stir, then add the held-back cup (**50g**) a splash at a time until it flows again. Too thin is easier to correct than too thick.
 
 5. **Cook the crêpes** · 15 min
 
@@ -91,3 +91,4 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 - 2026-09-27: Restructured as a plain crêpe recipe with sugar-and-lemon, whipped cream and golden syrup moved to optional steps 6–8. Previously written as a lemon-and-sugar recipe with the toppings baked into the core method.
 - 2026-09-27: Initial version. Milk replaced with double cream and water at 1:3 by volume (75g cream : 225g water), and the melted butter dropped from the batter since the cream already carries the fat.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Dry mix bowl, Cream flavouring bowl); steps refer to them by name. Quantities unchanged.
+- 2026-10-18: the **50g** held back is now poured into a cup on a zeroed scale in step 1, instead of judged while pouring in step 2. Quantities unchanged.

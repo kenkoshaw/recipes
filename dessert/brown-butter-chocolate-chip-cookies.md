@@ -55,11 +55,11 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 
 1. **Brown the butter** · 10 min
 
-   Melt the butter (**226g**) in a wide, light-coloured pan over medium heat, swirling. It foams loudly as the water boils off, then goes quiet with a fine dense foam — swirl constantly from that point. The milk solids at the bottom turn tan, then amber, and it smells nutty. That's 30 seconds from done. Off the heat immediately. Note the weight of the sugar bowl on the scale, then pour the butter in, scraping every brown speck out.
+   Melt the butter (**226g**) in a wide, light-coloured pan over medium heat, swirling. It foams loudly as the water boils off, then goes quiet with a fine dense foam — swirl constantly from that point. The milk solids at the bottom turn tan, then amber, and it smells nutty. That's 30 seconds from done. Off the heat immediately. Put the sugar bowl on the scale and zero it, then pour the butter in, scraping every brown speck out.
 
 2. **Top up and cool** · 20 min
 
-   Browning drives off 30-40g of water. With the bowl on the scale, add cold water until the total reads the bowl's starting weight plus **226g**. Leave until just warm, not hot, or it will scramble the egg.
+   Browning drives off 30-40g of water. With the bowl still on the zeroed scale, add cold water until it reads **226g**, the weight of butter you started with. Leave until just warm, not hot, or it will scramble the egg.
 
 3. **Sugars** · 2 min
 
@@ -106,3 +106,4 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 - 2026-09-27: Created as a half batch of the original 48-50 cookie recipe. Butter 4 sticks salted → **226g** unsalted, with the butter's ~3.5g salt folded into the **6g** fine salt total. Milk **15g** → brewed coffee **15g**. Dark brown sugar → light brown (what was in the cupboard); treacle noted as optional in Tips. Baking powder **1.25g** dropped — none in the cupboard and negligible at this scale. Chocolate **170g** → **200g** to use up what was open. Added the browned-butter water top-up step, which the source omits.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Sugar bowl, Wet jug, Dry mix bowl, Chocolate bowl); steps refer to them by name. Quantities unchanged.
 - 2026-10-18: removed the prep step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.
+- 2026-10-18: top-up step now zeroes the scale with the sugar bowl on it, so the target is the butter weight (**226g**) rather than a noted bowl weight. Quantities unchanged.
