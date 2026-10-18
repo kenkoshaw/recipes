@@ -5,6 +5,7 @@ source: own recipe
 servings: 2
 tags: [japanese, chicken, one-pan, braise, weeknight, nikujaga]
 last_made: 2026-09-27
+thumbnail: ../images/tori-jaga/tori-jaga.jpg
 ---
 
 # Tori-jaga
