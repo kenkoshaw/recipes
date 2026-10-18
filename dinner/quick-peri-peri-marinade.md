@@ -5,6 +5,7 @@ source: own recipe (Notion)
 servings: enough for 1kg chicken or veg
 tags: [marinade, chicken, spicy, bbq]
 last_made: 2026-09-27
+thumbnail: ../images/quick-peri-peri-marinade/thumbnail.jpg
 ---
 
 # Quick Peri Peri Marinade

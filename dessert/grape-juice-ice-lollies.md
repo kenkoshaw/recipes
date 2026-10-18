@@ -5,6 +5,7 @@ source: own recipe
 servings: 3
 tags: [frozen, no-bake, kids, quick]
 last_made: 2026-09-27
+thumbnail: ../images/grape-juice-ice-lollies/thumbnail.jpg
 ---
 
 # Grape Juice Ice Lollies
