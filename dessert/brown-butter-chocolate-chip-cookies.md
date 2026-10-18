@@ -5,6 +5,7 @@ source: social media screenshot — no URL
 servings: 27
 tags: [cookies, brown-butter, chocolate, baking]
 last_made: 2026-09-27
+thumbnail: ../images/brown-butter-chocolate-chip-cookies/cookies.jpg
 ---
 
 # Brown Butter Chocolate Chip Cookies
