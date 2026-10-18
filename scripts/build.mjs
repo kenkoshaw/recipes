@@ -63,7 +63,8 @@ function parseIngredients(text) {
   return rows;
 }
 
-// Ingredients section = the full table, then optional "### Bowl A — label (step N)" sub-sections.
+// Ingredients section = a table of ingredients used on their own, then optional
+// "### Aromatics bowl (step N)" sub-sections holding the ingredients that go in together.
 function parseIngredientSection(text) {
   const [main, ...bowlParts] = text.split(/^### +/m);
   const bowls = bowlParts.map((part) => {
@@ -79,9 +80,15 @@ function parseIngredientSection(text) {
   return { ingredients: parseIngredients(main), bowls };
 }
 
-const bowlRefs = (html) => html.replace(/\bBowl ([A-Z])\b/g, '<span class="bowl-ref">Bowl $1</span>');
+const escapeRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+// Wrap each mention of a bowl's name in step text; longest names first so "dry mix bowl" can't match inside "biscuit dry mix bowl".
+function bowlRefs(html, names) {
+  if (!names.length) return html;
+  const re = new RegExp(`\\b(${[...names].sort((a, b) => b.length - a.length).map(escapeRe).join('|')})\\b`, 'gi');
+  return html.replace(re, '<span class="bowl-ref">$1</span>');
+}
 
-function parseMethod(text) {
+function parseMethod(text, bowlNames = []) {
   const items = text.split(/^\d+\.\s+/m).slice(1);
   return items.map((item) => {
     const [first, ...rest] = item.split('\n');
@@ -90,7 +97,7 @@ function parseMethod(text) {
     return {
       title: t ? t[1] : mdInline(first),
       time: t && t[2] ? t[2].trim() : '',
-      html: bowlRefs(md(t ? body : item)),
+      html: bowlRefs(md(t ? body : item), bowlNames),
     };
   });
 }
@@ -124,7 +131,7 @@ async function loadRecipe(category, file) {
     image,
     ingredients: ing.ingredients,
     bowls: ing.bowls,
-    steps: parseMethod(s.method || ''),
+    steps: parseMethod(s.method || '', ing.bowls.map((b) => b.title.replace(/<[^>]+>/g, ''))),
     tips: s.tips ? md(s.tips) : '',
     log: s['adjustment log'] ? md(s['adjustment log']) : '',
     extra: Object.entries(s).filter(([k]) => !known.has(k)).map(([k, v]) => ({ title: k, html: md(v) })),

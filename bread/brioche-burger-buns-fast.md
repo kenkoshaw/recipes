@@ -18,24 +18,17 @@ Quick version of [brioche burger buns](brioche-burger-buns.md). Trade-off: crumb
 
 | Ingredient | Grams |
 |------------|-------|
-| Strong white bread flour | 500 |
-| Whole milk, warm (~38°C) | 250ml (250g) |
-| Fast-action dried yeast | 14 |
-| Caster sugar | 40 |
-| Fine salt | 9 |
-| Large egg | 1 (55g) |
-| Unsalted butter, melted and cooled slightly | 70 |
 | Large egg, for the glaze | 1 (55g) |
 | Sesame seeds | 2 tbsp (18g) |
 
-### Bowl A — yeast and milk (step 1)
+### Yeast jug (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
 | Fast-action dried yeast | 14 |
 | Whole milk, warm (~38°C) | 250ml (250g) |
 
-### Bowl B — flour, sugar and salt, weighed straight into the mixer bowl (step 2)
+### Mixer bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -43,7 +36,7 @@ Quick version of [brioche burger buns](brioche-burger-buns.md). Trade-off: crumb
 | Caster sugar | 40 |
 | Fine salt | 9 |
 
-### Bowl C — egg and melted butter (step 2)
+### Egg and butter jug (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -54,11 +47,11 @@ Quick version of [brioche burger buns](brioche-burger-buns.md). Trade-off: crumb
 
 1. **Wake the yeast** · 5 min
 
-   Whisk Bowl A (yeast **14g** and 250ml (**250g**) warm milk, ~38°C) together with a pinch of the sugar from Bowl B. Leave until lively and foamy.
+   Whisk the yeast jug together with a pinch of the sugar from the mixer bowl. Leave until lively and foamy.
 
 2. **Mix and knead** · 8 min
 
-   Bowl B (flour **500g**, remaining sugar **~40g** and salt **9g**) is in the mixer. Add the yeasted milk and Bowl C (1 egg **55g** and melted butter **70g**) all at once. Knead on medium until smooth and elastic — 8 min in a mixer, 10 by hand. Tacky but shouldn't stick to a clean finger.
+   Fit the mixer bowl to the mixer. Add the yeasted milk and the egg and butter jug all at once. Knead on medium until smooth and elastic — 8 min in a mixer, 10 by hand. Tacky but shouldn't stick to a clean finger.
 
 3. **Divide and shape** · 5 min
 
@@ -84,4 +77,4 @@ Quick version of [brioche burger buns](brioche-burger-buns.md). Trade-off: crumb
 ## Adjustment Log
 
 - 2026-09-27: split out from the combined brioche burger buns note (2026-08-29). Converted to repo format: milk 250ml → 250g, eggs ≈ 55g each, sesame 2 tbsp → 18g.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–C) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Yeast jug, Mixer bowl, Egg and butter jug); steps refer to them by name. Quantities unchanged.

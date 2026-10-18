@@ -18,17 +18,10 @@ Soft Japanese-style enriched rolls, scaled up to use a full 7g yeast packet. The
 
 | Ingredient | Grams |
 |------------|-------|
-| Strong white bread flour | 467 |
-| Caster sugar | 47 |
-| Salt | 7 |
-| Fast-action dried yeast | 7 |
-| Egg | 1 large (58g) |
-| Water | 152 |
-| Milk | 117 |
 | Unsalted butter, softened | 58 |
 | Egg wash (1 egg + 1 tbsp milk + pinch of salt) | ~20 |
 
-### Bowl A — flour, sugar, salt and yeast, weighed straight into the large mixing bowl (step 1)
+### Dry mix bowl (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -37,7 +30,7 @@ Soft Japanese-style enriched rolls, scaled up to use a full 7g yeast packet. The
 | Salt | 7 |
 | Fast-action dried yeast | 7 |
 
-### Bowl B — egg, water and milk (step 1)
+### Wet jug (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -49,7 +42,7 @@ Soft Japanese-style enriched rolls, scaled up to use a full 7g yeast packet. The
 
 1. **Mix the dough** · 5 min
 
-   In the large bowl holding Bowl A (flour **467g**, sugar **47g**, salt **7g** and yeast **7g**), keep the salt and yeast on opposite sides of the bowl. Add Bowl B (1 large egg **58g**, water **152g** and milk **117g**), then mix until you have a shaggy dough.
+   In the dry mix bowl, keep the salt and yeast on opposite sides of the bowl. Pour in the wet jug, then mix until you have a shaggy dough.
 
 2. **Knead, then add butter** · 15 min
 
@@ -88,4 +81,4 @@ Soft Japanese-style enriched rolls, scaled up to use a full 7g yeast packet. The
 ## Adjustment Log
 
 - 2026-09-27: Scaled ×2.33 from the original 8-roll recipe (yeast 3g → 7g) to use a full yeast packet. Flour 200 → 467, sugar 20 → 47, salt 3 → 7, egg 25 → 58, water 65 → 152, milk 50 → 117, butter 25 → 58.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–B) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Dry mix bowl, Wet jug); steps refer to them by name. Quantities unchanged.

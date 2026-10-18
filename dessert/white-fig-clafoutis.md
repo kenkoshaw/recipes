@@ -19,31 +19,25 @@ Classic all-milk clafoutis — a soft, custardy baked batter over white figs. Ba
 | Ingredient | Grams |
 |------------|-------|
 | White figs | 5–6 large or 8 medium (350g) |
-| Eggs, large | 5 (280g) |
-| Plain flour | 120 |
-| Caster sugar (batter) | 80 |
-| Whole milk | 400ml (410g) |
-| Vanilla extract | 1 tsp (5g) |
-| Salt | ¼ tsp (1.5g) |
 | Butter, for greasing | 20 |
 | Demerara sugar, for dusting the dish | 20 |
 | Icing sugar, to serve | 5 |
 
-### Bowl A — eggs and caster sugar (step 3)
+### Egg and sugar bowl (step 3)
 
 | Ingredient | Grams |
 |------------|-------|
 | Eggs, large | 5 (280g) |
 | Caster sugar (batter) | 80 |
 
-### Bowl B — flour and salt (step 4)
+### Flour and salt bowl (step 4)
 
 | Ingredient | Grams |
 |------------|-------|
 | Plain flour | 120 |
 | Salt | ¼ tsp (1.5g) |
 
-### Bowl C — milk and vanilla, in a jug (step 4)
+### Milk and vanilla jug (step 4)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -62,11 +56,11 @@ Classic all-milk clafoutis — a soft, custardy baked batter over white figs. Ba
 
 3. **Whisk the base** · 2 min
 
-   Whisk Bowl A (5 large eggs (**280g**) and caster sugar (**80g**)) for 1–2 min until pale and slightly thickened.
+   Whisk the egg and sugar bowl for 1–2 min until pale and slightly thickened.
 
 4. **Make the batter** · 3 min
 
-   Sift in Bowl B (plain flour **120g** and ¼ tsp (**1.5g**) salt), whisk to a smooth thick paste, then gradually whisk in Bowl C (400ml (**410g**) whole milk and 1 tsp (**5g**) vanilla) until smooth and thin — about single-cream consistency. Don't over-whisk once the milk is in, or it souffles up then collapses. Sieve if any lumps remain.
+   Sift in the flour and salt bowl, whisk to a smooth thick paste, then gradually whisk in the milk and vanilla jug until smooth and thin — about single-cream consistency. Don't over-whisk once the milk is in, or it souffles up then collapses. Sieve if any lumps remain.
 
 5. **Rest the batter** · 10 min
 
@@ -94,4 +88,4 @@ Classic all-milk clafoutis — a soft, custardy baked batter over white figs. Ba
 
 - 2026-09-27: sugar 120g → 80g (120 too sweet with ripe white figs).
 - 2026-09-27: removed cream — was 300ml milk + 100ml double cream, now all-milk 400ml (classic method, and none to hand). Slightly less rich, otherwise unchanged.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–C) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Egg and sugar bowl, Flour and salt bowl, Milk and vanilla jug); steps refer to them by name. Quantities unchanged.

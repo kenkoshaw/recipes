@@ -21,21 +21,16 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 | Spaghetti (bronze-die) | 200 |
 | Raw king prawns, peeled, thawed | 300 |
 | Cherry tomatoes, halved | 250 |
-| Garlic cloves, thinly sliced | 15 |
-| Anchovy fillets in oil (standard tin), chopped | 8 |
 | Tomato purée | 15 |
 | Dry white wine | 100 |
 | Olive oil, for the pan | 55 |
 | Extra virgin olive oil, to finish | 15 |
-| Dried chilli flakes | 1 |
-| Curly parsley leaves, finely chopped | 4 |
-| Lemon zest | 1 lemon (4g) |
 | Salt, for the pasta water | 10 |
 | Sourdough or ciabatta, for the side | 100 |
 | Cantabrian anchovy fillets, for the toast | 25 |
 | Garlic, halved, for rubbing the toast | 1 clove (5g) |
 
-### Bowl A — garlic, anchovies and chilli (step 4)
+### Garlic and anchovy bowl (step 4)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -43,7 +38,7 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 | Anchovy fillets in oil (standard tin), chopped | 8 |
 | Dried chilli flakes | 1 |
 
-### Bowl B — parsley and lemon zest (step 12)
+### Parsley and lemon bowl (step 12)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -66,7 +61,7 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 
 4. **Infuse the oil** · 2 min
 
-   Into a cold wide pan: olive oil (**55g**), then tip in Bowl A (thinly sliced garlic (**15g**), chopped anchovies (**8g**) and chilli flakes (**1g**)). Bring up to medium-low and press the anchovies with a wooden spoon until they dissolve completely. Cold start means the garlic infuses rather than fries — pull the pan off the heat if it colours past pale gold.
+   Into a cold wide pan: olive oil (**55g**), then tip in the garlic and anchovy bowl. Bring up to medium-low and press the anchovies with a wooden spoon until they dissolve completely. Cold start means the garlic infuses rather than fries — pull the pan off the heat if it colours past pale gold.
 
 5. **Darken the purée** · 1 min
 
@@ -98,7 +93,7 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 
 12. **Finish** · 1 min
 
-    Off the heat, toss through Bowl B (chopped parsley (**4g**) and the zest of 1 lemon (**4g**)) and the remaining extra virgin olive oil (**15g**). Plate immediately with the anchovy toast alongside.
+    Off the heat, toss through the parsley and lemon bowl and the remaining extra virgin olive oil (**15g**). Plate immediately with the anchovy toast alongside.
 
 ## Tips
 
@@ -114,4 +109,4 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 
 - 2026-09-27: First version, cooked. Dropped saffron (none in the house) — no substitute needed, optionally ½ tsp crushed fennel seeds for the same Sicilian depth. Swapped shell-on prawns for peeled frozen, so the prawn-shell stock step was replaced with tomato purée fried into the base; prawn cook time cut from 3 min to 2 min as peeled cook faster. Dropped the toasted breadcrumbs in favour of anchovy toast on the side, and raised lemon zest from half a lemon to a whole one to compensate for the lost crunch and edge.
 - 2026-10-10: Parsley and lemon zest reduced from 6g to 4g each. Prep step now puts garlic, anchovies and chilli flakes in one small bowl since they go into the pan together.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–B) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Garlic and anchovy bowl, Parsley and lemon bowl); steps refer to them by name. Quantities unchanged.

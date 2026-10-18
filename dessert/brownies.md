@@ -19,24 +19,16 @@ Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-
 | Ingredient | Grams |
 |------------|-------|
 | Unsalted butter, plus more softened for greasing | 283 |
-| Semisweet/bittersweet chocolate (60–70% cacao), roughly chopped | 227 |
-| Dutch process cocoa powder, divided (21 + 43) | 64 |
-| Granulated sugar | 400 |
-| Dark brown sugar, packed | 110 |
-| Vanilla extract | 2 tsp (9g) |
-| Sea salt | 2 tsp (12g) |
-| Large eggs | 6 (330g) |
-| Plain (all-purpose) flour | 125 |
 | Flaky sea salt, for sprinkling | 2 |
 
-### Bowl A — chocolate and first portion of cocoa, in a heatproof bowl (step 2)
+### Chocolate bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
 | Semisweet/bittersweet chocolate (60–70% cacao), roughly chopped | 227 |
-| Dutch process cocoa powder (first portion) | 21 |
+| Dutch process cocoa powder (for the chocolate) | 21 |
 
-### Bowl B — sugars, vanilla, salt and eggs, weighed into the large bowl (step 3)
+### Egg and sugar bowl (step 3)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -46,12 +38,12 @@ Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-
 | Sea salt | 2 tsp (12g) |
 | Large eggs | 6 (330g) |
 
-### Bowl C — flour and remaining cocoa (step 5)
+### Dry mix bowl (step 5)
 
 | Ingredient | Grams |
 |------------|-------|
 | Plain (all-purpose) flour | 125 |
-| Dutch process cocoa powder (second portion) | 43 |
+| Dutch process cocoa powder (for the dry mix) | 43 |
 
 ## Method
 
@@ -61,11 +53,11 @@ Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-
 
 2. **Hot butter over chocolate** · 8 min
 
-   Heat the butter (**283g**) in a small saucepan over medium until vigorously simmering, about 5 minutes, swirling occasionally. Pour the hot butter over Bowl A (chopped chocolate **227g** and the first portion of cocoa **21g** of the **64g**) and leave for 2 minutes, then whisk until completely smooth. Set aside.
+   Heat the butter (**283g**) in a small saucepan over medium until vigorously simmering, about 5 minutes, swirling occasionally. Pour the hot butter over the chocolate bowl and leave for 2 minutes, then whisk until completely smooth. Set aside.
 
 3. **Beat the eggs and sugars** · 10 min
 
-   Beat Bowl B (granulated sugar **400g**, dark brown sugar **110g**, 2 tsp (**9g**) vanilla, 2 tsp (**12g**) sea salt and 6 large eggs (**330g**)) with an electric mixer on high for a full 10 minutes — light, fluffy, thick pancake-batter consistency. This is what gives the tender fudgy texture and shiny top.
+   Beat the egg and sugar bowl with an electric mixer on high for a full 10 minutes — light, fluffy, thick pancake-batter consistency. This is what gives the tender fudgy texture and shiny top.
 
 4. **Combine** · 2 min
 
@@ -73,7 +65,7 @@ Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-
 
 5. **Fold in the dry** · 3 min
 
-   Sift in Bowl C (flour **125g** and the remaining cocoa **43g**). Fold gently with a spatula until just combined — no beating.
+   Sift in the dry mix bowl. Fold gently with a spatula until just combined — no beating.
 
 6. **First bake** · 20 min
 
@@ -103,4 +95,4 @@ Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-
 ## Adjustment Log
 
 - 2026-09-27: initial entry from BuzzFeed/Tasty original, converted to grams (butter 2½ sticks → 283g, chocolate 8oz → 227g, cocoa ¾ cup → 64g split 21/43, sugars 400g/110g, vanilla 2 tsp → 9g, salt 2 tsp kosher → 12g sea salt, eggs 6 large ≈ 330g, flour 1 cup → 125g). Espresso powder (1 tbsp) omitted from the conversion — kept out, noted in Tips.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–C) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Chocolate bowl, Egg and sugar bowl, Dry mix bowl); steps refer to them by name. Quantities unchanged.

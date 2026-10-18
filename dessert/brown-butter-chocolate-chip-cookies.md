@@ -19,26 +19,16 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 | Ingredient | Grams |
 |------------|-------|
 | Unsalted butter | 226 |
-| Plain flour | 293 |
-| Light brown sugar | 180 |
-| Caster sugar | 100 |
-| Beaten egg | 1 whole + 1 yolk (59g) |
-| Strong brewed coffee or espresso, cooled | 15 |
-| Vanilla extract | 8 |
-| Fine salt | 6 |
-| Bicarbonate of soda | 3.5 |
-| Dark chocolate bar, chopped into shards | 131 |
-| Chocolate chips | 69 |
 | Flaky or coarse salt, to finish | 4 |
 
-### Bowl A — sugars, weighed into the large bowl (step 2)
+### Sugar bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
 | Light brown sugar | 180 |
 | Caster sugar | 100 |
 
-### Bowl B — egg, coffee and vanilla, in a jug (step 5)
+### Wet jug (step 5)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -46,7 +36,7 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 | Strong brewed coffee or espresso, cooled | 15 |
 | Vanilla extract | 8 |
 
-### Bowl C — flour, fine salt and bicarbonate of soda (step 6)
+### Dry mix bowl (step 6)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -54,7 +44,7 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 | Fine salt | 6 |
 | Bicarbonate of soda | 3.5 |
 
-### Bowl D — chocolate shards and chips, chilled (step 7)
+### Chocolate bowl (step 7)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -65,11 +55,11 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 
 1. **Prep the chocolate, egg and bowl** · 10 min
 
-   Chop the chocolate bar (**131g**) into irregular shards on a board, tip them into Bowl D with the chips (**69g**), and chill. Note the weight of Bowl A (the sugars) on the scale. Beat 1 whole egg plus 1 yolk and weigh out **59g** into the jug for Bowl B.
+   Chop the chocolate bar into irregular shards on a board, tip them into the chocolate bowl with the chips, and chill. Note the weight of the sugar bowl on the scale. Beat 1 whole egg plus 1 yolk and weigh out **59g** into the wet jug.
 
 2. **Brown the butter** · 10 min
 
-   Melt the butter (**226g**) in a wide, light-coloured pan over medium heat, swirling. It foams loudly as the water boils off, then goes quiet with a fine dense foam — swirl constantly from that point. The milk solids at the bottom turn tan, then amber, and it smells nutty. That's 30 seconds from done. Off the heat immediately and pour into Bowl A (**180g** light brown and **100g** caster sugar), scraping every brown speck out.
+   Melt the butter (**226g**) in a wide, light-coloured pan over medium heat, swirling. It foams loudly as the water boils off, then goes quiet with a fine dense foam — swirl constantly from that point. The milk solids at the bottom turn tan, then amber, and it smells nutty. That's 30 seconds from done. Off the heat immediately and pour into the sugar bowl, scraping every brown speck out.
 
 3. **Top up and cool** · 20 min
 
@@ -81,15 +71,15 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 
 5. **Wet ingredients** · 2 min
 
-   Whisk Bowl B in (the egg **59g**, coffee **15g** and vanilla **8g**, **82g** total). Whisk hard for 30 seconds until it thickens slightly and lightens in colour.
+   Whisk in the wet jug. Whisk hard for 30 seconds until it thickens slightly and lightens in colour.
 
 6. **Dry ingredients** · 2 min
 
-   Add Bowl C (flour **293g**, fine salt **6g** and bicarbonate of soda **3.5g**, **302.5g** total) and fold with a spatula until a few floury streaks remain. Don't beat it.
+   Add the dry mix bowl and fold with a spatula until a few floury streaks remain. Don't beat it.
 
 7. **Chocolate** · 2 min
 
-   Fold in Bowl D (the chilled chocolate: **131g** shards and **69g** chips, **200g** total), tipping in the dust from the board as well. Chilled shards stay as shards; warm ones smear.
+   Fold in the chilled chocolate bowl, tipping in the dust from the board as well. Chilled shards stay as shards; warm ones smear.
 
 8. **Chill** · 1 hr minimum
 
@@ -117,4 +107,4 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 ## Adjustment Log
 
 - 2026-09-27: Created as a half batch of the original 48-50 cookie recipe. Butter 4 sticks salted → **226g** unsalted, with the butter's ~3.5g salt folded into the **6g** fine salt total. Milk **15g** → brewed coffee **15g**. Dark brown sugar → light brown (what was in the cupboard); treacle noted as optional in Tips. Baking powder **1.25g** dropped — none in the cupboard and negligible at this scale. Chocolate **170g** → **200g** to use up what was open. Added the browned-butter water top-up step, which the source omits.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–D) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Sugar bowl, Wet jug, Dry mix bowl, Chocolate bowl); steps refer to them by name. Quantities unchanged.

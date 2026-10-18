@@ -19,33 +19,25 @@ thumbnail: ../images/tori-jaga/tori-jaga.jpg
 | Ingredient | Grams |
 |------------|-------|
 | Boneless chicken thighs, 4cm pieces | 400 |
-| Maris Piper potatoes, peeled, 4cm chunks | 500 |
-| Onion, cut into wedges | 150 |
-| Carrot, roll-cut | 100 |
 | Vegetable oil | 14 |
-| Fresh ginger, grated | 10 |
 | Dry white wine | 5 tbsp (75g) |
-| Water | 300 |
-| Katsuo dashi granules | 1 level tsp (2g) |
-| Soy sauce | 2½ tbsp (45g) |
-| Caster sugar | 1 tbsp (20g) |
 | Spring onions, sliced | 20 |
 
-### Bowl A — onion and ginger (step 3)
+### Onion and ginger bowl (step 3)
 
 | Ingredient | Grams |
 |------------|-------|
 | Onion, cut into wedges | 150 |
 | Fresh ginger, grated | 10 |
 
-### Bowl B — potatoes and carrot, in cold water (step 4)
+### Potato and carrot bowl (step 4)
 
 | Ingredient | Grams |
 |------------|-------|
 | Maris Piper potatoes, peeled, 4cm chunks | 500 |
 | Carrot, roll-cut | 100 |
 
-### Bowl C — water, dashi, soy sauce and sugar, in a jug (step 6)
+### Braising liquid jug (step 6)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -58,7 +50,7 @@ thumbnail: ../images/tori-jaga/tori-jaga.jpg
 
 1. **Cut the chicken** · 3 min
 
-   Cut the chicken thighs (**400g**) into 4cm pieces.
+   Cut the chicken thighs (**400g**) into 4cm pieces. Keep the potato and carrot bowl topped up with cold water so the potatoes don't discolour.
 
 2. **Brown the chicken** · 4 min
 
@@ -66,11 +58,11 @@ thumbnail: ../images/tori-jaga/tori-jaga.jpg
 
 3. **Onion and ginger** · 2 min
 
-   Tip in Bowl A (onion (**150g**) and ginger (**10g**)). Stir until the onion edges have gone translucent and the ginger is fragrant.
+   Tip in the onion and ginger bowl. Stir until the onion edges have gone translucent and the ginger is fragrant.
 
 4. **Potatoes and carrot in** · 1 min
 
-   Drain Bowl B (potatoes (**500g**) and carrot (**100g**)) and tip in. Toss to coat everything in the fat.
+   Drain the potato and carrot bowl and tip it in. Toss to coat everything in the fat.
 
 5. **Boil off the wine** · 2 min
 
@@ -78,7 +70,7 @@ thumbnail: ../images/tori-jaga/tori-jaga.jpg
 
 6. **Stock, soy and sugar** · 2 min
 
-   Stir Bowl C (water (**300g**), 1 level tsp (**2g**) dashi granules, 2½ tbsp (**45g**) soy sauce and 1 tbsp (**20g**) caster sugar) and pour it in. Bring to a boil, skim the grey scum off the surface, then drop to a bare simmer.
+   Stir the braising liquid jug and pour it in. Bring to a boil, skim the grey scum off the surface, then drop to a bare simmer.
 
 7. **Simmer covered** · 20 min
 
@@ -109,4 +101,4 @@ thumbnail: ../images/tori-jaga/tori-jaga.jpg
 - 2026-09-27: first version. Mirin 3 tbsp + sake 2 tbsp → dry white wine (**75g**), no mirin or sake in the house. Sugar 1 tbsp → **20g** to cover mirin's sweetness. Soy 3 tbsp → **45g** because the dashi granules are pre-salted. Added an uncovered reduction step to recover the glaze mirin would have given.
 - 2026-09-27: renamed Chicken and Potato Nimono → Tori-jaga (鶏じゃが). "Nikujaga" implies beef, so the chicken version has its own name. Method unchanged.
 - 2026-10-10: Prep step regrouped — carrot into the potato water bowl, onion and ginger in one bowl, stock/soy/sugar pre-mixed in a jug, wine weighed by the hob. Quantities unchanged.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–C) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Onion and ginger bowl, Potato and carrot bowl, Braising liquid jug); steps refer to them by name. Quantities unchanged.

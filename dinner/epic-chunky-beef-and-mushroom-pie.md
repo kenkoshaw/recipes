@@ -23,43 +23,35 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 | Chuck beef, cut into 2.5cm cubes | 1000 |
 | Vegetable oil | 1–2 tbsp (~14–28g) |
 | Salt and pepper, to season the beef | to taste |
-| Garlic cloves, minced | 2 (~6g) |
-| Onion, finely chopped | 1 (~150g) |
-| Celery, finely chopped | 1 stalk (~50g) |
-| Carrot, finely chopped | 1 (~100g) |
 | Carrots, halved lengthwise and cut into 1.5cm chunks | 3 (~300g) |
 | Flour (any) | ~42 |
-| Dark ale (or red wine, Guinness or more beef stock) | 300ml (300g) |
-| Beef stock | 500ml (500g) |
-| Fresh thyme (or 1 tsp dried) | 3 sprigs (~3g) |
-| Bay leaves | 2 (~1g) |
 | Bacon, diced | 200 |
 | Swiss brown mushrooms, larger ones halved | 300–400 |
 | Puff pastry, ready-rolled, enough to cover the pie | 1 sheet (~320g) |
 | Egg yolk | 1 (~18g) |
 
-### Bowl A — garlic and onion (step 5)
+### Aromatics bowl (step 5)
 
 | Ingredient | Grams |
 |------------|-------|
 | Garlic cloves, minced | 2 (~6g) |
 | Onion, finely chopped | 1 (~150g) |
 
-### Bowl B — carrot and celery (step 5)
+### Carrot and celery bowl (step 5)
 
 | Ingredient | Grams |
 |------------|-------|
 | Carrot, finely chopped | 1 (~100g) |
 | Celery, finely chopped | 1 stalk (~50g) |
 
-### Bowl C — ale and beef stock, in a jug (step 6)
+### Ale and stock jug (step 6)
 
 | Ingredient | Grams |
 |------------|-------|
 | Dark ale (or red wine, Guinness or more beef stock) | 300ml (300g) |
 | Beef stock | 500ml (500g) |
 
-### Bowl D — thyme and bay leaves (step 7)
+### Herb bowl (step 7)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -78,7 +70,7 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 
 3. **Strain the porcini** · 5 min
 
-   Strain the soaked porcini and keep the soaking liquid (**312g**). Roughly chop the porcini (**20g**) and add them to Bowl D.
+   Strain the soaked porcini and keep the soaking liquid (**312g**). Roughly chop the porcini (**20g**) and add them to the herb bowl.
 
 4. **Brown the beef** · 10 min
 
@@ -86,15 +78,15 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 
 5. **Soften the vegetables** · 12 min
 
-   Turn the heat down to medium-low. If the pot looks dry, add a little more oil. Tip in Bowl A (2 garlic cloves (**~6g**) and 1 onion (**~150g**)) and cook for 2 min. Add Bowl B (1 carrot (**~100g**) and 1 celery stalk (**~50g**)) and cook for 6 min, until softened and sweet. Add the 3 carrots (**~300g**) and cook for 2 min.
+   Turn the heat down to medium-low. If the pot looks dry, add a little more oil. Tip in the aromatics bowl and cook for 2 min. Add the carrot and celery bowl and cook for 6 min, until softened and sweet. Add the 3 carrots (**~300g**) and cook for 2 min.
 
 6. **Flour and liquid** · 3 min
 
-   Add the flour (**~42g**) and stir it through. Add Bowl C (300ml (**300g**) ale and 500ml (**500g**) beef stock) and stir to dissolve the flour.
+   Add the flour (**~42g**) and stir it through. Pour in the ale and stock jug and stir to dissolve the flour.
 
 7. **Simmer the stew** · 1 hr 45
 
-   Add Bowl D (3 thyme sprigs (**~3g**) and 2 bay leaves (**~1g**)), the chopped porcini (**20g**), the porcini soaking liquid (**312g**, leaving the gritty bits at the bottom of the bowl) and the browned beef (**1000g**). Turn the heat up slightly, stir, bring to a simmer and cover. Adjust the heat so it simmers gently, not energetically. Cook for 1 hr 45, or until the beef is tender.
+   Add the herb bowl with the chopped porcini (**20g**), the porcini soaking liquid (**312g**, leaving the gritty bits at the bottom of the bowl) and the browned beef (**1000g**). Turn the heat up slightly, stir, bring to a simmer and cover. Adjust the heat so it simmers gently, not energetically. Cook for 1 hr 45, or until the beef is tender.
 
 8. **Bacon and mushrooms** · 15 min (while the stew simmers)
 
@@ -129,4 +121,4 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 
 - 2026-10-18: imported from recipetineats.com and converted to grams. The source gives some amounts by count or volume, so these are estimates: onion **~150g**, celery **~50g**, carrot **~100g**, 3 carrots **~300g**, 2 garlic cloves **~6g**, flour **~42g**, 3 thyme sprigs **~3g**, 2 bay leaves **~1g**, 1 egg yolk **~18g**. Oil 1 tbsp (**~14g**), with a little more if the pot is dry. Ale, stock and water are in ml in the source (300ml, 500ml, 312ml), kept as **300g**, **500g** and **312g**.
 - 2026-10-18: puff pastry set at **~320g**, one ready-rolled sheet; the source says 1–2 sheets, enough to cover the pie. The source gives no active time, so ~45 min is an estimate.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–D) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Aromatics bowl, Carrot and celery bowl, Ale and stock jug, Herb bowl); steps refer to them by name. Quantities unchanged.

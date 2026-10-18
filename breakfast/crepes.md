@@ -18,28 +18,24 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 
 | Ingredient | Grams |
 |------------|-------|
-| Plain flour | 100 |
 | Eggs | 2 medium (100g) |
-| Salt | 1 |
 | Double cream | 75 |
 | Water | 225 |
 | Butter, for the pan | 20 |
 | Caster sugar — optional topping | 30 |
 | Lemon juice — optional topping | 1 lemon (40g) |
 | Double cream, to whip — optional topping | 150 |
-| Icing sugar — optional topping | 10 |
-| Vanilla bean extract — optional topping | 1 |
 | Golden syrup — optional topping | 100 |
 | Water, for the syrup — optional topping | 25 |
 
-### Bowl A — flour and salt (step 2)
+### Dry mix bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
 | Plain flour | 100 |
 | Salt | 1 |
 
-### Bowl B — icing sugar and vanilla for the whipped cream (step 7)
+### Cream flavouring bowl (step 7)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -54,7 +50,7 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 
 2. **Make the batter** · 5 min
 
-   Whisk Bowl A (plain flour **100g** and salt **1g**) together, make a well, and beat in 2 medium eggs (**100g**). Add the cream-and-water mixture in three stages, whisking smooth between each, holding back the last **50g**. Cue: single-cream consistency — coats the back of a spoon, then runs straight off.
+   Whisk the dry mix bowl together, make a well, and beat in 2 medium eggs (**100g**). Add the cream-and-water mixture in three stages, whisking smooth between each, holding back the last **50g**. Cue: single-cream consistency — coats the back of a spoon, then runs straight off.
 
 3. **Rest the batter** · 30 min
 
@@ -74,7 +70,7 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 
 7. **Optional — whipped cream** · 5 min
 
-   Chill the bowl and whisk for 15 minutes in the freezer. Whip double cream (**150g**) on medium speed, adding Bowl B (icing sugar **10g** and vanilla bean extract **1g**) once it thickens. Stop at soft peaks — the peak flops over when the whisk is lifted. Chill until serving.
+   Chill the bowl and whisk for 15 minutes in the freezer. Whip double cream (**150g**) on medium speed, adding the cream flavouring bowl once it thickens. Stop at soft peaks — the peak flops over when the whisk is lifted. Chill until serving.
 
 8. **Optional — loosened golden syrup** · 2 min
 
@@ -94,4 +90,4 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 
 - 2026-09-27: Restructured as a plain crêpe recipe with sugar-and-lemon, whipped cream and golden syrup moved to optional steps 6–8. Previously written as a lemon-and-sugar recipe with the toppings baked into the core method.
 - 2026-09-27: Initial version. Milk replaced with double cream and water at 1:3 by volume (75g cream : 225g water), and the melted butter dropped from the batter since the cream already carries the fat.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–B) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Dry mix bowl, Cream flavouring bowl); steps refer to them by name. Quantities unchanged.

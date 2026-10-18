@@ -19,19 +19,11 @@ Skinless boneless chicken thighs marinated in a honey soy sauce, baked, then bro
 | Ingredient | Grams |
 |------------|-------|
 | Skinless boneless chicken thighs | 1200 |
-| Honey | 90ml (~128g) |
-| Low-sodium soy sauce | 65ml (~75g) |
-| Vegetable or canola oil | 40ml (~37g) |
-| Green onions, finely chopped | 25 |
-| Garlic, minced | 4 large cloves (16g) |
-| White vinegar (optional; apple cider or rice wine vinegar also work) | 20ml (20g) |
-| Sesame oil (optional) | 5ml (5g) |
-| Fresh ginger, minced | 2 |
 | Salt, to season | 1 pinch (~1g) |
 | Black pepper, to season | 1 pinch (~1g) |
 | Fresh parsley, chopped, to garnish | 1 pinch (~1g) |
 
-### Bowl A — marinade ingredients (step 2)
+### Marinade bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -52,11 +44,11 @@ Skinless boneless chicken thighs marinated in a honey soy sauce, baked, then bro
 
 2. **Make the marinade** · 2 min
 
-   Mix Bowl A (90ml (**~128g**) honey, 65ml (**~75g**) soy sauce, 40ml (**~37g**) oil, 20ml (**20g**) vinegar, 5ml (**5g**) sesame oil, green onions (**25g**), 4 garlic cloves (**16g**) and ginger (**2g**)) well and set aside.
+   Mix the marinade bowl well and set aside.
 
 3. **Marinate the chicken** · 30 min–overnight
 
-   Season the chicken (**1200g**) with 1 pinch (**~1g**) of salt and 1 pinch (**~1g**) of pepper, then put it in the bowl of marinade. Cover and marinate for at least 30 min if you have time, or overnight.
+   Season the chicken (**1200g**) with 1 pinch (**~1g**) of salt and 1 pinch (**~1g**) of pepper, then put it in the marinade bowl. Cover and marinate for at least 30 min if you have time, or overnight.
 
 4. **Heat the oven, load the pan** · 5 min
 
@@ -84,4 +76,4 @@ Skinless boneless chicken thighs marinated in a honey soy sauce, baked, then bro
 ## Adjustment Log
 
 - 2026-10-18: imported from cafedelites.com using the source's metric weights, with the chicken at **1200g** (1.2kg). The source gives honey (90ml), soy sauce (65ml) and oil (40ml) in ml, converted by density to **~128g**, **~75g** and **~37g**. The pinches of salt, pepper and parsley are **~1g** each. The source gives no active time, so ~15 min is an estimate. Total 1 hr 5 includes the 30 min marinade.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Marinade bowl); steps refer to them by name. Quantities unchanged.

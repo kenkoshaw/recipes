@@ -68,7 +68,8 @@
   function matches(r, q) {
     if (!q) return true;
     if (!r._search) {
-      r._search = [r.title, r.blurb, r.category, r.tags.join(' '), r.ingredients.map((i) => stripTags(i.name)).join(' ')]
+      const items = [...r.ingredients, ...r.bowls.flatMap((b) => b.items)];
+      r._search = [r.title, r.blurb, r.category, r.tags.join(' '), items.map((i) => stripTags(i.name)).join(' ')]
         .join(' ').toLowerCase();
     }
     return q.toLowerCase().split(/\s+/).every((w) => r._search.includes(w));
@@ -224,7 +225,7 @@
         <details class="block" open>
           <summary>Ingredients ${ICONS.chevron}</summary>
           <div class="block-body">
-            <ul class="ingredients">
+            <ul class="ingredients" ${r.ingredients.length ? '' : 'hidden'}>
               ${r.ingredients.map((i, n) => `
                 <li data-ing="${n}" class="${progress.ing.includes(n) ? 'done' : ''}">
                   <span class="tick">${ICONS.check}</span>

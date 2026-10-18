@@ -18,24 +18,19 @@ Proper version with optional overnight prove. In a hurry: [fast version](brioche
 
 | Ingredient | Grams |
 |------------|-------|
-| Strong white bread flour | 500 |
-| Whole milk, lukewarm | 200ml (200g) |
-| Fast-action dried yeast | 7 |
-| Caster sugar | 50 |
-| Fine salt | 10 |
 | Large eggs | 2 (110g) |
 | Unsalted butter, softened and cubed | 100 |
 | Large egg, for the glaze | 1 (55g) |
 | Sesame seeds | 2 tbsp (18g) |
 
-### Bowl A — yeast and milk (step 1)
+### Yeast jug (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
 | Fast-action dried yeast | 7 |
 | Whole milk, lukewarm | 200ml (200g) |
 
-### Bowl B — flour, sugar and salt, weighed straight into the stand mixer bowl (step 2)
+### Mixer bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -47,11 +42,11 @@ Proper version with optional overnight prove. In a hurry: [fast version](brioche
 
 1. **Activate the yeast** · 10 min
 
-   Whisk Bowl A (yeast **7g** and 200ml (**200g**) lukewarm milk) together with a pinch of the sugar from Bowl B. Leave until foamy and smelling bready — flat means dead yeast, start again.
+   Whisk the yeast jug together with a pinch of the sugar from the mixer bowl. Leave until foamy and smelling bready — flat means dead yeast, start again.
 
 2. **Mix the dough** · 5 min
 
-   In a stand mixer with the dough hook, combine Bowl B (flour **500g**, remaining sugar **~50g** and salt **10g**). Add the yeasted milk and 2 eggs (**110g**). Mix on low, then medium, until a rough cohesive dough forms.
+   Fit the mixer bowl to the stand mixer with the dough hook and mix briefly to combine. Add the yeasted milk and 2 eggs (**110g**). Mix on low, then medium, until a rough cohesive dough forms.
 
 3. **Add the butter** · 10 min
 
@@ -91,4 +86,4 @@ Proper version with optional overnight prove. In a hurry: [fast version](brioche
 ## Adjustment Log
 
 - 2026-09-27: imported from Documents note (2026-08-29). Converted to repo format: milk 200ml → 200g, eggs stated as grams (2 large ≈ 110g, glaze egg ≈ 55g), sesame 2 tbsp → 18g. Fast version split into its own file.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–B) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Yeast jug, Mixer bowl); steps refer to them by name. Quantities unchanged.

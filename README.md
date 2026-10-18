@@ -46,7 +46,7 @@ When creating or updating a recipe in this repo, follow these rules exactly:
 1. **Use the template below** (also in [TEMPLATE.md](TEMPLATE.md)). Same sections, same order, no extra sections.
 2. **At-a-glance line** directly under the title: `**Makes** … · **Total** … · **Active** …`.
 3. **All quantities in grams**, in the Ingredients table. Where the source gives a spoon, count or ml amount, put that first and the grams in brackets: `2 tbsp (25g)`, `4 (~70g)`, `175ml (180g)`. Metric only: no cups, ounces, pounds, inches or °F.
-4. **Restate grams inline and in bold in every method step** — never "add the sugar", always add the sugar (**150g**). The reader must never have to scroll back to the ingredients list. Where the table shows a spoon, count or ml amount, put it before the grams: 2 tbsp (**25g**) sugar.
+4. **Restate grams inline and in bold in every method step** — never "add the sugar", always add the sugar (**150g**). The reader must never have to scroll back to the ingredients list. Where the table shows a spoon, count or ml amount, put it before the grams: 2 tbsp (**25g**) sugar. A bowl is the exception: refer to it by name only (rule 11).
 5. **Method step format**: numbered, bold short action title with `· time`, then a blank line, then the description indented as part of the same list item. Fold doneness cues (foamy, doubled, internal temp) into the relevant step.
 6. **Keep the original source URL** in the frontmatter if the recipe came from online.
 7. **Tips section**: record any AI suggestions or techniques that were actually used.
@@ -56,8 +56,9 @@ When creating or updating a recipe in this repo, follow these rules exactly:
     - Start from the page's `og:image`, but check it: if it's a step shot, a comparison, or has text over it, use the recipe card's photo instead, following the page's link to the recipe itself if there is one (e.g. an article linking to its Tasty recipe).
     - Crop out logos, badges and text overlays.
     - Skip it if no page has a usable photo.
-11. **Prepare bowls**: ingredients that go in at the same moment are grouped into a bowl, so the cook preps them before step 1 and uses fewer dishes. Put them as sub-sections directly under `## Ingredients`, after the full table: `### Bowl A — short label (step N)` with a table of those ingredients (same names and amounts as the main table). Letters run in order of use. A jug of liquids, or the mixing bowl itself, can be a bowl. Leave the sections out for a recipe with nothing to group; an ingredient used on its own needs no bowl.
-    - The method has no step for weighing the bowls. Steps say "Bowl A" and still restate the grams inline: `Tip in Bowl A (2 garlic cloves **~6g**, 1 onion **~150g**)`. Keep a prep step only for other prep, like lining a tin, soaking or warming milk.
+11. **Prepare bowls**: ingredients that go in at the same moment are grouped into a named bowl, prepared before step 1, so there are fewer dishes. Under `## Ingredients`, the first table lists only ingredients used on their own; each bowl follows as `### Aromatics bowl (step N)` with a table of its ingredients. Every ingredient appears once, either in the top table or in one bowl; if one is used in two places, give it one row per portion with the purpose in the name, e.g. `Caster sugar (for the yeast)`. Name each bowl so it explains itself and ends in "bowl" or "jug": `Dry mix bowl`, `Stock jug`, or `Mixer bowl` for a group weighed straight into the Kenwood. Leave bowls out for a recipe with nothing to group.
+    - Steps refer to a bowl by its name only, with no contents or grams: `Tip in the aromatics bowl.` Ingredients used on their own keep their grams inline (rule 4). No step weighs the bowls; keep a prep step only for other prep, like lining a tin or soaking.
+    - Don't bowl anything that can't sit combined until its step, such as gelatin in water (it sets) or cream that must stay cold. Weigh those at the step instead.
 
 ## Recipe template
 
@@ -82,11 +83,9 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 
 | Ingredient | Grams |
 |------------|-------|
-| Ingredient one | 500 |
-| Ingredient two | 400 |
 | Ingredient three | 10 |
 
-### Bowl A — ingredients added together (step 1)
+### Dry mix bowl (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -97,7 +96,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 
 1. **Short action title** · 10 min
 
-   Description of the step. Tip in Bowl A (ingredient one **500g**, ingredient two **400g**). Every other quantity restated inline and bolded — never "add the flour", always add the flour (**500g**).
+   Description of the step. Tip in the dry mix bowl. Every quantity not in a bowl is restated inline and bolded — never "add the sugar", always add the sugar (**150g**).
 
 2. **Next action** · 5 min
 

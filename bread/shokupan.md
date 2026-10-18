@@ -21,14 +21,9 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 | Bread flour, about 12% protein (yudane) | 50 |
 | Boiling water, above 90°C (yudane) | 40ml (40g) |
 | Milk, room temperature | 150ml (155g) |
-| Sugar | 1 tbsp (15g) |
-| Instant dry yeast | 1 tsp (3g) |
-| Unsalted butter, room temperature | 2 tsp (10g) |
-| Bread flour, about 12% protein | 200 |
-| Salt | 1 tsp (5g) |
 | Egg, for brushing (optional) | 1 (~50g) |
 
-### Bowl A — sugar, yeast and butter (step 3)
+### Yeast bowl (step 3)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -36,7 +31,7 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 | Instant dry yeast | 1 tsp (3g) |
 | Unsalted butter, room temperature | 2 tsp (10g) |
 
-### Bowl B — flour and salt (step 3)
+### Dry mix bowl (step 3)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -55,7 +50,7 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 3. **Add everything to the bowl** · 5 min
 
-   Tip Bowl A (1 tbsp (**15g**) sugar, 1 tsp (**3g**) yeast and 2 tsp (**10g**) butter) into the 150ml (**155g**) milk. Tear the yudane (**90g** in total) into small pieces into the bowl, then add Bowl B (bread flour **200g** and 1 tsp (**5g**) salt). Fit the dough hook and mix on low until everything is combined.
+   Tip the yeast bowl into the 150ml (**155g**) milk. Tear the yudane (**90g** in total) into small pieces into the bowl, then add the dry mix bowl. Fit the dough hook and mix on low until everything is combined.
 
 4. **Knead** · 20 min
 
@@ -98,4 +93,4 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 - 2026-10-18: imported from chopstickchronicles.com using the source's metric weights, with the Kenwood dough hook for the kneading. The source gives milk (150ml) and boiling water (40ml) in ml; converted to **155g** and **40g**. The egg for brushing has no amount in the source, so **~50g** (one egg) is an estimate. The **~240g** per piece is worked out from the ingredient total. The source gives no active time, so ~45 min is an estimate.
 - 2026-10-18: the source lists the optional egg wash after cooling; here it's brushed on before baking, which is where it would normally go. The source also says only "place the rolled dough in the end of the tin facing the centre"; I read that as one roll at each end, facing the centre. Neither reading is checked against the source's video.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–B) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Yeast bowl, Dry mix bowl); steps refer to them by name. Quantities unchanged.

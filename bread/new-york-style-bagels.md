@@ -18,22 +18,18 @@ Same-day bagels made the classic way: the dough is shaped into rings and boiled 
 
 | Ingredient | Grams |
 |------------|-------|
-| Active dry yeast | 2 tsp (6g) |
-| Granulated sugar | 4½ tsp (19g) |
 | Warm water, 40–46°C (may need up to ~60 more) | 300ml (300g) |
-| Bread flour or high-gluten flour (plus up to 60 for kneading) | 440 |
-| Salt | 1½ tsp (6g) |
 | Oil, for the bowl and baking sheet | as needed |
 | Toppings, optional (see Tips) | to taste |
 
-### Bowl A — sugar and yeast (step 2)
+### Yeast bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
 | Active dry yeast | 2 tsp (6g) |
 | Granulated sugar | 4½ tsp (19g) |
 
-### Bowl B — flour and salt, weighed straight into the Kenwood bowl (step 3)
+### Mixer bowl (step 3)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -48,11 +44,11 @@ Same-day bagels made the classic way: the dough is shaped into rings and boiled 
 
 2. **Activate the yeast** · 5 min
 
-   Tip Bowl A (4½ tsp (**19g**) sugar and 2 tsp (**6g**) yeast) into the jug of 120ml (**120g**) warm water. Don't stir. Leave for 5 min, then stir until everything has dissolved.
+   Tip the yeast bowl into the jug of 120ml (**120g**) warm water. Don't stir. Leave for 5 min, then stir until everything has dissolved.
 
 3. **Mix the dough** · 5 min
 
-   Make a well in Bowl B (flour **440g** and 1½ tsp (**6g**) salt) in the Kenwood bowl. Fit the dough hook, pour in the yeast mixture and the first 80ml (**80g**) of the dough water and mix on the lowest speed. Add the rest of the water (up to 100ml, **100g**, and a little more if it still needs it) a bit at a time, until the dough is moist and firm.
+   Make a well in the mixer bowl. Fit the dough hook, pour in the yeast mixture and the first 80ml (**80g**) of the dough water and mix on the lowest speed. Add the rest of the water (up to 100ml, **100g**, and a little more if it still needs it) a bit at a time, until the dough is moist and firm.
 
 4. **Knead** · 5–6 min
 
@@ -99,4 +95,4 @@ Same-day bagels made the classic way: the dough is shaped into rings and boiled 
 
 - 2026-10-18: imported from sophisticatedgourmet.com using the source's metric weights for the flour, salt, sugar and yeast. The warm water (300ml) is kept as **300g**, split **120g** for the yeast, **80g** first and **100g** as needed, which is how the card splits the ml. The **~95g** per piece is worked out from the ingredient total, and ~40 min active is an estimate from the card's prep and cook times.
 - 2026-10-18: the Kenwood dough hook (lowest speed, 5–6 min) comes from the article's stand mixer text; the recipe card itself gives 10 min of hand kneading. Oil and toppings have no amounts in the source.
-- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–B) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
+- 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Yeast bowl, Mixer bowl); steps refer to them by name. Quantities unchanged.
