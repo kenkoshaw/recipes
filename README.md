@@ -122,6 +122,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 **Dinner**
 
 - [Baked Camembert with Garlic Honey and Walnuts](dinner/baked-camembert-with-garlic-honey-and-walnuts.md) — sharing starter
+- [Epic Chunky Beef and Mushroom Pie](dinner/epic-chunky-beef-and-mushroom-pie.md) — slow-cooked beef, porcini gravy, puff pastry lid
 - [Gazpacho](dinner/gazpacho.md) — cold Andalusian tomato soup, cucumber garnish
 - [Honey Soy Baked Chicken Thighs](dinner/honey-soy-baked-chicken-thighs.md) — marinated, baked then broiled
 - [Quick Peri Peri Marinade](dinner/quick-peri-peri-marinade.md) — for 1kg chicken or veg
