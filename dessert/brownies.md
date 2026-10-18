@@ -23,9 +23,9 @@ Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-
 | Dutch process cocoa powder, divided (21 + 43) | 64 |
 | Granulated sugar | 400 |
 | Dark brown sugar, packed | 110 |
-| Vanilla extract | 9 |
-| Sea salt | 12 |
-| Large eggs (6) | 330 |
+| Vanilla extract | 2 tsp (9g) |
+| Sea salt | 2 tsp (12g) |
+| Large eggs | 6 (330g) |
 | Plain (all-purpose) flour | 125 |
 | Flaky sea salt, for sprinkling | 2 |
 
@@ -45,7 +45,7 @@ Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-
 
 4. **Beat the eggs and sugars** · 10 min
 
-   In a large bowl, beat the granulated sugar (**400g**), dark brown sugar (**110g**), vanilla (**9g**), sea salt (**12g**) and the eggs (**330g** / 6 large) with an electric mixer on high for a full 10 minutes — light, fluffy, thick pancake-batter consistency. This is what gives the tender fudgy texture and shiny top.
+   In a large bowl, beat the granulated sugar (**400g**), dark brown sugar (**110g**), 2 tsp (**9g**) vanilla, 2 tsp (**12g**) sea salt and 6 large eggs (**330g**) with an electric mixer on high for a full 10 minutes — light, fluffy, thick pancake-batter consistency. This is what gives the tender fudgy texture and shiny top.
 
 5. **Combine** · 2 min
 

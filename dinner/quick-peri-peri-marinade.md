@@ -19,7 +19,7 @@ Store-cupboard peri peri — smoked paprika and cayenne base, honey to balance. 
 |------------|-------|
 | Olive oil | 83 |
 | Lemon juice | 60 |
-| Garlic, minced (6 cloves) | 30 |
+| Garlic, minced | 6 cloves (30g) |
 | Smoked paprika | 9 |
 | Cayenne pepper | 5 |
 | Chilli flakes (optional, extra kick) | 3 |
@@ -32,7 +32,7 @@ Store-cupboard peri peri — smoked paprika and cayenne base, honey to balance. 
 
 1. **Mix** · 5 min
 
-   Whisk the olive oil (**83g**), lemon juice (**60g**), minced garlic (**30g**), smoked paprika (**9g**), cayenne (**5g**), chilli flakes (**3g**), oregano (**2g**), salt (**12g**), honey (**14g**) and black pepper (**2g**) in a bowl until the honey has fully dissolved.
+   Whisk the olive oil (**83g**), lemon juice (**60g**), 6 minced garlic cloves (**30g**), smoked paprika (**9g**), cayenne (**5g**), chilli flakes (**3g**), oregano (**2g**), salt (**12g**), honey (**14g**) and black pepper (**2g**) in a bowl until the honey has fully dissolved.
 
 2. **Marinate** · 1 hr minimum
 

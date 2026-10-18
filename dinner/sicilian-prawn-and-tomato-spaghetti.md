@@ -29,11 +29,11 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 | Extra virgin olive oil, to finish | 15 |
 | Dried chilli flakes | 1 |
 | Curly parsley leaves, finely chopped | 4 |
-| Lemon zest (1 lemon) | 4 |
+| Lemon zest | 1 lemon (4g) |
 | Salt, for the pasta water | 10 |
 | Sourdough or ciabatta, for the side | 100 |
 | Cantabrian anchovy fillets, for the toast | 25 |
-| Garlic clove, halved, for rubbing the toast | 5 |
+| Garlic, halved, for rubbing the toast | 1 clove (5g) |
 
 ## Method
 
@@ -67,7 +67,7 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 
 8. **Toast the bread** · 4 min
 
-   While the tomatoes simmer: slice the bread (**100g**) at 1.5cm and char it in a dry pan or under the grill, 1–2 min a side. Rub the hot cut face firmly with the halved raw garlic clove (**5g**), drizzle with a little of the extra virgin oil and drape the Cantabrian anchovies (**25g**) on whole — 2 per slice, never chopped.
+   While the tomatoes simmer: slice the bread (**100g**) at 1.5cm and char it in a dry pan or under the grill, 1–2 min a side. Rub the hot cut face firmly with 1 halved raw garlic clove (**5g**), drizzle with a little of the extra virgin oil and drape the Cantabrian anchovies (**25g**) on whole — 2 per slice, never chopped.
 
 9. **Cook the pasta** · 6 min
 
@@ -83,7 +83,7 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 
 12. **Finish** · 1 min
 
-    Off the heat, toss through the chopped parsley (**4g**), all the lemon zest (**4g**) and the remaining extra virgin olive oil (**15g**). Plate immediately with the anchovy toast alongside.
+    Off the heat, toss through the chopped parsley (**4g**), the zest of 1 lemon (**4g**) and the remaining extra virgin olive oil (**15g**). Plate immediately with the anchovy toast alongside.
 
 ## Tips
 

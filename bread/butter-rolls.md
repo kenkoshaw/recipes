@@ -21,7 +21,7 @@ Soft Japanese-style enriched rolls, scaled up to use a full 7g yeast packet. The
 | Caster sugar | 47 |
 | Salt | 7 |
 | Fast-action dried yeast | 7 |
-| Egg (about 1 large) | 58 |
+| Egg | 1 large (58g) |
 | Water | 152 |
 | Milk | 117 |
 | Unsalted butter, softened | 58 |
@@ -31,7 +31,7 @@ Soft Japanese-style enriched rolls, scaled up to use a full 7g yeast packet. The
 
 1. **Mix the dough** · 5 min
 
-   In a large bowl, combine the flour (**467g**), sugar (**47g**), salt (**7g**) and yeast (**7g**), keeping the salt and yeast on opposite sides of the bowl. Add the egg (**58g**), water (**152g**) and milk (**117g**), then mix until you have a shaggy dough.
+   In a large bowl, combine the flour (**467g**), sugar (**47g**), salt (**7g**) and yeast (**7g**), keeping the salt and yeast on opposite sides of the bowl. Add 1 large egg (**58g**), water (**152g**) and milk (**117g**), then mix until you have a shaggy dough.
 
 2. **Knead, then add butter** · 15 min
 

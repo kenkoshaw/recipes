@@ -17,13 +17,13 @@ Classic all-milk clafoutis — a soft, custardy baked batter over white figs. Ba
 
 | Ingredient | Grams |
 |------------|-------|
-| White figs (approx 5–6 large / 8 medium) | 350 |
-| Eggs, large (5) | 280 |
+| White figs | 5–6 large or 8 medium (350g) |
+| Eggs, large | 5 (280g) |
 | Plain flour | 120 |
 | Caster sugar (batter) | 80 |
-| Whole milk (approx 400ml) | 410 |
-| Vanilla extract (approx 1 tsp) | 5 |
-| Salt (approx ¼ tsp) | 1.5 |
+| Whole milk | 400ml (410g) |
+| Vanilla extract | 1 tsp (5g) |
+| Salt | ¼ tsp (1.5g) |
 | Butter, for greasing | 20 |
 | Demerara sugar, for dusting the dish | 20 |
 | Icing sugar, to serve | 5 |
@@ -36,15 +36,15 @@ Classic all-milk clafoutis — a soft, custardy baked batter over white figs. Ba
 
 2. **Arrange the figs** · 3 min
 
-   Cut the white figs (**350g**) into sixths or ~1cm wedges (skin on), blot the cut sides on kitchen paper, and lay them skin-side down in a single layer covering the base. Don't crowd the centre — too many wet figs there stops it setting.
+   Cut the 5–6 large white figs (**350g**) into sixths or ~1cm wedges (skin on), blot the cut sides on kitchen paper, and lay them skin-side down in a single layer covering the base. Don't crowd the centre — too many wet figs there stops it setting.
 
 3. **Whisk the base** · 2 min
 
-   Whisk the eggs (**280g / 5 large**) with the caster sugar (**80g**) for 1–2 min until pale and slightly thickened.
+   Whisk the 5 large eggs (**280g**) with the caster sugar (**80g**) for 1–2 min until pale and slightly thickened.
 
 4. **Make the batter** · 3 min
 
-   Sift in the plain flour (**120g**) and salt (**1.5g**), whisk to a smooth thick paste, then gradually whisk in the whole milk (**410g / 400ml**) and vanilla (**5g**) until smooth and thin — about single-cream consistency. Don't over-whisk once the milk is in, or it souffles up then collapses. Sieve if any lumps remain.
+   Sift in the plain flour (**120g**) and ¼ tsp (**1.5g**) salt, whisk to a smooth thick paste, then gradually whisk in 400ml (**410g**) whole milk and 1 tsp (**5g**) vanilla until smooth and thin — about single-cream consistency. Don't over-whisk once the milk is in, or it souffles up then collapses. Sieve if any lumps remain.
 
 5. **Rest the batter** · 10 min
 

@@ -22,7 +22,7 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 | Plain flour | 293 |
 | Light brown sugar | 180 |
 | Caster sugar | 100 |
-| Beaten egg (1 whole + 1 yolk) | 59 |
+| Beaten egg | 1 whole + 1 yolk (59g) |
 | Strong brewed coffee or espresso, cooled | 15 |
 | Vanilla extract | 8 |
 | Fine salt | 6 |

@@ -18,24 +18,24 @@ Quick version of [brioche burger buns](brioche-burger-buns.md). Trade-off: crumb
 | Ingredient | Grams |
 |------------|-------|
 | Strong white bread flour | 500 |
-| Whole milk, warm (~38°C) | 250 |
+| Whole milk, warm (~38°C) | 250ml (250g) |
 | Fast-action dried yeast | 14 |
 | Caster sugar | 40 |
 | Fine salt | 9 |
-| Large egg (1) | 55 |
+| Large egg | 1 (55g) |
 | Unsalted butter, melted and cooled slightly | 70 |
-| Large egg, for the glaze (1) | 55 |
-| Sesame seeds | 18 |
+| Large egg, for the glaze | 1 (55g) |
+| Sesame seeds | 2 tbsp (18g) |
 
 ## Method
 
 1. **Wake the yeast** · 5 min
 
-   Whisk the yeast (**14g**) and a pinch of the sugar into the warm milk (**250g**, ~38°C). Leave until lively and foamy.
+   Whisk the yeast (**14g**) and a pinch of the sugar into 250ml (**250g**) warm milk (~38°C). Leave until lively and foamy.
 
 2. **Mix and knead** · 8 min
 
-   Flour (**500g**), remaining sugar (**~40g**) and salt (**9g**) into the mixer. Add the yeasted milk, egg (**55g** / 1 egg) and melted butter (**70g**) all at once. Knead on medium until smooth and elastic — 8 min in a mixer, 10 by hand. Tacky but shouldn't stick to a clean finger.
+   Flour (**500g**), remaining sugar (**~40g**) and salt (**9g**) into the mixer. Add the yeasted milk, 1 egg (**55g**) and melted butter (**70g**) all at once. Knead on medium until smooth and elastic — 8 min in a mixer, 10 by hand. Tacky but shouldn't stick to a clean finger.
 
 3. **Divide and shape** · 5 min
 
@@ -47,7 +47,7 @@ Quick version of [brioche burger buns](brioche-burger-buns.md). Trade-off: crumb
 
 5. **Glaze and bake** · 15 min
 
-   Beat the glaze egg (**55g** / 1 egg) with a splash of milk, brush generously, scatter the sesame seeds (**18g**). Bake until deep golden — higher heat compensates for the shorter prove. Internal temp 88–90°C.
+   Beat 1 glaze egg (**55g**) with a splash of milk, brush generously, scatter 2 tbsp (**18g**) sesame seeds. Bake until deep golden — higher heat compensates for the shorter prove. Internal temp 88–90°C.
 
 6. **Cool** · 20 min
 

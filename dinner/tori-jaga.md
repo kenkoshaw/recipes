@@ -24,18 +24,18 @@ thumbnail: ../images/tori-jaga/tori-jaga.jpg
 | Carrot, roll-cut | 100 |
 | Vegetable oil | 14 |
 | Fresh ginger, grated | 10 |
-| Dry white wine | 75 |
+| Dry white wine | 5 tbsp (75g) |
 | Water | 300 |
-| Katsuo dashi granules | 2 |
-| Soy sauce | 45 |
-| Caster sugar | 20 |
+| Katsuo dashi granules | 1 level tsp (2g) |
+| Soy sauce | 2½ tbsp (45g) |
+| Caster sugar | 1 tbsp (20g) |
 | Spring onions, sliced | 20 |
 
 ## Method
 
 1. **Prep everything** · 10 min
 
-   Cut the potatoes (**500g**) into 4cm chunks and roll-cut the carrot (**100g**); hold both in one bowl of cold water so the potatoes don't discolour — they go in together in step 4. Wedge the onion (**150g**) and grate the ginger (**10g**) into one small bowl — they go in together in step 3. Cut the chicken thighs (**400g**) into 4cm pieces. Stir the dashi granules (**2g**), soy sauce (**45g**) and caster sugar (**20g**) into the water (**300g**) in a jug — all added at once in step 6. Weigh the wine (**75g**) out by the hob.
+   Cut the potatoes (**500g**) into 4cm chunks and roll-cut the carrot (**100g**); hold both in one bowl of cold water so the potatoes don't discolour — they go in together in step 4. Wedge the onion (**150g**) and grate the ginger (**10g**) into one small bowl — they go in together in step 3. Cut the chicken thighs (**400g**) into 4cm pieces. Stir 1 level tsp (**2g**) dashi granules, 2½ tbsp (**45g**) soy sauce and 1 tbsp (**20g**) caster sugar into the water (**300g**) in a jug — all added at once in step 6. Weigh the 5 tbsp (**75g**) of wine out by the hob.
 
 2. **Brown the chicken** · 4 min
 
@@ -51,11 +51,11 @@ thumbnail: ../images/tori-jaga/tori-jaga.jpg
 
 5. **Boil off the wine** · 2 min
 
-   Pour in the white wine (**75g**) and raise to high. Let it bubble hard, scraping the fond off the base. Don't skip this — mirin and sake are low-acid, wine isn't, and raw alcohol left in makes the braise read as a French stew.
+   Pour in the 5 tbsp (**75g**) of white wine and raise to high. Let it bubble hard, scraping the fond off the base. Don't skip this — mirin and sake are low-acid, wine isn't, and raw alcohol left in makes the braise read as a French stew.
 
 6. **Stock, soy and sugar** · 2 min
 
-   Pour in the jug of water (**300g**), dashi granules (**2g**), soy sauce (**45g**) and caster sugar (**20g**). Bring to a boil, skim the grey scum off the surface, then drop to a bare simmer.
+   Pour in the jug of water (**300g**), 1 level tsp (**2g**) dashi granules, 2½ tbsp (**45g**) soy sauce and 1 tbsp (**20g**) caster sugar. Bring to a boil, skim the grey scum off the surface, then drop to a bare simmer.
 
 7. **Simmer covered** · 20 min
 

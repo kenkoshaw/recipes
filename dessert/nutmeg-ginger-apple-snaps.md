@@ -33,9 +33,9 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 | Ground nutmeg | 2 |
 | Ground cloves | 0.3 |
 | Salt | 0.3 |
-| Eggs, medium (2) | 100 |
+| Eggs, medium | 2 (100g) |
 | Vanilla extract | 5 |
-| Gala apples (5) | ~900 |
+| Gala apples | 5 (~900g) |
 | Granulated sugar + ground cinnamon, for sprinkling | ~15 + 2 |
 
 ## Method
@@ -64,7 +64,7 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 
 4. **Eggs and vanilla** · 2 min
 
-   Add the eggs (**100g** / 2 medium) and vanilla extract (**5g**). Beat until fully blended.
+   Add 2 medium eggs (**100g**) and vanilla extract (**5g**). Beat until fully blended.
 
    ![Eggs and vanilla in](../images/nutmeg-ginger-apple-snaps/img-5720.jpg)
 
@@ -77,7 +77,7 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 
 6. **Oven on, prep the apples** · 10 min
 
-   Oven to 160°C. Wash the gala apples (**5**), cut off tops and bottoms, and slice as thinly as you can — crosswise, so the star of the core shows in the middle of each slice.
+   Oven to 160°C. Wash the 5 gala apples (**~900g**), cut off tops and bottoms, and slice as thinly as you can — crosswise, so the star of the core shows in the middle of each slice.
 
    ![Topped and tailed](../images/nutmeg-ginger-apple-snaps/img-5724.jpg)
    ![Thin crosswise slices](../images/nutmeg-ginger-apple-snaps/img-5725.jpg)

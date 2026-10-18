@@ -21,7 +21,7 @@ Classic Andalusian cold tomato soup. Cucumber in the blend plus fresh on top, re
 | Ripe tomatoes, roughly chopped | 1000 |
 | Red pepper, deseeded and roughly chopped | 150 |
 | Cucumber, peeled (150 blended + 50 garnish) | 200 |
-| Onion (about ½ small) | 60 |
+| Onion | ½ small (60g) |
 | Garlic cloves | 10 |
 | Day-old white bread, crusts removed | 60 |
 | Extra virgin olive oil | 55 |
@@ -38,7 +38,7 @@ Classic Andalusian cold tomato soup. Cucumber in the blend plus fresh on top, re
 
 2. **Blend** · 3 min
 
-   Peel the cucumber (**200g**) and set aside **50g** for the garnish. Add the tomatoes (**1000g**), red pepper (**150g**), cucumber (**150g**), onion (**60g**) and garlic (**10g**) to a blender along with the soaked bread and all its soaking water. Blitz on high for 2 minutes until very smooth.
+   Peel the cucumber (**200g**) and set aside **50g** for the garnish. Add the tomatoes (**1000g**), red pepper (**150g**), cucumber (**150g**), ½ small onion (**60g**) and garlic (**10g**) to a blender along with the soaked bread and all its soaking water. Blitz on high for 2 minutes until very smooth.
 
 3. **Emulsify** · 2 min
 

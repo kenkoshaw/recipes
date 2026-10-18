@@ -19,7 +19,7 @@ Pure juice alone freezes rock-hard and icy. Honey lowers the freezing point for 
 |------------|-------|
 | Welch's 100% grape juice | 185 |
 | Honey | 7 |
-| Lemon juice | 3 |
+| Lemon juice | ½ tsp (3g) |
 | Salt | 0.3 |
 
 ## Method
@@ -30,7 +30,7 @@ Pure juice alone freezes rock-hard and icy. Honey lowers the freezing point for 
 
 2. **Combine and season** · 3 min
 
-   Tip the warm mixture back into the remaining grape juice (**150g**) and stir well. Add the lemon juice (**3g**, about ½ tsp) and taste at room temperature. It should read slightly too sweet and slightly too tart — freezing mutes both. Add up to **2g** more lemon if it tastes flat, but leave the salt alone; at this volume it is easy to overshoot and impossible to undo.
+   Tip the warm mixture back into the remaining grape juice (**150g**) and stir well. Add ½ tsp (**3g**) lemon juice and taste at room temperature. It should read slightly too sweet and slightly too tart — freezing mutes both. Add up to **2g** more lemon if it tastes flat, but leave the salt alone; at this volume it is easy to overshoot and impossible to undo.
 
 3. **Chill** · 30 min
 

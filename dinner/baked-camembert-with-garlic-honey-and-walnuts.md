@@ -18,8 +18,8 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 
 | Ingredient | Grams |
 |------------|-------|
-| Whole camembert (1 wheel, in its wooden box) | 250 |
-| Garlic cloves, thinly sliced (3 cloves) | 15 |
+| Whole camembert, in its wooden box | 1 wheel (250g) |
+| Garlic cloves, thinly sliced | 3 cloves (15g) |
 | Walnut halves | 50 |
 | Runny honey | 63 |
 | Fresh thyme sprigs | 3 |
@@ -32,7 +32,7 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 
 1. **Temper the cheese** · 30–60 min
 
-   Take the camembert (**250g**) out of the fridge and leave it wrapped at room temperature. 30 minutes for a ripe wheel, a full hour if it's young — a fridge-cold centre stays chalky while the edges split.
+   Take the 1 wheel (**250g**) of camembert out of the fridge and leave it wrapped at room temperature. 30 minutes for a ripe wheel, a full hour if it's young — a fridge-cold centre stays chalky while the edges split.
 
 2. **Preheat oven** · 10 min
 
@@ -40,7 +40,7 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 
 3. **Prep** · 5 min
 
-   Thinly slice the garlic (**15g**) and split it: **5g** on a saucer for the honey, **10g** in a small bowl with two whole thyme sprigs (**2g**) — both get pushed into the cheese together in step 6. Pick the leaves from the third sprig (**1g**) onto the garlic saucer. Weigh the honey (**63g**) into the small pan you will warm it in.
+   Thinly slice the 3 garlic cloves (**15g**) and split them: **5g** on a saucer for the honey, **10g** in a small bowl with two whole thyme sprigs (**2g**) — both get pushed into the cheese together in step 6. Pick the leaves from the third sprig (**1g**) onto the garlic saucer. Weigh the honey (**63g**) into the small pan you will warm it in.
 
 4. **Toast the walnuts** · 5 min
 

@@ -18,24 +18,24 @@ Proper version with optional overnight prove. In a hurry: [fast version](brioche
 | Ingredient | Grams |
 |------------|-------|
 | Strong white bread flour | 500 |
-| Whole milk, lukewarm | 200 |
+| Whole milk, lukewarm | 200ml (200g) |
 | Fast-action dried yeast | 7 |
 | Caster sugar | 50 |
 | Fine salt | 10 |
-| Large eggs (2) | 110 |
+| Large eggs | 2 (110g) |
 | Unsalted butter, softened and cubed | 100 |
-| Large egg, for the glaze (1) | 55 |
-| Sesame seeds | 18 |
+| Large egg, for the glaze | 1 (55g) |
+| Sesame seeds | 2 tbsp (18g) |
 
 ## Method
 
 1. **Activate the yeast** · 10 min
 
-   Whisk the yeast (**7g**) into the lukewarm milk (**200g**) with a pinch of the sugar. Leave until foamy and smelling bready — flat means dead yeast, start again.
+   Whisk the yeast (**7g**) into 200ml (**200g**) lukewarm milk with a pinch of the sugar. Leave until foamy and smelling bready — flat means dead yeast, start again.
 
 2. **Mix the dough** · 5 min
 
-   In a stand mixer with the dough hook, combine the flour (**500g**), remaining sugar (**~50g**) and salt (**10g**). Add the yeasted milk and the eggs (**110g** / 2 eggs). Mix on low, then medium, until a rough cohesive dough forms.
+   In a stand mixer with the dough hook, combine the flour (**500g**), remaining sugar (**~50g**) and salt (**10g**). Add the yeasted milk and 2 eggs (**110g**). Mix on low, then medium, until a rough cohesive dough forms.
 
 3. **Add the butter** · 10 min
 
@@ -55,7 +55,7 @@ Proper version with optional overnight prove. In a hurry: [fast version](brioche
 
 7. **Glaze and bake** · 17 min
 
-   Oven to 180°C fan / 200°C conventional. Beat the glaze egg (**55g** / 1 egg) with a splash of milk, brush thoroughly, scatter the sesame seeds (**18g**). Bake until deep golden all over, hollow-sounding underneath, internal temp 88–90°C.
+   Oven to 180°C fan / 200°C conventional. Beat 1 glaze egg (**55g**) with a splash of milk, brush thoroughly, scatter 2 tbsp (**18g**) sesame seeds. Bake until deep golden all over, hollow-sounding underneath, internal temp 88–90°C.
 
 8. **Cool completely** · 30 min
 

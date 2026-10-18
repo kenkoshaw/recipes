@@ -19,13 +19,13 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 | Ingredient | Grams |
 |------------|-------|
 | Plain flour | 100 |
-| Eggs (2 medium) | 100 |
+| Eggs | 2 medium (100g) |
 | Salt | 1 |
 | Double cream | 75 |
 | Water | 225 |
 | Butter, for the pan | 20 |
 | Caster sugar — optional topping | 30 |
-| Lemon juice, about 1 lemon — optional topping | 40 |
+| Lemon juice — optional topping | 1 lemon (40g) |
 | Double cream, to whip — optional topping | 150 |
 | Icing sugar — optional topping | 10 |
 | Vanilla bean extract — optional topping | 1 |
@@ -40,7 +40,7 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 
 2. **Make the batter** · 5 min
 
-   Whisk the plain flour (**100g**) and salt (**1g**) together, make a well, and beat in the eggs (**100g**). Add the cream-and-water mixture in three stages, whisking smooth between each, holding back the last **50g**. Cue: single-cream consistency — coats the back of a spoon, then runs straight off.
+   Whisk the plain flour (**100g**) and salt (**1g**) together, make a well, and beat in 2 medium eggs (**100g**). Add the cream-and-water mixture in three stages, whisking smooth between each, holding back the last **50g**. Cue: single-cream consistency — coats the back of a spoon, then runs straight off.
 
 3. **Rest the batter** · 30 min
 
@@ -56,7 +56,7 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 
 6. **Optional — sugar and lemon** · 2 min
 
-   Scatter caster sugar (**30g**) over the hot crêpe first so it melts into the butter, then lemon juice (**40g**), then roll. Fresh lemon only.
+   Scatter caster sugar (**30g**) over the hot crêpe first so it melts into the butter, then the juice of 1 lemon (**40g**), then roll. Fresh lemon only.
 
 7. **Optional — whipped cream** · 5 min
 
