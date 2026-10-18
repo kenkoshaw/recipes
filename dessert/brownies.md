@@ -5,6 +5,7 @@ source: https://www.buzzfeed.com/marietelling/heres-exactly-how-to-make-the-best
 servings: 24
 tags: [brownies, chocolate, baking, traybake]
 last_made:
+thumbnail: ../images/brownies/thumbnail.jpg
 ---
 
 # Brownies
