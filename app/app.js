@@ -18,9 +18,9 @@
   const EMOJI = { breakfast: '🥞', dinner: '🍲', dessert: '🍰', bread: '🍞' };
   const LABEL = { breakfast: 'Breakfast', dinner: 'Dinner', dessert: 'Dessert', bread: 'Bread' };
 
-  tabbar.querySelector('[data-tab="home"]').innerHTML = ICONS.home;
-  tabbar.querySelector('[data-tab="search"]').innerHTML = ICONS.search;
-  tabbar.querySelector('[data-tab="favourites"]').innerHTML = ICONS.heart;
+  tabbar.querySelector('[data-tab="home"]').innerHTML = `${ICONS.home}<span>Home</span>`;
+  tabbar.querySelector('[data-tab="search"]').innerHTML = `${ICONS.search}<span>Search</span>`;
+  tabbar.querySelector('[data-tab="favourites"]').innerHTML = `${ICONS.heart}<span>Favourites</span>`;
 
   // ---------- Persistent per-device state ----------
   const store = {
@@ -65,13 +65,6 @@
       <p>${esc(r.blurb)}</p>
     </a>`;
 
-  const wideCard = (r) => `
-    <a class="wide-card" href="#/r/${esc(r.slug)}">
-      ${thumb(r)}
-      <h3>${esc(r.title)}</h3>
-      <p>${esc(r.blurb)}</p>
-    </a>`;
-
   function matches(r, q) {
     if (!q) return true;
     if (!r._search) {
@@ -97,7 +90,6 @@
   }
 
   function renderHome({ focusSearch = false } = {}) {
-    const recent = [...data.recipes].filter((r) => r.lastMade).sort((a, b) => b.lastMade.localeCompare(a.lastMade)).slice(0, 6);
     const chips = ['all', ...data.categories].map((c) =>
       `<button class="chip ${state.category === c ? 'active' : ''}" data-cat="${c}">${c === 'all' ? 'All' : LABEL[c] || c}</button>`).join('');
 
@@ -113,21 +105,15 @@
           <button class="clear" id="clear" aria-label="Clear search" ${state.query ? '' : 'hidden'}>${ICONS.close}</button>
         </label>
         <div class="chips">${chips}</div>
-        <div id="recent"></div>
         <div id="results"></div>
       </div>`;
 
-    const recentEl = view.querySelector('#recent');
     const resultsEl = view.querySelector('#results');
     const input = view.querySelector('#q');
     const clear = view.querySelector('#clear');
 
     const paint = () => {
       const list = filtered();
-      const browsing = !state.query && state.category === 'all';
-      recentEl.innerHTML = browsing && recent.length
-        ? `<h2 class="section-title">Recently made</h2><div class="carousel">${recent.map(wideCard).join('')}</div>`
-        : '';
       const heading = state.query ? 'Results' : state.category === 'all' ? 'All recipes' : LABEL[state.category];
       resultsEl.innerHTML = `<h2 class="section-title">${esc(heading)} <small>${list.length}</small></h2>` +
         (list.length
@@ -203,6 +189,7 @@
     const anyProgress = progress.ing.length || progress.steps.length;
 
     view.innerHTML = `
+      <div class="recipe">
       <div class="hero">
         ${thumb(r)}
         <div class="hero-bar">
@@ -213,6 +200,7 @@
         </div>
       </div>
       <article class="sheet">
+        <div class="recipe-aside">
         <div class="title-row">
           <h1>${esc(r.title)}</h1>
           <span class="cat-tag">${esc(LABEL[r.category] || r.category)}</span>
@@ -244,7 +232,9 @@
             </ul>
           </div>
         </details>
+        </div>
 
+        <div class="recipe-main">
         <details class="block" open>
           <summary>How to make it ${ICONS.chevron}</summary>
           <div class="block-body">
@@ -271,7 +261,9 @@
           ${r.lastMade ? `Last made ${esc(formatDate(r.lastMade))}<br>` : ''}
           ${/^https?:\/\//.test(r.source) ? `Source: <a href="${esc(r.source)}" target="_blank" rel="noopener">${esc(r.source.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, ''))}</a>` : r.source ? `Source: ${esc(r.source)}` : ''}
         </div>
-      </article>`;
+        </div>
+      </article>
+      </div>`;
 
     window.scrollTo(0, 0);
 
