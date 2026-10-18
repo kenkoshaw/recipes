@@ -5,6 +5,7 @@ source: own recipe
 servings: 4
 tags: [soup, spanish, cold, vegetarian, summer]
 last_made: 2026-09-27
+thumbnail: ../images/gazpacho/gazpacho.jpg
 ---
 
 # Gazpacho
