@@ -175,6 +175,22 @@ input { font: inherit; color: inherit; }
 .footer-links { padding: 4px 0 20px; font-size: 14px; color: var(--text-3); line-height: 1.6; }
 .footer-links a { color: var(--accent); word-break: break-all; }
 
+/* ---------- Prepare bowls ---------- */
+.bowls-title { font-size: 15px; font-weight: 600; color: var(--text-2); margin: 22px 0 10px; }
+.bowl { border: 1px solid var(--border); border-radius: 16px; padding: 12px 14px; margin-bottom: 10px; background: var(--surface); cursor: pointer; }
+.bowl-head { display: flex; align-items: center; gap: 12px; font-weight: 600; font-size: 16px; }
+.bowl-head .tick { width: 24px; height: 24px; border-radius: 8px; border: 1.5px solid var(--border); flex: none; display: grid; place-items: center; color: transparent; }
+.bowl-head .tick svg { width: 14px; height: 14px; }
+.bowl-title { flex: 1; min-width: 0; }
+.bowl-head em { font-style: normal; font-weight: 400; font-size: 13px; color: var(--text-3); white-space: nowrap; }
+.bowl-items { list-style: none; margin: 8px 0 0 36px; padding: 0; }
+.bowl-items li { display: flex; gap: 12px; padding: 5px 0; font-size: 15px; color: var(--text-2); }
+.bowl-items .name { flex: 1; }
+.bowl-items .grams { font-weight: 600; color: var(--text); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.bowl.done .tick { background: var(--accent); border-color: var(--accent); color: #fff; }
+.bowl.done .bowl-title, .bowl.done .bowl-items { opacity: .45; }
+.bowl-ref { display: inline-block; padding: 0 7px; border-radius: 7px; background: var(--accent-soft); color: var(--accent); font-weight: 600; font-size: .92em; white-space: nowrap; }
+
 /* ---------- Tab bar ---------- */
 .tabbar { position: fixed; left: 0; right: 0; bottom: 0; height: var(--tabbar-h); padding: 10px 24px var(--safe-bottom); display: flex; justify-content: space-around; align-items: flex-start; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border-top: 1px solid var(--border); z-index: 10; }
 .tabbar a { width: 56px; height: 52px; border-radius: 16px; display: grid; place-items: center; color: var(--text); }

@@ -28,19 +28,34 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 | Salt | 1 tsp (5g) |
 | Egg, for brushing (optional) | 1 (~50g) |
 
+### Bowl A — sugar, yeast and butter (step 3)
+
+| Ingredient | Grams |
+|------------|-------|
+| Sugar | 1 tbsp (15g) |
+| Instant dry yeast | 1 tsp (3g) |
+| Unsalted butter, room temperature | 2 tsp (10g) |
+
+### Bowl B — flour and salt (step 3)
+
+| Ingredient | Grams |
+|------------|-------|
+| Bread flour, about 12% protein | 200 |
+| Salt | 1 tsp (5g) |
+
 ## Method
 
 1. **Make the yudane the night before** · 5 min + overnight
 
    Put the bread flour (**50g**) in a bowl, pour in 40ml (**40g**) boiling water, above 90°C, and mix well. Cover with cling film and refrigerate overnight.
 
-2. **Prep everything** · 10 min
+2. **Get ready** · 5 min
 
-   Take the yudane out of the fridge. Weigh 150ml (**155g**) milk into the Kenwood bowl. Put 1 tbsp (**15g**) sugar, 1 tsp (**3g**) yeast and 2 tsp (**10g**) butter in one small bowl, since they go in together in step 3. Weigh the bread flour (**200g**) and 1 tsp (**5g**) salt together into a second bowl for step 3. Lightly grease a bowl for the first rise and have a 10×20×9cm loaf tin ready for step 7.
+   Take the yudane out of the fridge. Weigh 150ml (**155g**) milk into the Kenwood bowl. Lightly grease a bowl for the first rise and have a 10×20×9cm loaf tin ready for step 7.
 
 3. **Add everything to the bowl** · 5 min
 
-   Tip the bowl of 1 tbsp (**15g**) sugar, 1 tsp (**3g**) yeast and 2 tsp (**10g**) butter into the 150ml (**155g**) milk. Tear the yudane (**90g** in total) into small pieces into the bowl, then add the bread flour (**200g**) and 1 tsp (**5g**) salt. Fit the dough hook and mix on low until everything is combined.
+   Tip Bowl A (1 tbsp (**15g**) sugar, 1 tsp (**3g**) yeast and 2 tsp (**10g**) butter) into the 150ml (**155g**) milk. Tear the yudane (**90g** in total) into small pieces into the bowl, then add Bowl B (bread flour **200g** and 1 tsp (**5g**) salt). Fit the dough hook and mix on low until everything is combined.
 
 4. **Knead** · 20 min
 
@@ -83,3 +98,4 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 - 2026-10-18: imported from chopstickchronicles.com using the source's metric weights, with the Kenwood dough hook for the kneading. The source gives milk (150ml) and boiling water (40ml) in ml; converted to **155g** and **40g**. The egg for brushing has no amount in the source, so **~50g** (one egg) is an estimate. The **~240g** per piece is worked out from the ingredient total. The source gives no active time, so ~45 min is an estimate.
 - 2026-10-18: the source lists the optional egg wash after cooling; here it's brushed on before baking, which is where it would normally go. The source also says only "place the rolled dough in the end of the tin facing the centre"; I read that as one roll at each end, facing the centre. Neither reading is checked against the source's video.
+- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–B) under Ingredients; the prep step no longer weighs them. Quantities unchanged.

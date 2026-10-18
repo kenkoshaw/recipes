@@ -63,6 +63,24 @@ function parseIngredients(text) {
   return rows;
 }
 
+// Ingredients section = the full table, then optional "### Bowl A — label (step N)" sub-sections.
+function parseIngredientSection(text) {
+  const [main, ...bowlParts] = text.split(/^### +/m);
+  const bowls = bowlParts.map((part) => {
+    const nl = part.indexOf('\n');
+    const heading = part.slice(0, nl).trim();
+    const step = (heading.match(/\(step (\d+)\)/i) || [])[1] || '';
+    return {
+      title: mdInline(heading.replace(/\s*\(step \d+\)\s*$/i, '')),
+      step,
+      items: parseIngredients(part.slice(nl + 1)),
+    };
+  });
+  return { ingredients: parseIngredients(main), bowls };
+}
+
+const bowlRefs = (html) => html.replace(/\bBowl ([A-Z])\b/g, '<span class="bowl-ref">Bowl $1</span>');
+
 function parseMethod(text) {
   const items = text.split(/^\d+\.\s+/m).slice(1);
   return items.map((item) => {
@@ -72,7 +90,7 @@ function parseMethod(text) {
     return {
       title: t ? t[1] : mdInline(first),
       time: t && t[2] ? t[2].trim() : '',
-      html: md(t ? body : item),
+      html: bowlRefs(md(t ? body : item)),
     };
   });
 }
@@ -87,6 +105,7 @@ async function loadRecipe(category, file) {
   const [meta, body] = parseFrontmatter(raw.replace(/\r\n/g, '\n'));
   const s = splitSections(body);
   const { glance, intro } = parseHead(s._head);
+  const ing = parseIngredientSection(s.ingredients || '');
   const known = new Set(['_head', 'ingredients', 'method', 'tips', 'adjustment log']);
   const image = meta.thumbnail ? fixImagePaths(meta.thumbnail) : firstImage(raw);
   const introText = intro.replace(/^!\[[^\]]*\]\(([^)]+)\)\s*$/m, (line, src) => (fixImagePaths(src) === image ? '' : line));
@@ -103,7 +122,8 @@ async function loadRecipe(category, file) {
     active: glance.active || '',
     intro: introText.trim() ? md(introText) : '',
     image,
-    ingredients: parseIngredients(s.ingredients || ''),
+    ingredients: ing.ingredients,
+    bowls: ing.bowls,
     steps: parseMethod(s.method || ''),
     tips: s.tips ? md(s.tips) : '',
     log: s['adjustment log'] ? md(s['adjustment log']) : '',

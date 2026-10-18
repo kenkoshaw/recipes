@@ -38,11 +38,38 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 | Gala apples | 5 (~900g) |
 | Granulated sugar + ground cinnamon, for sprinkling | ~15 + 2 |
 
+### Bowl A — sugar mixture (step 3)
+
+| Ingredient | Grams |
+|------------|-------|
+| Caster sugar | 100 |
+| Brown sugar | 80 |
+| Maple syrup | 40 |
+| Fresh ginger, grated | 6 |
+
+### Bowl B — eggs and vanilla (step 4)
+
+| Ingredient | Grams |
+|------------|-------|
+| Eggs, medium | 2 (100g) |
+| Vanilla extract | 5 |
+
+### Bowl C — dry mix (step 5)
+
+| Ingredient | Grams |
+|------------|-------|
+| Plain (all-purpose) flour | 480 |
+| Ground cinnamon | 5 |
+| Ground ginger | 4 |
+| Ground nutmeg | 2 |
+| Ground cloves | 0.3 |
+| Salt | 0.3 |
+
 ## Method
 
-1. **Prep three bowls** · 10 min
+1. **Cube the butter, whisk the dry mix** · 10 min
 
-   Large bowl: the butter (**450g**), cut into small cubes. Small bowl: the caster sugar (**100g**), brown sugar (**80g**), maple syrup (**40g**) and freshly grated ginger (**6g**). Medium bowl: whisk together the flour (**480g**), cinnamon (**5g**), ground ginger (**4g**), nutmeg (**2g**), cloves (**0.3g**) and salt (**0.3g**).
+   Large bowl: the butter (**450g**), cut into small cubes. Whisk Bowl C together until evenly mixed.
 
    ![Mixing bowl](../images/nutmeg-ginger-apple-snaps/img-5703.jpg)
    ![Grating the ginger](../images/nutmeg-ginger-apple-snaps/img-5706.jpg)
@@ -57,20 +84,20 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 
 3. **Add the sugar mixture** · 3 min
 
-   Add the sugar mixture (**226g** total) to the butter and whisk together until fluffy.
+   Add Bowl A (caster sugar **100g**, brown sugar **80g**, maple syrup **40g** and grated ginger **6g**; **226g** total) to the butter and whisk together until fluffy.
 
    ![Adding the sugar mixture](../images/nutmeg-ginger-apple-snaps/img-5715.jpg)
    ![Whisked fluffy](../images/nutmeg-ginger-apple-snaps/img-5718.jpg)
 
 4. **Eggs and vanilla** · 2 min
 
-   Add 2 medium eggs (**100g**) and vanilla extract (**5g**). Beat until fully blended.
+   Add Bowl B (2 medium eggs (**100g**) and vanilla extract (**5g**)). Beat until fully blended.
 
    ![Eggs and vanilla in](../images/nutmeg-ginger-apple-snaps/img-5720.jpg)
 
 5. **Flour in thirds** · 5 min
 
-   Add a third of the flour mixture (**~164g** of the **~492g** total) and mix until fully blended. Repeat twice more until it's all in.
+   Add a third of Bowl C (**~164g** of the **~492g** total) and mix until fully blended. Repeat twice more until it's all in.
 
    ![First third of flour](../images/nutmeg-ginger-apple-snaps/img-5721.jpg)
    ![Finished dough](../images/nutmeg-ginger-apple-snaps/img-5723.jpg)
@@ -120,3 +147,4 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 ## Adjustment Log
 
 - 2026-09-27: imported from Notion export with step photos. Used the full "Amount" column of the Notion ingredients table (¾-scale column noted in Tips). Eggs 2 medium ≈ 100g, 5 gala apples ≈ 900g; sprinkling sugar/cinnamon estimated (not in the Notion table). Photos compressed to max 400px.
+- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–C) under Ingredients; the prep step no longer weighs them. Quantities unchanged.

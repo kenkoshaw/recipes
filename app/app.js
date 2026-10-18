@@ -180,13 +180,15 @@
 
     const progressKey = `progress:${slug}`;
     const progress = store.get(progressKey, { ing: [], steps: [] });
+    progress.bowls = progress.bowls || [];
     const meta = [
       r.total && `<span>${ICONS.clock}${esc(r.total)}</span>`,
       r.active && `<span>${ICONS.flame}${esc(r.active)} active</span>`,
       r.makes && `<span>${ICONS.bowl}${esc(r.makes)}</span>`,
     ].filter(Boolean).join('');
     const fav = favourites.has(slug);
-    const anyProgress = progress.ing.length || progress.steps.length;
+    const anyProgress = progress.ing.length || progress.steps.length || progress.bowls.length;
+    const gramsText = (g) => (/^[\d.~+\s–-]+$/.test(g) ? `${g} g` : g);
 
     view.innerHTML = `
       <div class="recipe">
@@ -227,9 +229,22 @@
                 <li data-ing="${n}" class="${progress.ing.includes(n) ? 'done' : ''}">
                   <span class="tick">${ICONS.check}</span>
                   <span class="name">${i.name}</span>
-                  <span class="grams">${esc(/^[\d.~+\s–-]+$/.test(i.grams) ? `${i.grams} g` : i.grams)}</span>
+                  <span class="grams">${esc(gramsText(i.grams))}</span>
                 </li>`).join('')}
             </ul>
+            ${r.bowls.length ? `
+              <h3 class="bowls-title">Prepare bowls</h3>
+              ${r.bowls.map((b, n) => `
+                <div class="bowl ${progress.bowls.includes(n) ? 'done' : ''}" data-bowl="${n}">
+                  <div class="bowl-head">
+                    <span class="tick">${ICONS.check}</span>
+                    <span class="bowl-title">${b.title}</span>
+                    ${b.step ? `<em>step ${esc(b.step)}</em>` : ''}
+                  </div>
+                  <ul class="bowl-items">
+                    ${b.items.map((i) => `<li><span class="name">${i.name}</span><span class="grams">${esc(gramsText(i.grams))}</span></li>`).join('')}
+                  </ul>
+                </div>`).join('')}` : ''}
           </div>
         </details>
         </div>
@@ -305,6 +320,12 @@
       const n = Number(li.dataset.ing);
       const done = li.classList.toggle('done');
       progress.ing = done ? [...progress.ing, n] : progress.ing.filter((x) => x !== n);
+      save();
+    }));
+    view.querySelectorAll('[data-bowl]').forEach((el) => el.addEventListener('click', () => {
+      const n = Number(el.dataset.bowl);
+      const done = el.classList.toggle('done');
+      progress.bowls = done ? [...progress.bowls, n] : progress.bowls.filter((x) => x !== n);
       save();
     }));
     view.querySelectorAll('[data-step]').forEach((li) => li.addEventListener('click', (e) => {

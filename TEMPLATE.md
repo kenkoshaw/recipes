@@ -22,11 +22,18 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 | Ingredient two | 400 |
 | Ingredient three | 10 |
 
+### Bowl A — ingredients added together (step 1)
+
+| Ingredient | Grams |
+|------------|-------|
+| Ingredient one | 500 |
+| Ingredient two | 400 |
+
 ## Method
 
 1. **Short action title** · 10 min
 
-   Description of the step. Every quantity restated inline and bolded — never "add the flour", always add the flour (**500g**).
+   Description of the step. Tip in Bowl A (ingredient one **500g**, ingredient two **400g**). Every other quantity restated inline and bolded — never "add the flour", always add the flour (**500g**).
 
 2. **Next action** · 5 min
 

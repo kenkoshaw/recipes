@@ -34,15 +34,43 @@ Japanese bakery-style strawberry shortcake: a light, fluffy sponge baked in a wa
 | Caster sugar, for the syrup | 2 tbsp (25g) |
 | Hot water, for the syrup | 3 tbsp (45g) |
 
+### Bowl A — milk and butter, in a heatproof bowl (step 2)
+
+| Ingredient | Grams |
+|------------|-------|
+| Whole milk | 80 |
+| Unsalted butter | 50 |
+
+### Bowl B — syrup sugar and hot water (step 10)
+
+| Ingredient | Grams |
+|------------|-------|
+| Caster sugar, for the syrup | 2 tbsp (25g) |
+| Hot water, for the syrup | 3 tbsp (45g) |
+
+### Bowl C — cream and icing sugar (step 11)
+
+| Ingredient | Grams |
+|------------|-------|
+| Whipping cream (heavy cream) | 280 |
+| Icing sugar | 2 tbsp (16g) |
+
+### Bowl D — gelatin and cold water, stabilised cream only (step 11)
+
+| Ingredient | Grams |
+|------------|-------|
+| Gelatin powder (optional, stabilised cream) | ¾ tsp (2.5g) |
+| Cold water, for the gelatin (optional) | 2 tbsp (30g) |
+
 ## Method
 
 1. **Prep everything** · 15 min
 
-   Line the base of a 20cm round tin with baking paper. If it's a springform or loose-bottomed tin, wrap the outside in a few layers of foil so the water bath can't leak in. Find a deep roasting tin that the cake tin fits inside. Fit the whisk to the Kenwood and make sure the bowl and whisk are clean and dry; any fat stops the whites whipping. Weigh the milk (**80g**) and butter (**50g**) into one heatproof bowl, since they're melted together in step 2. Weigh the cake flour (**75g**) out next to it for step 3. Separate the eggs: 4 yolks (**~70g**) into a small bowl for step 3, 4 whites (**~120g**) straight into the Kenwood bowl for step 4. Weigh the caster sugar (**70g**) into a small bowl by the mixer.
+   Line the base of a 20cm round tin with baking paper. If it's a springform or loose-bottomed tin, wrap the outside in a few layers of foil so the water bath can't leak in. Find a deep roasting tin that the cake tin fits inside. Fit the whisk to the Kenwood and make sure the bowl and whisk are clean and dry; any fat stops the whites whipping. Weigh the cake flour (**75g**) out for step 3. Separate the eggs: 4 yolks (**~70g**) into a small bowl for step 3, 4 whites (**~120g**) straight into the Kenwood bowl for step 4. Weigh the caster sugar (**70g**) into a small bowl by the mixer.
 
 2. **Heat the oven, melt the butter** · 5 min
 
-   Heat the oven to 160°C with a rack in the middle and boil a kettle for the water bath. Microwave the bowl of milk (**80g**) and butter (**50g**) until the butter has melted, then stir.
+   Heat the oven to 160°C with a rack in the middle and boil a kettle for the water bath. Microwave Bowl A (milk **80g** and butter **50g**) until the butter has melted, then stir.
 
 3. **Make the yolk batter** · 5 min
 
@@ -74,14 +102,14 @@ Japanese bakery-style strawberry shortcake: a light, fluffy sponge baked in a wa
 
 10. **Make the cake syrup** · 2 min
 
-    Stir 2 tbsp (**25g**) caster sugar into 3 tbsp (**45g**) hot water until dissolved. Optionally stir in the reserved strawberry liquid for extra flavour; it tints the cake slices slightly pink.
+    Stir Bowl B (2 tbsp (**25g**) caster sugar and 3 tbsp (**45g**) hot water) together until dissolved. Optionally stir in the reserved strawberry liquid for extra flavour; it tints the cake slices slightly pink.
 
 11. **Whip the cream** · 10 min
 
     Choose plain or stabilised cream. Stabilised cream sets, so make it only once the cake is ready to assemble.
 
-    - **Plain:** wash and dry the Kenwood bowl and whisk. Pour in the cream (**280g**), sift in 2 tbsp (**16g**) icing sugar and whisk on medium speed until firm peaks form.
-    - **Stabilised:** stir ¾ tsp (**2.5g**) gelatin into 2 tbsp (**30g**) cold water, leave for 5 min, then melt briefly in the microwave or a hot water bath. Wash and dry the bowl and whisk, pour in the cream (**280g**), sift in 2 tbsp (**16g**) icing sugar and whisk on medium speed to very soft peaks, then stop. Stir a large scoop of cream into the melted gelatin, drizzle that back into the bowl and whisk briefly until soft peaks form. Don't over-whip or the gelatin separates into blobs.
+    - **Plain:** wash and dry the Kenwood bowl and whisk. Pour in the cream from Bowl C (**280g**), sift in its 2 tbsp (**16g**) icing sugar and whisk on medium speed until firm peaks form.
+    - **Stabilised:** stir together Bowl D (¾ tsp (**2.5g**) gelatin and 2 tbsp (**30g**) cold water), leave for 5 min, then melt briefly in the microwave or a hot water bath. Wash and dry the bowl and whisk, pour in the cream from Bowl C (**280g**), sift in its 2 tbsp (**16g**) icing sugar and whisk on medium speed to very soft peaks, then stop. Stir a large scoop of cream into the melted gelatin, drizzle that back into the bowl and whisk briefly until soft peaks form. Don't over-whip or the gelatin separates into blobs.
 
 12. **Level and split the cake** · 10 min
 
@@ -113,3 +141,4 @@ Japanese bakery-style strawberry shortcake: a light, fluffy sponge baked in a wa
 
 - 2026-10-18: imported from omnivorescookbook.com and converted to grams. Egg yolks (**~70g**) and whites (**~120g**) are estimates for 4 large eggs. Spoon measures converted by estimate: icing sugar 2 tbsp → **16g**, gelatin ¾ tsp → **2.5g**, caster sugar 2 tbsp → **25g**, water 2 tbsp → **30g** and 3 tbsp → **45g**, strawberry sugar 1½ tsp → **6g**. Strawberries set to the low end of the source's range (340g).
 - 2026-10-18: Kenwood balloon whisk replaces the hand mixer for the whites and cream. Tin 20cm and oven 160°C (the source doesn't say fan or conventional).
+- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–D) under Ingredients; the prep step no longer weighs them. Quantities unchanged.

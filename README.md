@@ -56,6 +56,8 @@ When creating or updating a recipe in this repo, follow these rules exactly:
     - Start from the page's `og:image`, but check it: if it's a step shot, a comparison, or has text over it, use the recipe card's photo instead, following the page's link to the recipe itself if there is one (e.g. an article linking to its Tasty recipe).
     - Crop out logos, badges and text overlays.
     - Skip it if no page has a usable photo.
+11. **Prepare bowls**: ingredients that go in at the same moment are grouped into a bowl, so the cook preps them before step 1 and uses fewer dishes. Put them as sub-sections directly under `## Ingredients`, after the full table: `### Bowl A — short label (step N)` with a table of those ingredients (same names and amounts as the main table). Letters run in order of use. A jug of liquids, or the mixing bowl itself, can be a bowl. Leave the sections out for a recipe with nothing to group; an ingredient used on its own needs no bowl.
+    - The method has no step for weighing the bowls. Steps say "Bowl A" and still restate the grams inline: `Tip in Bowl A (2 garlic cloves **~6g**, 1 onion **~150g**)`. Keep a prep step only for other prep, like lining a tin, soaking or warming milk.
 
 ## Recipe template
 
@@ -84,11 +86,18 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 | Ingredient two | 400 |
 | Ingredient three | 10 |
 
+### Bowl A — ingredients added together (step 1)
+
+| Ingredient | Grams |
+|------------|-------|
+| Ingredient one | 500 |
+| Ingredient two | 400 |
+
 ## Method
 
 1. **Short action title** · 10 min
 
-   Description of the step. Every quantity restated inline and bolded — never "add the flour", always add the flour (**500g**).
+   Description of the step. Tip in Bowl A (ingredient one **500g**, ingredient two **400g**). Every other quantity restated inline and bolded — never "add the flour", always add the flour (**500g**).
 
 2. **Next action** · 5 min
 

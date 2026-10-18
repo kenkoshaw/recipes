@@ -34,15 +34,47 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 | Baking powder | ½ tsp (2g) |
 | Granulated sugar, for the topping | 2 tbsp (26g) |
 
+### Bowl A — bread dough dry ingredients, weighed straight into the Kenwood bowl (step 2)
+
+| Ingredient | Grams |
+|------------|-------|
+| Bread flour, plus extra for dusting | 225 |
+| Cake flour (bread dough) | 3½ tbsp (25g) |
+| Salt (Diamond Crystal kosher) | 1 tsp (3g) |
+| Granulated sugar (bread dough) | 3 tbsp (40g) |
+| Instant yeast | 1¼ tsp (4g) |
+
+### Bowl B — egg, milk and water, in one jug (step 2)
+
+| Ingredient | Grams |
+|------------|-------|
+| Large egg, beaten (bread dough) | 1 (50g) |
+| Whole milk, at 30°C | 50ml (50g) |
+| Water, at 30°C | 50ml (50g) |
+
+### Bowl C — biscuit dough butter and sugar (step 5)
+
+| Ingredient | Grams |
+|------------|-------|
+| Unsalted butter, cubed, room temperature (biscuit dough) | 4 tbsp (60g) |
+| Granulated sugar (biscuit dough) | 100 |
+
+### Bowl D — biscuit dough cake flour and baking powder (step 5)
+
+| Ingredient | Grams |
+|------------|-------|
+| Cake flour (biscuit dough) | 200 |
+| Baking powder | ½ tsp (2g) |
+
 ## Method
 
 1. **Prep everything** · 20 min
 
-   Line two baking trays with parchment or silicone mats. Weigh the bread flour (**225g**), 3½ tbsp (**25g**) cake flour, 1 tsp (**3g**) salt, 3 tbsp (**40g**) sugar and 1¼ tsp (**4g**) yeast straight into the Kenwood bowl, since they go in together in step 2. Warm 50ml (**50g**) milk and 50ml (**50g**) water to 30°C, then beat in 1 large egg (**50g**) in the same jug, since all of it goes in at once in step 2. Cube 2½ tbsp (**35g**) butter into a small bowl for step 3. Weigh 4 tbsp (**60g**) butter and sugar (**100g**) for the biscuit dough into one bowl for step 5, and the cake flour (**200g**) and ½ tsp (**2g**) baking powder into another to be sifted together in step 5. Leave the second large egg (**50g**) in its shell until step 5. Weigh 2 tbsp (**26g**) topping sugar into a small bowl and keep a little bread flour to hand for dusting.
+   Line two baking trays with parchment or silicone mats. Warm the milk and water in Bowl B to 30°C, then beat in the egg. Cube 2½ tbsp (**35g**) butter into a small bowl for step 3. Leave the second large egg (**50g**) in its shell until step 5. Weigh 2 tbsp (**26g**) topping sugar into a small bowl and keep a little bread flour to hand for dusting.
 
 2. **Mix the bread dough** · 5 min
 
-   Whisk the dry ingredients in the Kenwood bowl by hand to combine. Fit the dough hook, pour in the jug of egg (**50g**), 50ml (**50g**) milk and 50ml (**50g**) water, and start on low speed. Scrape the sides and bottom with a silicone spatula a couple of times. Keep mixing until the dough clings to the hook and cleans the sides of the bowl. It starts very sticky.
+   Whisk Bowl A (bread flour **225g**, 3½ tbsp (**25g**) cake flour, 1 tsp (**3g**) salt, 3 tbsp (**40g**) sugar and 1¼ tsp (**4g**) yeast) in the Kenwood bowl by hand to combine. Fit the dough hook, pour in Bowl B (1 large egg **50g**, 50ml (**50g**) milk and 50ml (**50g**) water), and start on low speed. Scrape the sides and bottom with a silicone spatula a couple of times. Keep mixing until the dough clings to the hook and cleans the sides of the bowl. It starts very sticky.
 
 3. **Knead in the butter** · ~10 min
 
@@ -54,7 +86,7 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 
 5. **Make the biscuit dough** · 15 min
 
-   Wash and dry the Kenwood bowl and fit the K-beater. Add 4 tbsp (**60g**) butter and sugar (**100g**) and mix on medium-low until smooth and well blended. Crack the second large egg (**50g**), beat it and add it a very small amount at a time, blending well after each addition, until it's all in. Sift in the cake flour (**200g**) and ½ tsp (**2g**) baking powder and mix until just incorporated, then stop the mixer. Take the dough out and form it into a ball by hand.
+   Wash and dry the Kenwood bowl and fit the K-beater. Add Bowl C (4 tbsp (**60g**) butter and sugar **100g**) and mix on medium-low until smooth and well blended. Crack the second large egg (**50g**), beat it and add it a very small amount at a time, blending well after each addition, until it's all in. Sift in Bowl D (cake flour **200g** and ½ tsp (**2g**) baking powder) and mix until just incorporated, then stop the mixer. Take the dough out and form it into a ball by hand.
 
 6. **Divide and chill the biscuit dough** · 15 min
 
@@ -96,3 +128,4 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 ## Adjustment Log
 
 - 2026-10-18: imported from justonecookbook.com using the source's metric weights, and the stand mixer method only. The Kenwood dough hook kneads the bread dough and the K-beater mixes the biscuit dough. The source gives milk and water in ml; kept as **50g** each. It also gives no mixer times or active time, so the ~10 min knead and ~1 hr 15 active are estimates.
+- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–D) under Ingredients; the prep step no longer weighs them. Quantities unchanged.

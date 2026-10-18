@@ -23,11 +23,18 @@ Pure juice alone freezes rock-hard and icy. Honey lowers the freezing point for 
 | Lemon juice | ½ tsp (3g) |
 | Salt | 0.3 |
 
+### Bowl A — honey and salt (step 1)
+
+| Ingredient | Grams |
+|------------|-------|
+| Honey | 7 |
+| Salt | 0.3 |
+
 ## Method
 
 1. **Dissolve the honey** · 2 min
 
-   Pour off about a fifth of the grape juice (**35g** of the **185g**) into a mug and warm it for 20–30 seconds in the microwave. Stir in the honey (**7g**) and the salt (**0.3g**, a very small pinch) until fully dissolved and no grit remains on the bottom. Honey will not disperse in cold juice — it sinks and freezes into a lump at the base of the lolly.
+   Pour off about a fifth of the grape juice (**35g** of the **185g**) into a mug and warm it for 20–30 seconds in the microwave. Stir in Bowl A (honey **7g** and salt **0.3g**, a very small pinch) until fully dissolved and no grit remains on the bottom. Honey will not disperse in cold juice — it sinks and freezes into a lump at the base of the lolly.
 
 2. **Combine and season** · 3 min
 
@@ -58,3 +65,4 @@ Pure juice alone freezes rock-hard and icy. Honey lowers the freezing point for 
 ## Adjustment Log
 
 - 2026-09-27: first version, scaled down from a 500ml working batch (honey 20g → 7g, lemon 8g → 3g, salt 1g → 0.3g) to fit a single 175ml carton.
+- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A) under Ingredients; the prep step no longer weighs them. Quantities unchanged.

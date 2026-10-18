@@ -30,11 +30,26 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 | Jam, to serve | to taste |
 | Clotted cream, to serve | to taste |
 
+### Bowl A — flour, baking powder and salt, weighed into the Kenwood bowl (step 3)
+
+| Ingredient | Grams |
+|------------|-------|
+| Self-raising flour, plus more for dusting | 350 |
+| Baking powder | 1 tsp (4g) |
+| Salt | ¼ tsp (~1.5g) |
+
+### Bowl B — vanilla and lemon juice (step 5)
+
+| Ingredient | Grams |
+|------------|-------|
+| Vanilla extract | 1 tsp (5g) |
+| Lemon juice | 1 squeeze (~5g) |
+
 ## Method
 
 1. **Prep everything** · 10 min
 
-   Weigh the flour (**350g**), 1 tsp (**4g**) baking powder and ¼ tsp (**~1.5g**) salt into the Kenwood bowl, since they're mixed together in step 3. Cube the butter (**85g**) into a small bowl for step 4 and weigh 3 tbsp (**~38g**) caster sugar into another. Pour 175ml (**180g**) milk into a jug for step 5. Put 1 tsp (**5g**) vanilla and a squeeze (**~5g**) of lemon juice in one small cup, since they go into the milk together in step 5. Beat the egg (**~25g**) in a cup for the glaze. Keep some extra flour aside for dusting.
+   Cube the butter (**85g**) into a small bowl for step 4 and weigh 3 tbsp (**~38g**) caster sugar into another. Pour 175ml (**180g**) milk into a jug for step 5. Beat the egg (**~25g**) in a cup for the glaze. Keep some extra flour aside for dusting.
 
 2. **Heat the oven and tray** · 10 min
 
@@ -42,7 +57,7 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 
 3. **Mix the dry ingredients** · 1 min
 
-   Fit the K-beater and mix the flour (**350g**), 1 tsp (**4g**) baking powder and ¼ tsp (**~1.5g**) salt on low until combined.
+   Fit the K-beater and mix Bowl A (flour **350g**, 1 tsp (**4g**) baking powder and ¼ tsp (**~1.5g**) salt) on low until combined.
 
 4. **Rub in the butter** · 3 min
 
@@ -50,7 +65,7 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 
 5. **Warm the milk** · 2 min
 
-   Microwave the 175ml (**180g**) milk in the jug for about 30 secs, until warm but not hot. Stir in the cup of 1 tsp (**5g**) vanilla and a squeeze (**~5g**) of lemon juice and set aside for a moment.
+   Microwave the 175ml (**180g**) milk in the jug for about 30 secs, until warm but not hot. Stir in Bowl B (1 tsp (**5g**) vanilla and a squeeze (**~5g**) of lemon juice) and set aside for a moment.
 
 6. **Mix the dough** · 2 min
 
@@ -82,3 +97,4 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 
 - 2026-10-18: imported from bbcgoodfood.com and converted to grams. The source gives some amounts by spoon or in ml, so these are estimates: ¼ tsp salt **~1.5g**, 1 tsp baking powder **4g**, 3 tbsp caster sugar **~38g**, 175ml milk **180g**, 1 tsp vanilla **5g**, a squeeze of lemon juice **~5g**. The source gives no amount for the egg glaze (**~25g**) or for the jam and clotted cream.
 - 2026-10-18: Kenwood K-beater replaces rubbing the butter in by fingers. The source gives a 15 min total time and no active time, so ~10 min active is an estimate.
+- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–B) under Ingredients; the prep step no longer weighs them. Quantities unchanged.

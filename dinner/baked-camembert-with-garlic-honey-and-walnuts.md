@@ -28,6 +28,21 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 | Black pepper, freshly cracked | 1 |
 | Sourdough or baguette, sliced, to serve | 200 |
 
+### Bowl A — honey, garlic and thyme leaves, in the small pan (step 5)
+
+| Ingredient | Grams |
+|------------|-------|
+| Runny honey | 63 |
+| Garlic cloves, thinly sliced (first portion) | 5 |
+| Fresh thyme sprigs (third sprig, leaves only) | 1 (1g) |
+
+### Bowl B — garlic and thyme for the cheese (step 6)
+
+| Ingredient | Grams |
+|------------|-------|
+| Garlic cloves, thinly sliced (second portion) | 10 |
+| Fresh thyme sprigs (two whole sprigs) | 2 (2g) |
+
 ## Method
 
 1. **Temper the cheese** · 30–60 min
@@ -38,9 +53,9 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 
    180°C fan / 200°C conventional / gas 6. For a young, firm wheel drop to 170°C fan and plan on the longer bake time in step 7.
 
-3. **Prep** · 5 min
+3. **Slice the garlic, pick the thyme** · 5 min
 
-   Thinly slice the 3 garlic cloves (**15g**) and split them: **5g** on a saucer for the honey, **10g** in a small bowl with two whole thyme sprigs (**2g**) — both get pushed into the cheese together in step 6. Pick the leaves from the third sprig (**1g**) onto the garlic saucer. Weigh the honey (**63g**) into the small pan you will warm it in.
+   Thinly slice the 3 garlic cloves (**15g**) and pick the leaves from the third thyme sprig (**1g**), ready for Bowls A and B.
 
 4. **Toast the walnuts** · 5 min
 
@@ -48,11 +63,11 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 
 5. **Infuse the honey** · 5 min
 
-   Warm the honey (**63g**) over low heat with the saucer of sliced garlic (**5g**) and thyme leaves (**1g**). Don't let it boil — boiled garlic turns bitter. Take off the heat and leave to steep while the cheese bakes.
+   Warm Bowl A (honey **63g**, sliced garlic **5g** and thyme leaves **1g**) over low heat. Don't let it boil — boiled garlic turns bitter. Take off the heat and leave to steep while the cheese bakes.
 
 6. **Prep the cheese** · 5 min
 
-   Unwrap the camembert fully and discard the paper — the cloth-feel inner sheet is waxed or laminated and must not go in the oven. Return the naked wheel to its wooden base, lid off, and check the seam for metal staples; if there are any, wrap in a double layer of baking paper or use a buttered ramekin instead. Score a shallow crosshatch across the top rind, about 5mm deep, without cutting through the base. Push the prep bowl of sliced garlic (**10g**) and two thyme sprigs (**2g**) into the cuts. Rub with olive oil (**5g**) and season with black pepper (**1g**). Sit the whole box on a baking tray.
+   Unwrap the camembert fully and discard the paper — the cloth-feel inner sheet is waxed or laminated and must not go in the oven. Return the naked wheel to its wooden base, lid off, and check the seam for metal staples; if there are any, wrap in a double layer of baking paper or use a buttered ramekin instead. Score a shallow crosshatch across the top rind, about 5mm deep, without cutting through the base. Push Bowl B (sliced garlic **10g** and two thyme sprigs **2g**) into the cuts. Rub with olive oil (**5g**) and season with black pepper (**1g**). Sit the whole box on a baking tray.
 
 7. **Bake** · 18–20 min
 
@@ -78,3 +93,4 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 
 - 2026-09-27: Initial version. Hybrid garlic method chosen over classic studding alone — 10g studded, 5g infused into the honey. Bake temperature noted as 170°C fan / 25 min alternative after identifying the wheel as potentially underripe (4 weeks before due date).
 - 2026-10-10: Added a prep step (garlic sliced and split into honey/cheese portions, thyme sorted, honey weighed) before the walnuts; later steps renumbered 4–8. Quantities unchanged.
+- 2026-10-18: moved the ingredient groupings into Prepare bowls (Bowl A–B) under Ingredients; the prep step no longer weighs them. Quantities unchanged.
