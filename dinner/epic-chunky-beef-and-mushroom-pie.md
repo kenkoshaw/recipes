@@ -19,34 +19,34 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 | Ingredient | Grams |
 |------------|-------|
 | Dried porcini mushrooms | 20 |
-| Boiled water, for the porcini | 312 |
+| Boiled water, for the porcini | 312ml (312g) |
 | Chuck beef, cut into 2.5cm cubes | 1000 |
-| Vegetable oil | ~14 |
+| Vegetable oil | 1–2 tbsp (~14–28g) |
 | Salt and pepper, to season the beef | to taste |
-| Garlic cloves, minced (2) | ~6 |
-| Onion, finely chopped (1) | ~150 |
-| Celery, finely chopped (1 stalk) | ~50 |
-| Carrot, finely chopped (1) | ~100 |
-| Carrots, halved lengthwise and cut into 1.5cm chunks (3) | ~300 |
+| Garlic cloves, minced | 2 (~6g) |
+| Onion, finely chopped | 1 (~150g) |
+| Celery, finely chopped | 1 stalk (~50g) |
+| Carrot, finely chopped | 1 (~100g) |
+| Carrots, halved lengthwise and cut into 1.5cm chunks | 3 (~300g) |
 | Flour (any) | ~42 |
-| Dark ale (or red wine, Guinness or more beef stock) | 300 |
-| Beef stock | 500 |
-| Fresh thyme (3 sprigs, or 1 tsp dried) | ~3 |
-| Bay leaves (2) | ~1 |
+| Dark ale (or red wine, Guinness or more beef stock) | 300ml (300g) |
+| Beef stock | 500ml (500g) |
+| Fresh thyme (or 1 tsp dried) | 3 sprigs (~3g) |
+| Bay leaves | 2 (~1g) |
 | Bacon, diced | 200 |
 | Swiss brown mushrooms, larger ones halved | 300–400 |
-| Puff pastry (1 ready-rolled sheet, enough to cover the pie) | ~320 |
-| Egg yolk (1) | ~18 |
+| Puff pastry, ready-rolled, enough to cover the pie | 1 sheet (~320g) |
+| Egg yolk | 1 (~18g) |
 
 ## Method
 
 1. **Soak the porcini** · 30 min
 
-   Put the dried porcini (**20g**) in a bowl, pour in the boiled water (**312g**) and leave for at least 30 min. Do step 2 while they soak.
+   Put the dried porcini (**20g**) in a bowl, pour in 312ml (**312g**) boiled water and leave for at least 30 min. Do step 2 while they soak.
 
 2. **Prep everything** · 20 min
 
-   Cut the beef (**1000g**) into 2.5cm cubes. Put the garlic (**~6g**) and onion (**~150g**) in one bowl, since they go in together in step 5. Put the finely chopped carrot (**~100g**) and celery (**~50g**) in a second bowl, also for step 5. Put the carrot chunks (**~300g**) in a third bowl, added last in step 5. Weigh the flour (**~42g**) out by the hob. Pour the ale (**300g**) and beef stock (**500g**) into one jug, since they go in together in step 6. Put the thyme (**~3g**) and bay leaves (**~1g**) in a small bowl for step 7. Dice the bacon (**200g**), halve the larger mushrooms (**300–400g**) and keep each ready for step 8. Take the puff pastry (**~320g**) out of the fridge and have the egg yolk (**~18g**) ready for step 10.
+   Cut the beef (**1000g**) into 2.5cm cubes. Put 2 garlic cloves (**~6g**) and 1 onion (**~150g**) in one bowl, since they go in together in step 5. Put 1 finely chopped carrot (**~100g**) and 1 celery stalk (**~50g**) in a second bowl, also for step 5. Put the 3 carrots (**~300g**), cut into chunks, in a third bowl, added last in step 5. Weigh the flour (**~42g**) out by the hob. Pour 300ml (**300g**) ale and 500ml (**500g**) beef stock into one jug, since they go in together in step 6. Put 3 thyme sprigs (**~3g**) and 2 bay leaves (**~1g**) in a small bowl for step 7. Dice the bacon (**200g**), halve the larger mushrooms (**300–400g**) and keep each ready for step 8. Take the puff pastry sheet (**~320g**) out of the fridge and have 1 egg yolk (**~18g**) ready for step 10.
 
 3. **Strain the porcini** · 5 min
 
@@ -54,19 +54,19 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 
 4. **Brown the beef** · 10 min
 
-   Sprinkle the beef (**1000g**) with salt and pepper. Heat half the oil (**~14g**) in a large heavy-based pot. Brown half the beef all over, remove it, then repeat with the rest. Set the beef aside.
+   Sprinkle the beef (**1000g**) with salt and pepper. Heat 1 tbsp (**~14g**) oil in a large heavy-based pot. Brown half the beef all over, remove it, then repeat with the rest. Set the beef aside.
 
 5. **Soften the vegetables** · 12 min
 
-   Turn the heat down to medium-low. If the pot looks dry, add a little more oil. Tip in the bowl of garlic (**~6g**) and onion (**~150g**) and cook for 2 min. Add the bowl of carrot (**~100g**) and celery (**~50g**) and cook for 6 min, until softened and sweet. Add the carrot chunks (**~300g**) and cook for 2 min.
+   Turn the heat down to medium-low. If the pot looks dry, add a little more oil. Tip in the bowl of 2 garlic cloves (**~6g**) and 1 onion (**~150g**) and cook for 2 min. Add the bowl of 1 carrot (**~100g**) and 1 celery stalk (**~50g**) and cook for 6 min, until softened and sweet. Add the 3 carrots (**~300g**) and cook for 2 min.
 
 6. **Flour and liquid** · 3 min
 
-   Add the flour (**~42g**) and stir it through. Add the jug of ale (**300g**) and beef stock (**500g**) and stir to dissolve the flour.
+   Add the flour (**~42g**) and stir it through. Add the jug of 300ml (**300g**) ale and 500ml (**500g**) beef stock and stir to dissolve the flour.
 
 7. **Simmer the stew** · 1 hr 45
 
-   Add the bowl of thyme (**~3g**), bay leaves (**~1g**) and chopped porcini (**20g**), the porcini soaking liquid (**312g**, leaving the gritty bits at the bottom of the bowl) and the browned beef (**1000g**). Turn the heat up slightly, stir, bring to a simmer and cover. Adjust the heat so it simmers gently, not energetically. Cook for 1 hr 45, or until the beef is tender.
+   Add the bowl of 3 thyme sprigs (**~3g**), 2 bay leaves (**~1g**) and chopped porcini (**20g**), the porcini soaking liquid (**312g**, leaving the gritty bits at the bottom of the bowl) and the browned beef (**1000g**). Turn the heat up slightly, stir, bring to a simmer and cover. Adjust the heat so it simmers gently, not energetically. Cook for 1 hr 45, or until the beef is tender.
 
 8. **Bacon and mushrooms** · 15 min (while the stew simmers)
 
@@ -78,7 +78,7 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 
 10. **Assemble the pie** · 10 min
 
-    Heat the oven to 200°C. Pour the cooled stew into a pie dish and even out the surface. Cover with the puff pastry (**~320g**), folding the ends in if it's too big. Brush with the egg yolk (**~18g**) and cut a few slits in the top.
+    Heat the oven to 200°C. Pour the cooled stew into a pie dish and even out the surface. Cover with the puff pastry sheet (**~320g**), folding the ends in if it's too big. Brush with 1 egg yolk (**~18g**) and cut a few slits in the top.
 
 11. **Bake** · 30–35 min
 
@@ -99,5 +99,5 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 
 ## Adjustment Log
 
-- 2026-10-18: imported from recipetineats.com and converted to grams. The source gives some amounts by count or cup, so these are estimates: onion **~150g**, celery **~50g**, carrot **~100g**, 3 carrots **~300g**, 2 garlic cloves **~6g**, 1/3 cup flour **~42g**, 3 thyme sprigs **~3g**, 2 bay leaves **~1g**, 1 egg yolk **~18g**. Oil 1 tbsp (**~14g**), with a little more if the pot is dry. Ale, stock and water are in ml in the source (300ml, 500ml, 312ml), kept as **300g**, **500g** and **312g**.
+- 2026-10-18: imported from recipetineats.com and converted to grams. The source gives some amounts by count or volume, so these are estimates: onion **~150g**, celery **~50g**, carrot **~100g**, 3 carrots **~300g**, 2 garlic cloves **~6g**, flour **~42g**, 3 thyme sprigs **~3g**, 2 bay leaves **~1g**, 1 egg yolk **~18g**. Oil 1 tbsp (**~14g**), with a little more if the pot is dry. Ale, stock and water are in ml in the source (300ml, 500ml, 312ml), kept as **300g**, **500g** and **312g**.
 - 2026-10-18: puff pastry set at **~320g**, one ready-rolled sheet; the source says 1–2 sheets, enough to cover the pie. The source gives no active time, so ~45 min is an estimate.

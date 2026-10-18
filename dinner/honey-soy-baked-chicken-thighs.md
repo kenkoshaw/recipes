@@ -19,23 +19,23 @@ Skinless boneless chicken thighs marinated in a honey soy sauce, baked, then bro
 | Ingredient | Grams |
 |------------|-------|
 | Skinless boneless chicken thighs | 1200 |
-| Honey | ~128 |
-| Low-sodium soy sauce | ~75 |
-| Vegetable or canola oil | ~37 |
+| Honey | 90ml (~128g) |
+| Low-sodium soy sauce | 65ml (~75g) |
+| Vegetable or canola oil | 40ml (~37g) |
 | Green onions, finely chopped | 25 |
-| Garlic, minced (about 4 large cloves) | 16 |
-| White vinegar (optional; apple cider or rice wine vinegar also work) | 20 |
-| Sesame oil (optional) | 5 |
+| Garlic, minced | 4 large cloves (16g) |
+| White vinegar (optional; apple cider or rice wine vinegar also work) | 20ml (20g) |
+| Sesame oil (optional) | 5ml (5g) |
 | Fresh ginger, minced | 2 |
-| Salt, to season | ~1 |
-| Black pepper, to season | ~1 |
-| Fresh parsley, chopped, to garnish | ~1 |
+| Salt, to season | 1 pinch (~1g) |
+| Black pepper, to season | 1 pinch (~1g) |
+| Fresh parsley, chopped, to garnish | 1 pinch (~1g) |
 
 ## Method
 
 1. **Prep everything** · 10 min
 
-   Weigh the honey (**~128g**), soy sauce (**~75g**), oil (**~37g**), vinegar (**20g**) and sesame oil (**5g**) into one shallow bowl. Add the green onions (**25g**), garlic (**16g**) and ginger (**2g**) to the same bowl, since the whole marinade is mixed together in step 2. Pat the chicken thighs (**1200g**) dry with paper towel and trim off any excess fat. Chop the parsley (**~1g**) for the garnish and set it aside.
+   Weigh 90ml (**~128g**) honey, 65ml (**~75g**) soy sauce, 40ml (**~37g**) oil, 20ml (**20g**) vinegar and 5ml (**5g**) sesame oil into one shallow bowl. Add the green onions (**25g**), 4 garlic cloves (**16g**) and ginger (**2g**) to the same bowl, since the whole marinade is mixed together in step 2. Pat the chicken thighs (**1200g**) dry with paper towel and trim off any excess fat. Chop 1 pinch (**~1g**) of parsley for the garnish and set it aside.
 
 2. **Make the marinade** · 2 min
 
@@ -43,7 +43,7 @@ Skinless boneless chicken thighs marinated in a honey soy sauce, baked, then bro
 
 3. **Marinate the chicken** · 30 min–overnight
 
-   Season the chicken (**1200g**) with the salt (**~1g**) and pepper (**~1g**), then put it in the bowl of marinade. Cover and marinate for at least 30 min if you have time, or overnight.
+   Season the chicken (**1200g**) with 1 pinch (**~1g**) of salt and 1 pinch (**~1g**) of pepper, then put it in the bowl of marinade. Cover and marinate for at least 30 min if you have time, or overnight.
 
 4. **Heat the oven, load the pan** · 5 min
 
@@ -59,7 +59,7 @@ Skinless boneless chicken thighs marinated in a honey soy sauce, baked, then bro
 
 7. **Garnish and serve** · 2 min
 
-   Scatter the parsley (**~1g**) over the chicken, and sesame seeds too if you like. Serve with the pan juices over steamed rice, cauliflower rice, zucchini noodles, regular noodles or mashed potatoes.
+   Scatter 1 pinch (**~1g**) of parsley over the chicken, and sesame seeds too if you like. Serve with the pan juices over steamed rice, cauliflower rice, zucchini noodles, regular noodles or mashed potatoes.
 
 ## Tips
 

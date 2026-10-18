@@ -45,8 +45,8 @@ When creating or updating a recipe in this repo, follow these rules exactly:
 
 1. **Use the template below** (also in [TEMPLATE.md](TEMPLATE.md)). Same sections, same order, no extra sections.
 2. **At-a-glance line** directly under the title: `**Makes** … · **Total** … · **Active** …`.
-3. **All quantities in grams**, in the Ingredients table.
-4. **Restate grams inline and in bold in every method step** — never "add the sugar", always add the sugar (**150g**). The reader must never have to scroll back to the ingredients list.
+3. **All quantities in grams**, in the Ingredients table. Where the source gives a spoon, count or ml amount, put that first and the grams in brackets: `2 tbsp (25g)`, `4 (~70g)`, `175ml (180g)`. Metric only: no cups, ounces, pounds, inches or °F.
+4. **Restate grams inline and in bold in every method step** — never "add the sugar", always add the sugar (**150g**). The reader must never have to scroll back to the ingredients list. Where the table shows a spoon, count or ml amount, put it before the grams: 2 tbsp (**25g**) sugar.
 5. **Method step format**: numbered, bold short action title with `· time`, then a blank line, then the description indented as part of the same list item. Fold doneness cues (foamy, doubled, internal temp) into the relevant step.
 6. **Keep the original source URL** in the frontmatter if the recipe came from online.
 7. **Tips section**: record any AI suggestions or techniques that were actually used.

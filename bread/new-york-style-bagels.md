@@ -18,11 +18,11 @@ Same-day bagels made the classic way: the dough is shaped into rings and boiled 
 
 | Ingredient | Grams |
 |------------|-------|
-| Active dry yeast | 6 |
-| Granulated sugar | 19 |
-| Warm water, 40–46°C (may need up to ~60 more) | 300 |
+| Active dry yeast | 2 tsp (6g) |
+| Granulated sugar | 4½ tsp (19g) |
+| Warm water, 40–46°C (may need up to ~60 more) | 300ml (300g) |
 | Bread flour or high-gluten flour (plus up to 60 for kneading) | 440 |
-| Salt | 6 |
+| Salt | 1½ tsp (6g) |
 | Oil, for the bowl and baking sheet | as needed |
 | Toppings, optional (see Tips) | to taste |
 
@@ -30,15 +30,15 @@ Same-day bagels made the classic way: the dough is shaped into rings and boiled 
 
 1. **Prep everything** · 10 min
 
-   Weigh the flour (**440g**) and salt (**6g**) into the Kenwood bowl, since they're mixed together in step 3. Put the sugar (**19g**) and yeast (**6g**) in one small bowl for step 2. Warm the water to 40–46°C and pour it into two jugs: **120g** for the yeast in step 2, and **180g** for the dough in step 3. Of that, **80g** goes in first and the remaining **100g** only as needed. Have up to **60g** of extra flour ready in a bowl for the kneading. Lightly oil a large bowl for the rise and a baking sheet.
+   Weigh the flour (**440g**) and 1½ tsp (**6g**) salt into the Kenwood bowl, since they're mixed together in step 3. Put 4½ tsp (**19g**) sugar and 2 tsp (**6g**) yeast in one small bowl for step 2. Warm the water to 40–46°C and pour it into two jugs: 120ml (**120g**) for the yeast in step 2, and 180ml (**180g**) for the dough in step 3. Of that, 80ml (**80g**) goes in first and the remaining 100ml (**100g**) only as needed. Have up to **60g** of extra flour ready in a bowl for the kneading. Lightly oil a large bowl for the rise and a baking sheet.
 
 2. **Activate the yeast** · 5 min
 
-   Tip the sugar (**19g**) and yeast (**6g**) into the jug of warm water (**120g**). Don't stir. Leave for 5 min, then stir until everything has dissolved.
+   Tip the 4½ tsp (**19g**) sugar and 2 tsp (**6g**) yeast into the jug of 120ml (**120g**) warm water. Don't stir. Leave for 5 min, then stir until everything has dissolved.
 
 3. **Mix the dough** · 5 min
 
-   Make a well in the flour (**440g**) and salt (**6g**) in the Kenwood bowl. Fit the dough hook, pour in the yeast mixture and the first of the dough water (**80g**) and mix on the lowest speed. Add the rest of the water (up to **100g**, and a little more if it still needs it) a bit at a time, until the dough is moist and firm.
+   Make a well in the flour (**440g**) and 1½ tsp (**6g**) salt in the Kenwood bowl. Fit the dough hook, pour in the yeast mixture and the first 80ml (**80g**) of the dough water and mix on the lowest speed. Add the rest of the water (up to 100ml, **100g**, and a little more if it still needs it) a bit at a time, until the dough is moist and firm.
 
 4. **Knead** · 5–6 min
 

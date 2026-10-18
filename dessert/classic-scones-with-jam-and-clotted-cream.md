@@ -19,13 +19,13 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 | Ingredient | Grams |
 |------------|-------|
 | Self-raising flour, plus more for dusting | 350 |
-| Baking powder | 4 |
-| Salt | ~1.5 |
+| Baking powder | 1 tsp (4g) |
+| Salt | ¼ tsp (~1.5g) |
 | Butter, cubed | 85 |
-| Caster sugar | ~38 |
-| Milk | 180 |
-| Vanilla extract | 5 |
-| Lemon juice | ~5 |
+| Caster sugar | 3 tbsp (~38g) |
+| Milk | 175ml (180g) |
+| Vanilla extract | 1 tsp (5g) |
+| Lemon juice | 1 squeeze (~5g) |
 | Egg, beaten, to glaze | ~25 |
 | Jam, to serve | to taste |
 | Clotted cream, to serve | to taste |
@@ -34,7 +34,7 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 
 1. **Prep everything** · 10 min
 
-   Weigh the flour (**350g**), baking powder (**4g**) and salt (**~1.5g**) into the Kenwood bowl, since they're mixed together in step 3. Cube the butter (**85g**) into a small bowl for step 4 and weigh the caster sugar (**~38g**) into another. Pour the milk (**180g**) into a jug for step 5. Put the vanilla (**5g**) and lemon juice (**~5g**) in one small cup, since they go into the milk together in step 5. Beat the egg (**~25g**) in a cup for the glaze. Keep some extra flour aside for dusting.
+   Weigh the flour (**350g**), 1 tsp (**4g**) baking powder and ¼ tsp (**~1.5g**) salt into the Kenwood bowl, since they're mixed together in step 3. Cube the butter (**85g**) into a small bowl for step 4 and weigh 3 tbsp (**~38g**) caster sugar into another. Pour 175ml (**180g**) milk into a jug for step 5. Put 1 tsp (**5g**) vanilla and a squeeze (**~5g**) of lemon juice in one small cup, since they go into the milk together in step 5. Beat the egg (**~25g**) in a cup for the glaze. Keep some extra flour aside for dusting.
 
 2. **Heat the oven and tray** · 10 min
 
@@ -42,15 +42,15 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 
 3. **Mix the dry ingredients** · 1 min
 
-   Fit the K-beater and mix the flour (**350g**), baking powder (**4g**) and salt (**~1.5g**) on low until combined.
+   Fit the K-beater and mix the flour (**350g**), 1 tsp (**4g**) baking powder and ¼ tsp (**~1.5g**) salt on low until combined.
 
 4. **Rub in the butter** · 3 min
 
-   Add the butter (**85g**) and mix on low until the mixture looks like fine crumbs, checking it often. Stop as soon as it does. Stir in the caster sugar (**~38g**).
+   Add the butter (**85g**) and mix on low until the mixture looks like fine crumbs, checking it often. Stop as soon as it does. Stir in 3 tbsp (**~38g**) caster sugar.
 
 5. **Warm the milk** · 2 min
 
-   Microwave the milk (**180g**) in the jug for about 30 secs, until warm but not hot. Stir in the cup of vanilla (**5g**) and lemon juice (**~5g**) and set aside for a moment.
+   Microwave the 175ml (**180g**) milk in the jug for about 30 secs, until warm but not hot. Stir in the cup of 1 tsp (**5g**) vanilla and a squeeze (**~5g**) of lemon juice and set aside for a moment.
 
 6. **Mix the dough** · 2 min
 

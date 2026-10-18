@@ -19,34 +19,34 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 | Ingredient | Grams |
 |------------|-------|
 | Bread flour, plus extra for dusting | 225 |
-| Cake flour (bread dough) | 25 |
-| Salt (Diamond Crystal kosher) | 3 |
-| Granulated sugar (bread dough) | 40 |
-| Instant yeast | 4 |
-| Large egg, beaten (bread dough) | 50 |
-| Whole milk, at 30°C | 50 |
-| Water, at 30°C | 50 |
-| Unsalted butter, cubed, room temperature (bread dough) | 35 |
-| Unsalted butter, cubed, room temperature (biscuit dough) | 60 |
+| Cake flour (bread dough) | 3½ tbsp (25g) |
+| Salt (Diamond Crystal kosher) | 1 tsp (3g) |
+| Granulated sugar (bread dough) | 3 tbsp (40g) |
+| Instant yeast | 1¼ tsp (4g) |
+| Large egg, beaten (bread dough) | 1 (50g) |
+| Whole milk, at 30°C | 50ml (50g) |
+| Water, at 30°C | 50ml (50g) |
+| Unsalted butter, cubed, room temperature (bread dough) | 2½ tbsp (35g) |
+| Unsalted butter, cubed, room temperature (biscuit dough) | 4 tbsp (60g) |
 | Granulated sugar (biscuit dough) | 100 |
-| Large egg, beaten (biscuit dough) | 50 |
+| Large egg, beaten (biscuit dough) | 1 (50g) |
 | Cake flour (biscuit dough) | 200 |
-| Baking powder | 2 |
-| Granulated sugar, for the topping | 26 |
+| Baking powder | ½ tsp (2g) |
+| Granulated sugar, for the topping | 2 tbsp (26g) |
 
 ## Method
 
 1. **Prep everything** · 20 min
 
-   Line two baking trays with parchment or silicone mats. Weigh the bread flour (**225g**), cake flour (**25g**), salt (**3g**), sugar (**40g**) and yeast (**4g**) straight into the Kenwood bowl, since they go in together in step 2. Warm the milk (**50g**) and water (**50g**) to 30°C, then beat in 1 large egg (**50g**) in the same jug, since all of it goes in at once in step 2. Cube the butter (**35g**) into a small bowl for step 3. Weigh the butter (**60g**) and sugar (**100g**) for the biscuit dough into one bowl for step 5, and the cake flour (**200g**) and baking powder (**2g**) into another to be sifted together in step 5. Leave the second egg (**50g**) in its shell until step 5. Weigh the topping sugar (**26g**) into a small bowl and keep a little bread flour to hand for dusting.
+   Line two baking trays with parchment or silicone mats. Weigh the bread flour (**225g**), 3½ tbsp (**25g**) cake flour, 1 tsp (**3g**) salt, 3 tbsp (**40g**) sugar and 1¼ tsp (**4g**) yeast straight into the Kenwood bowl, since they go in together in step 2. Warm 50ml (**50g**) milk and 50ml (**50g**) water to 30°C, then beat in 1 large egg (**50g**) in the same jug, since all of it goes in at once in step 2. Cube 2½ tbsp (**35g**) butter into a small bowl for step 3. Weigh 4 tbsp (**60g**) butter and sugar (**100g**) for the biscuit dough into one bowl for step 5, and the cake flour (**200g**) and ½ tsp (**2g**) baking powder into another to be sifted together in step 5. Leave the second large egg (**50g**) in its shell until step 5. Weigh 2 tbsp (**26g**) topping sugar into a small bowl and keep a little bread flour to hand for dusting.
 
 2. **Mix the bread dough** · 5 min
 
-   Whisk the dry ingredients in the Kenwood bowl by hand to combine. Fit the dough hook, pour in the jug of egg (**50g**), milk (**50g**) and water (**50g**), and start on low speed. Scrape the sides and bottom with a silicone spatula a couple of times. Keep mixing until the dough clings to the hook and cleans the sides of the bowl. It starts very sticky.
+   Whisk the dry ingredients in the Kenwood bowl by hand to combine. Fit the dough hook, pour in the jug of egg (**50g**), 50ml (**50g**) milk and 50ml (**50g**) water, and start on low speed. Scrape the sides and bottom with a silicone spatula a couple of times. Keep mixing until the dough clings to the hook and cleans the sides of the bowl. It starts very sticky.
 
 3. **Knead in the butter** · ~10 min
 
-   Once the dough starts to come together, add the butter cubes (**35g**) with the mixer on low and mix until no streaks remain. Raise to medium-low and knead until the dough is silky, smooth and elastic. Do the windowpane test: gently pull the dough into a square. If it stretches to a thin membrane that light passes through without tearing, it's ready. If it tears, knead for 2 more minutes and test again.
+   Once the dough starts to come together, add the 2½ tbsp (**35g**) butter cubes with the mixer on low and mix until no streaks remain. Raise to medium-low and knead until the dough is silky, smooth and elastic. Do the windowpane test: gently pull the dough into a square. If it stretches to a thin membrane that light passes through without tearing, it's ready. If it tears, knead for 2 more minutes and test again.
 
 4. **First rise** · 1–2 hr
 
@@ -54,7 +54,7 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 
 5. **Make the biscuit dough** · 15 min
 
-   Wash and dry the Kenwood bowl and fit the K-beater. Add the butter (**60g**) and sugar (**100g**) and mix on medium-low until smooth and well blended. Crack the second egg (**50g**), beat it and add it a very small amount at a time, blending well after each addition, until it's all in. Sift in the cake flour (**200g**) and baking powder (**2g**) and mix until just incorporated, then stop the mixer. Take the dough out and form it into a ball by hand.
+   Wash and dry the Kenwood bowl and fit the K-beater. Add 4 tbsp (**60g**) butter and sugar (**100g**) and mix on medium-low until smooth and well blended. Crack the second large egg (**50g**), beat it and add it a very small amount at a time, blending well after each addition, until it's all in. Sift in the cake flour (**200g**) and ½ tsp (**2g**) baking powder and mix until just incorporated, then stop the mixer. Take the dough out and form it into a ball by hand.
 
 6. **Divide and chill the biscuit dough** · 15 min
 
@@ -74,7 +74,7 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 
 10. **Wrap and score** · 15 min
 
-    Put a biscuit circle on your palm and a bread ball in the middle, seam side up. Flip them over together so the biscuit dough is on top and gently pull the biscuit dough down around the bread ball, leaving the base uncovered. Dip the biscuit dough in the topping sugar (**26g**) and shake off the excess. Score a crisscross pattern about 3mm deep with a dough scraper or knife, 3 lines in each direction. Put each on a lined tray, biscuit side up, and cover with plastic wrap.
+    Put a biscuit circle on your palm and a bread ball in the middle, seam side up. Flip them over together so the biscuit dough is on top and gently pull the biscuit dough down around the bread ball, leaving the base uncovered. Dip the biscuit dough in the 2 tbsp (**26g**) topping sugar and shake off the excess. Score a crisscross pattern about 3mm deep with a dough scraper or knife, 3 lines in each direction. Put each on a lined tray, biscuit side up, and cover with plastic wrap.
 
 11. **Final rise** · 50 min
 

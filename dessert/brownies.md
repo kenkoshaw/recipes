@@ -10,7 +10,7 @@ thumbnail: ../images/brownies/thumbnail.jpg
 
 # Brownies
 
-**Makes** 24 brownies (23×33cm / 9×13in tin) · **Total** ~1 hr 30 + cooling · **Active** ~30 min
+**Makes** 24 brownies (23×33cm tin) · **Total** ~1 hr 30 + cooling · **Active** ~30 min
 
 Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-minute egg beat and the mid-bake tray drop are the two steps that make it, don't shortcut them.
 
@@ -33,7 +33,7 @@ Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-
 
 1. **Prep the tin** · 5 min
 
-   Rack in the middle, oven to 180°C conventional / 160°C fan. Grease a 23×33cm (9×13in) metal tin with softened butter, line with baking paper leaving overhang on all sides, grease the paper too.
+   Rack in the middle, oven to 180°C conventional / 160°C fan. Grease a 23×33cm metal tin with softened butter, line with baking paper leaving overhang on all sides, grease the paper too.
 
 2. **Stage the chocolate** · 3 min
 
@@ -78,7 +78,7 @@ Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-
 - Sift the dry ingredients — avoids lumps and overworking the batter.
 - The mid-bake drop evens the texture and prevents dense, flat brownies.
 - Original includes espresso powder (1 tbsp, ~7g) into the chocolate bowl at step 2 — omitted here; add back for deeper chocolate flavour, doesn't taste of coffee.
-- Original specifies a dark metal pan at 350°F; glass or light tins may need a few minutes longer.
+- Original specifies a dark metal pan at 180°C; glass or light tins may need a few minutes longer.
 
 ## Adjustment Log
 
