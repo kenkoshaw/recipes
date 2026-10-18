@@ -5,6 +5,7 @@ source: own recipe
 servings: 6
 tags: [dessert, figs, french, custard]
 last_made: 2026-09-27
+thumbnail: ../images/white-fig-clafoutis/thumbnail.jpg
 ---
 
 # White Fig Clafoutis
