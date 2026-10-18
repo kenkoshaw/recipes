@@ -5,6 +5,7 @@ source: own recipe
 servings: 2
 tags: [seafood, pasta, sicilian, quick, weeknight]
 last_made: 2026-09-27
+thumbnail: ../images/sicilian-prawn-and-tomato-spaghetti/thumbnail.jpg
 ---
 
 # Sicilian Prawn and Tomato Spaghetti
