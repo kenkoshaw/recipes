@@ -5,6 +5,7 @@ source: own recipe
 servings: 4
 tags: [starter, sharing, cheese, quick]
 last_made:
+thumbnail: ../images/baked-camembert-with-garlic-honey-and-walnuts/camembert.jpg
 ---
 
 # Baked Camembert with Garlic Honey and Walnuts
