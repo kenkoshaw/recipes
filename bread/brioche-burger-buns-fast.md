@@ -1,0 +1,63 @@
+---
+title: Fast Burger Buns
+category: bread
+source: own recipe (Claude chat, saved 2026-08-29)
+servings: 8 buns (110 g each)
+tags: [bread, burger, quick]
+last_made: 2026-08-29
+---
+
+# Fast Burger Buns
+
+**Makes** 8 buns (110g each) · **Total** ~1 hr 30 · **Active** ~20 min
+
+Quick version of [brioche burger buns](brioche-burger-buns.md). Trade-off: crumb is fluffier and more bread-roll than shreddy-brioche, and it stales by day two rather than day three. Still very good under a burger.
+
+## Ingredients
+
+| Ingredient | Grams |
+|------------|-------|
+| Strong white bread flour | 500 |
+| Whole milk, warm (~38°C) | 250 |
+| Fast-action dried yeast | 14 |
+| Caster sugar | 40 |
+| Fine salt | 9 |
+| Large egg (1) | 55 |
+| Unsalted butter, melted and cooled slightly | 70 |
+| Large egg, for the glaze (1) | 55 |
+| Sesame seeds | 18 |
+
+## Method
+
+1. **Wake the yeast** · 5 min
+
+   Whisk the yeast (**14g**) and a pinch of the sugar into the warm milk (**250g**, ~38°C). Leave until lively and foamy.
+
+2. **Mix and knead** · 8 min
+
+   Flour (**500g**), remaining sugar (**~40g**) and salt (**9g**) into the mixer. Add the yeasted milk, egg (**55g** / 1 egg) and melted butter (**70g**) all at once. Knead on medium until smooth and elastic — 8 min in a mixer, 10 by hand. Tacky but shouldn't stick to a clean finger.
+
+3. **Divide and shape** · 5 min
+
+   Skip the first prove entirely. Divide into 8 pieces of **~110g**, roll into tight balls, space 5 cm apart on a lined tray. Press tops flat.
+
+4. **Single prove** · 40 min
+
+   Cover loosely, prove somewhere warm until nearly doubled and pillowy — poke test: dents and slowly fills halfway = ready. Heat oven to 190°C fan / 210°C conventional partway through.
+
+5. **Glaze and bake** · 15 min
+
+   Beat the glaze egg (**55g** / 1 egg) with a splash of milk, brush generously, scatter the sesame seeds (**18g**). Bake until deep golden — higher heat compensates for the shorter prove. Internal temp 88–90°C.
+
+6. **Cool** · 20 min
+
+   Twenty minutes is the realistic minimum before the crumb sets enough to slice cleanly.
+
+## Tips
+
+- Time savings come from: double yeast (**14g**) + warm prove (fine here — short prove, no time for boozy off-flavours); melted butter added with the wet ingredients rather than worked in after gluten development; one prove instead of two (costs a little height and evenness).
+- Warm spot for proving: oven with just the light on, or the tray sat over a roasting tin of hot water. Don't exceed ~30°C or the butter weeps out.
+
+## Adjustment Log
+
+- 2026-09-27: split out from the combined brioche burger buns note (2026-08-29). Converted to repo format: milk 250ml → 250g, eggs ≈ 55g each, sesame 2 tbsp → 18g.
