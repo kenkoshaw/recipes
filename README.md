@@ -52,7 +52,10 @@ When creating or updating a recipe in this repo, follow these rules exactly:
 7. **Tips section**: record any AI suggestions or techniques that were actually used.
 8. **Adjustment Log**: when a recipe is changed, append a dated entry saying what changed and why. Never silently overwrite quantities without logging the change.
 9. Put the file in the correct folder (`bread/`, `breakfast/`, `dinner/`, `dessert/`) and add it to the Index below.
-10. **Thumbnail from the source link**: if the recipe came from a URL and has no `thumbnail` yet, take the page's main recipe photo (its `og:image`), save it as `images/<recipe-slug>/thumbnail.jpg`, run `scripts/clean-images.sh` on it, and set `thumbnail: ../images/<recipe-slug>/thumbnail.jpg`. Skip it if the page has no usable photo.
+10. **Thumbnail from the source link**: if the recipe came from a URL and has no `thumbnail` yet, take the recipe's main photo of the finished dish, save it as `images/<recipe-slug>/thumbnail.jpg`, run `scripts/clean-images.sh` on it, and set `thumbnail: ../images/<recipe-slug>/thumbnail.jpg`.
+    - Start from the page's `og:image`, but check it: if it's a step shot, a comparison, or has text over it, use the recipe card's photo instead, following the page's link to the recipe itself if there is one (e.g. an article linking to its Tasty recipe).
+    - Crop out logos, badges and text overlays.
+    - Skip it if no page has a usable photo.
 
 ## Recipe template
 
