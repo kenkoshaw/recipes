@@ -46,7 +46,11 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 
 1. **Thin the cream** · 2 min
 
-   Whisk the double cream (**75g**) into the water (**225g**) in a jug until uniform. This lands at roughly 6% fat, standing in for 300g of milk. Combining them first prevents lumps later. Put a small cup on the scale, zero it, and pour **50g** of the mixture into it to hold back for step 4. If whipped cream is going on top, do step 7 before this — diluted cream will not whip, and it is easier to keep the two lots of cream separate from the start.
+   Whisk the double cream (**75g**) into the water (**225g**) in a jug until uniform. This lands at roughly 6% fat, standing in for 300g of milk. Combining them first prevents lumps later.
+
+   Put a small cup on the scale, zero it, and pour **50g** of the mixture into it to hold back for step 4.
+
+   If whipped cream is going on top, do step 7 before this — diluted cream will not whip, and it is easier to keep the two lots of cream separate from the start.
 
 2. **Make the batter** · 5 min
 
@@ -62,7 +66,11 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 
 5. **Cook the crêpes** · 15 min
 
-   Heat a wide non-stick pan over medium. Wipe with butter (**20g**) between crêpes — a little on kitchen paper, not a pool. Ladle roughly **50g** of batter per crêpe and tilt immediately; it should reach the edge in about 2 seconds. Cook 45–60 seconds until the edges lift and the underside is lacy brown, flip, then 20–30 seconds on the second side.
+   Heat a wide non-stick pan over medium. Wipe with butter (**20g**) between crêpes — a little on kitchen paper, not a pool.
+
+   Ladle roughly **50g** of batter per crêpe and tilt immediately; it should reach the edge in about 2 seconds.
+
+   Cook 45–60 seconds until the edges lift and the underside is lacy brown, flip, then 20–30 seconds on the second side.
 
 6. **Optional — sugar and lemon** · 2 min
 
@@ -70,7 +78,9 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 
 7. **Optional — whipped cream** · 5 min
 
-   Chill the bowl and whisk for 15 minutes in the freezer. Whip double cream (**150g**) on medium speed, adding the cream flavouring bowl once it thickens. Stop at soft peaks — the peak flops over when the whisk is lifted. Chill until serving.
+   Chill the bowl and whisk for 15 minutes in the freezer. Whip double cream (**150g**) on medium speed, adding the cream flavouring bowl once it thickens.
+
+   Stop at soft peaks — the peak flops over when the whisk is lifted. Chill until serving.
 
 8. **Optional — loosened golden syrup** · 2 min
 

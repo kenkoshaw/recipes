@@ -45,7 +45,9 @@ Same-day bagels made the classic way: the dough is shaped into rings and boiled 
 
 2. **Mix the dough** · 5 min
 
-   Make a well in the mixer bowl. Fit the dough hook, pour in the yeast mixture and the first 80ml (**80g**) of the dough water and mix on the lowest speed. Add the rest of the water (up to 100ml, **100g**, and a little more if it still needs it) a bit at a time, until the dough is moist and firm.
+   Make a well in the mixer bowl. Fit the dough hook, pour in the yeast mixture and the first 80ml (**80g**) of the dough water and mix on the lowest speed.
+
+   Add the rest of the water (up to 100ml, **100g**, and a little more if it still needs it) a bit at a time, until the dough is moist and firm.
 
 3. **Knead** · 5–6 min
 
@@ -57,7 +59,11 @@ Same-day bagels made the classic way: the dough is shaped into rings and boiled 
 
 5. **Divide and shape into balls** · 10 min
 
-   Divide the dough into 8 pieces. Weighing is optional, but each is about **95g** from the **~760g** of dough. Shape each into a round. Cup your hand over a piece and press it gently against the unfloured worktop, moving your hand and the dough in a slow circle so the dough pulls into itself. Ease the pressure on top as you go, until you have a smooth round ball. Repeat with the rest, using no extra flour.
+   Divide the dough into 8 pieces. Weighing is optional, but each is about **95g** from the **~760g** of dough.
+
+   Shape each into a round. Cup your hand over a piece and press it gently against the unfloured worktop, moving your hand and the dough in a slow circle so the dough pulls into itself.
+
+   Ease the pressure on top as you go, until you have a smooth round ball. Repeat with the rest, using no extra flour.
 
 6. **Form the rings** · 5 min
 
@@ -69,11 +75,15 @@ Same-day bagels made the classic way: the dough is shaped into rings and boiled 
 
 8. **Boil** · 10 min
 
-   Lower the bagels into the water with a slotted spoon or skimmer, without crowding the pot. They float to the top within a couple of seconds. Leave them for 1 min, then flip and boil for another 1 min. For a chewier, more New York-style bagel, boil for 2 min each side.
+   Lower the bagels into the water with a slotted spoon or skimmer, without crowding the pot. They float to the top within a couple of seconds.
+
+   Leave them for 1 min, then flip and boil for another 1 min. For a chewier, more New York-style bagel, boil for 2 min each side.
 
 9. **Top and bake** · 20–25 min
 
-   If you want toppings, add them as the bagels come out of the water, or brush with beaten egg first so they stick. Put the bagels on an oiled or parchment-lined baking sheet and bake for 20–25 min, until golden brown. The source usually errs towards 20 min.
+   If you want toppings, add them as the bagels come out of the water, or brush with beaten egg first so they stick.
+
+   Put the bagels on an oiled or parchment-lined baking sheet and bake for 20–25 min, until golden brown. The source usually errs towards 20 min.
 
 10. **Cool** · 5 min
 

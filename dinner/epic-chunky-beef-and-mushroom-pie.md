@@ -70,11 +70,17 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 
 3. **Brown the beef** · 10 min
 
-   Sprinkle the beef (**1000g**) with salt and pepper. Heat 1 tbsp (**~14g**) oil in a large heavy-based pot. Brown half the beef all over, remove it, then repeat with the rest. Set the beef aside.
+   Sprinkle the beef (**1000g**) with salt and pepper. Heat 1 tbsp (**~14g**) oil in a large heavy-based pot.
+
+   Brown half the beef all over, remove it, then repeat with the rest. Set the beef aside.
 
 4. **Soften the vegetables** · 12 min
 
-   Turn the heat down to medium-low. If the pot looks dry, add a little more oil. Tip in the aromatics bowl and cook for 2 min. Add the carrot and celery bowl and cook for 6 min, until softened and sweet. Add the 3 carrots (**~300g**) and cook for 2 min.
+   Turn the heat down to medium-low. If the pot looks dry, add a little more oil.
+
+   Tip in the aromatics bowl and cook for 2 min. Add the carrot and celery bowl and cook for 6 min, until softened and sweet.
+
+   Add the 3 carrots (**~300g**) and cook for 2 min.
 
 5. **Flour and liquid** · 3 min
 
@@ -82,11 +88,17 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 
 6. **Simmer the stew** · 1 hr 45
 
-   Add the herb bowl with the chopped porcini (**20g**), the porcini soaking liquid (**312g**, leaving the gritty bits at the bottom of the bowl) and the browned beef (**1000g**). Turn the heat up slightly, stir, bring to a simmer and cover. Adjust the heat so it simmers gently, not energetically. Cook for 1 hr 45, or until the beef is tender.
+   Add the herb bowl with the chopped porcini (**20g**), the porcini soaking liquid (**312g**, leaving the gritty bits at the bottom of the bowl) and the browned beef (**1000g**).
+
+   Turn the heat up slightly, stir, bring to a simmer and cover. Adjust the heat so it simmers gently, not energetically.
+
+   Cook for 1 hr 45, or until the beef is tender.
 
 7. **Bacon and mushrooms** · 15 min (while the stew simmers)
 
-   Cook the bacon (**200g**) in a skillet over high heat until golden. Take it out and keep the drippings in the pan. Add the mushrooms (**300–400g**) and cook for 5 min, until golden all over. Return the bacon to the skillet, toss to coat the mushrooms, then stir it all through the stew.
+   Cook the bacon (**200g**) in a skillet over high heat until golden. Take it out and keep the drippings in the pan.
+
+   Add the mushrooms (**300–400g**) and cook for 5 min, until golden all over. Return the bacon to the skillet, toss to coat the mushrooms, then stir it all through the stew.
 
 8. **Finish the stew** · 15 min
 
@@ -94,7 +106,9 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 
 9. **Assemble the pie** · 10 min
 
-   Heat the oven to 200°C. Pour the cooled stew into a pie dish and even out the surface. Cover with the puff pastry sheet (**~320g**), folding the ends in if it's too big. Brush with 1 egg yolk (**~18g**) and cut a few slits in the top.
+   Heat the oven to 200°C. Pour the cooled stew into a pie dish and even out the surface.
+
+   Cover with the puff pastry sheet (**~320g**), folding the ends in if it's too big. Brush with 1 egg yolk (**~18g**) and cut a few slits in the top.
 
 10. **Bake** · 30–35 min
 

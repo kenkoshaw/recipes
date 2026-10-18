@@ -58,27 +58,55 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 
 1. **Mix the bread dough** · 5 min
 
-   Whisk the bread mixer bowl by hand to combine. Fit the dough hook, pour in the bread wet jug and start on low speed. Scrape the sides and bottom with a silicone spatula a couple of times. Keep mixing until the dough clings to the hook and cleans the sides of the bowl. It starts very sticky.
+   Whisk the bread mixer bowl by hand to combine. Fit the dough hook, pour in the bread wet jug and start on low speed.
+
+   Scrape the sides and bottom with a silicone spatula a couple of times.
+
+   Keep mixing until the dough clings to the hook and cleans the sides of the bowl. It starts very sticky.
 
 2. **Knead in the butter** · ~10 min
 
-   Once the dough starts to come together, add the 2½ tbsp (**35g**) butter cubes with the mixer on low and mix until no streaks remain. Raise to medium-low and knead until the dough is silky, smooth and elastic. Do the windowpane test: gently pull the dough into a square. If it stretches to a thin membrane that light passes through without tearing, it's ready. If it tears, knead for 2 more minutes and test again.
+   Once the dough starts to come together, add the 2½ tbsp (**35g**) butter cubes with the mixer on low and mix until no streaks remain. Raise to medium-low and knead until the dough is silky, smooth and elastic.
+
+   Do the windowpane test: gently pull the dough into a square. If it stretches to a thin membrane that light passes through without tearing, it's ready.
+
+   If it tears, knead for 2 more minutes and test again.
 
 3. **First rise** · 1–2 hr
 
-   Form the dough into a ball by pulling all the edges to the bottom and pinching them together. Put it seam side down in a separate bowl, since the Kenwood bowl is needed in step 4. Cover with plastic wrap and leave in a warm place until doubled in size. Use your oven's proof setting (38°C) if it has one. If not, put small dishes of boiling water at the four corners of the lower-middle rack, put the dough bowl in the centre and close the door. Make the biscuit dough while it rises.
+   Form the dough into a ball by pulling all the edges to the bottom and pinching them together. Put it seam side down in a separate bowl, since the Kenwood bowl is needed in step 4.
+
+   Cover with plastic wrap and leave in a warm place until doubled in size.
+
+   Use your oven's proof setting (38°C) if it has one. If not, put small dishes of boiling water at the four corners of the lower-middle rack, put the dough bowl in the centre and close the door.
+
+   Make the biscuit dough while it rises.
 
 4. **Make the biscuit dough** · 15 min
 
-   Wash and dry the Kenwood bowl and fit the K-beater. Add the biscuit butter and sugar bowl and mix on medium-low until smooth and well blended. Crack the second large egg (**50g**), beat it and add it a very small amount at a time, blending well after each addition, until it's all in. Sift in the biscuit dough dry bowl and mix until just incorporated, then stop the mixer. Take the dough out and form it into a ball by hand.
+   Wash and dry the Kenwood bowl and fit the K-beater. Add the biscuit butter and sugar bowl and mix on medium-low until smooth and well blended.
+
+   Crack the second large egg (**50g**), beat it and add it a very small amount at a time, blending well after each addition, until it's all in.
+
+   Sift in the biscuit dough dry bowl and mix until just incorporated, then stop the mixer. Take the dough out and form it into a ball by hand.
 
 5. **Divide and chill the biscuit dough** · 15 min
 
-   Weigh the biscuit dough (it should be around **400–410g**) and cut it roughly into 10 pieces. Divide the total by 10 for the target weight of each piece (**40–41g**). Weigh the biggest piece first and pinch off dough if it's over, then weigh again. Repeat with the others, pinching dough from larger pieces or pushing some into smaller ones. Roll each piece into a ball, put them on a lined tray, cover with plastic wrap and chill for 10 min so they firm up and are easier to handle.
+   Weigh the biscuit dough (it should be around **400–410g**) and cut it roughly into 10 pieces. Divide the total by 10 for the target weight of each piece (**40–41g**).
+
+   Weigh the biggest piece first and pinch off dough if it's over, then weigh again. Repeat with the others, pinching dough from larger pieces or pushing some into smaller ones.
+
+   Roll each piece into a ball, put them on a lined tray, cover with plastic wrap and chill for 10 min so they firm up and are easier to handle.
 
 6. **Check and divide the bread dough** · 15 min
 
-   Dust a finger with flour and poke the centre of the risen dough. If the hole stays, it's ready. If it closes straight away, let it rise a little longer. Tip the dough onto a lightly floured surface and press it to deflate. Fold the sides in thirds to the centre, then the bottom and top in thirds, flip it seam side down and roll it into a ball, turning it so the seam closes. Weigh it (it should be around **460–470g**) and cut it into 10 pieces. The target for each piece is the total divided by 10 (**46–47g**). Weigh and adjust the pieces as in step 5. Pre-shape each into a ball by pulling the edges underneath and turning it on your palm with the seam at the bottom. Put them on the second lined tray, cover with plastic wrap and rest for 15 min at room temperature.
+   Dust a finger with flour and poke the centre of the risen dough. If the hole stays, it's ready. If it closes straight away, let it rise a little longer.
+
+   Tip the dough onto a lightly floured surface and press it to deflate. Fold the sides in thirds to the centre, then the bottom and top in thirds, flip it seam side down and roll it into a ball, turning it so the seam closes.
+
+   Weigh it (it should be around **460–470g**) and cut it into 10 pieces. The target for each piece is the total divided by 10 (**46–47g**). Weigh and adjust the pieces as in step 5.
+
+   Pre-shape each into a ball by pulling the edges underneath and turning it on your palm with the seam at the bottom. Put them on the second lined tray, cover with plastic wrap and rest for 15 min at room temperature.
 
 7. **Roll the biscuit dough** · 10 min
 
@@ -86,19 +114,29 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 
 8. **Shape the bread dough** · 5 min
 
-   Flatten each rested ball of bread dough with your hand. Fold the top and bottom in thirds to the centre, then the left and right sides, and pinch the ends together into a ball. Pull the dough from all sides towards the seam, then turn it on your palm a few times with the seam at the bottom. Set aside and repeat with the rest.
+   Flatten each rested ball of bread dough with your hand. Fold the top and bottom in thirds to the centre, then the left and right sides, and pinch the ends together into a ball.
+
+   Pull the dough from all sides towards the seam, then turn it on your palm a few times with the seam at the bottom. Set aside and repeat with the rest.
 
 9. **Wrap and score** · 15 min
 
-   Put a biscuit circle on your palm and a bread ball in the middle, seam side up. Flip them over together so the biscuit dough is on top and gently pull the biscuit dough down around the bread ball, leaving the base uncovered. Dip the biscuit dough in the 2 tbsp (**26g**) topping sugar and shake off the excess. Score a crisscross pattern about 3mm deep with a dough scraper or knife, 3 lines in each direction. Put each on a lined tray, biscuit side up, and cover with plastic wrap.
+   Put a biscuit circle on your palm and a bread ball in the middle, seam side up. Flip them over together so the biscuit dough is on top and gently pull the biscuit dough down around the bread ball, leaving the base uncovered.
+
+   Dip the biscuit dough in the 2 tbsp (**26g**) topping sugar and shake off the excess. Score a crisscross pattern about 3mm deep with a dough scraper or knife, 3 lines in each direction.
+
+   Put each on a lined tray, biscuit side up, and cover with plastic wrap.
 
 10. **Final rise** · 50 min
 
-    Leave the dough in a warm place until it has grown to about 1½ times its size. When it's about halfway there, heat the oven to 180°C with a rack in the middle. If you're using the oven's proof setting, move the dough to another warm place first so the oven can heat.
+    Leave the dough in a warm place until it has grown to about 1½ times its size.
+
+    When it's about halfway there, heat the oven to 180°C with a rack in the middle. If you're using the oven's proof setting, move the dough to another warm place first so the oven can heat.
 
 11. **Bake** · 13–15 min
 
-    Remove the plastic wrap and bake at 180°C for 13–15 min, until the biscuit crust is light golden. If it's browning unevenly towards the end, turn the tray once. Don't overbake or the buns will be dry. Move them to a wire rack and cool for 5 min before eating.
+    Remove the plastic wrap and bake at 180°C for 13–15 min, until the biscuit crust is light golden. If it's browning unevenly towards the end, turn the tray once.
+
+    Don't overbake or the buns will be dry. Move them to a wire rack and cool for 5 min before eating.
 
 ## Tips
 

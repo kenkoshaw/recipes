@@ -48,11 +48,15 @@ Classic all-milk clafoutis — a soft, custardy baked batter over white figs. Ba
 
 1. **Prep the dish** · 5 min
 
-   Heat the oven to 180°C (160°C fan / gas 4). Grease a 25cm baking or gratin dish generously with butter (**20g**), then dust the base and sides with demerara sugar (**20g**), tipping out the excess. The sugar gives crisp, caramelised edges and helps release.
+   Heat the oven to 180°C (160°C fan / gas 4).
+
+   Grease a 25cm baking or gratin dish generously with butter (**20g**), then dust the base and sides with demerara sugar (**20g**), tipping out the excess. The sugar gives crisp, caramelised edges and helps release.
 
 2. **Arrange the figs** · 3 min
 
-   Cut the 5–6 large white figs (**350g**) into sixths or ~1cm wedges (skin on), blot the cut sides on kitchen paper, and lay them skin-side down in a single layer covering the base. Don't crowd the centre — too many wet figs there stops it setting.
+   Cut the 5–6 large white figs (**350g**) into sixths or ~1cm wedges (skin on), blot the cut sides on kitchen paper, and lay them skin-side down in a single layer covering the base.
+
+   Don't crowd the centre — too many wet figs there stops it setting.
 
 3. **Whisk the base** · 2 min
 
@@ -60,7 +64,9 @@ Classic all-milk clafoutis — a soft, custardy baked batter over white figs. Ba
 
 4. **Make the batter** · 3 min
 
-   Sift in the flour and salt bowl, whisk to a smooth thick paste, then gradually whisk in the milk and vanilla jug until smooth and thin — about single-cream consistency. Don't over-whisk once the milk is in, or it souffles up then collapses. Sieve if any lumps remain.
+   Sift in the flour and salt bowl, whisk to a smooth thick paste, then gradually whisk in the milk and vanilla jug until smooth and thin — about single-cream consistency.
+
+   Don't over-whisk once the milk is in, or it souffles up then collapses. Sieve if any lumps remain.
 
 5. **Rest the batter** · 10 min
 
@@ -68,7 +74,11 @@ Classic all-milk clafoutis — a soft, custardy baked batter over white figs. Ba
 
 6. **Bake** · 35–40 min
 
-   Pour the batter gently around the figs to ~2.5–3cm deep. Bake for 35–40 min until puffed, golden, and just set with a slight wobble in the centre. Test *between* the figs, not through one (a fig gives a false wet reading). Tent loosely with foil if the top browns before the middle sets.
+   Pour the batter gently around the figs to ~2.5–3cm deep.
+
+   Bake for 35–40 min until puffed, golden, and just set with a slight wobble in the centre.
+
+   Test *between* the figs, not through one (a fig gives a false wet reading). Tent loosely with foil if the top browns before the middle sets.
 
 7. **Cool and serve** · 15 min
 

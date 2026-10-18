@@ -51,7 +51,9 @@ Quick version of [brioche burger buns](brioche-burger-buns.md). Trade-off: crumb
 
 2. **Mix and knead** · 8 min
 
-   Fit the mixer bowl to the mixer. Add the yeasted milk and the egg and butter jug all at once. Knead on medium until smooth and elastic — 8 min in a mixer, 10 by hand. Tacky but shouldn't stick to a clean finger.
+   Fit the mixer bowl to the mixer. Add the yeasted milk and the egg and butter jug all at once.
+
+   Knead on medium until smooth and elastic — 8 min in a mixer, 10 by hand. Tacky but shouldn't stick to a clean finger.
 
 3. **Divide and shape** · 5 min
 

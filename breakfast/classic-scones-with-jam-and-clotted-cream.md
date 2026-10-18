@@ -64,7 +64,11 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 
 6. **Fold and cut** · 10 min
 
-   Scatter some flour onto the work surface and tip the dough out. Dredge the dough and your hands with a little more flour and fold the dough over 2–3 times until it's a little smoother. Pat it into a round about 4cm deep. Dip a 5cm cutter in flour and plunge it into the dough, repeating until you have four scones. Press what's left of the dough back into a round and cut out another four.
+   Scatter some flour onto the work surface and tip the dough out. Dredge the dough and your hands with a little more flour and fold the dough over 2–3 times until it's a little smoother.
+
+   Pat it into a round about 4cm deep. Dip a 5cm cutter in flour and plunge it into the dough, repeating until you have four scones.
+
+   Press what's left of the dough back into a round and cut out another four.
 
 7. **Glaze and bake** · 10 min
 

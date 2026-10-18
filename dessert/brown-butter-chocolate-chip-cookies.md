@@ -55,7 +55,11 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 
 1. **Brown the butter** · 10 min
 
-   Melt the butter (**226g**) in a wide, light-coloured pan over medium heat, swirling. It foams loudly as the water boils off, then goes quiet with a fine dense foam — swirl constantly from that point. The milk solids at the bottom turn tan, then amber, and it smells nutty. That's 30 seconds from done. Off the heat immediately. Put the sugar bowl on the scale and zero it, then pour the butter in, scraping every brown speck out.
+   Melt the butter (**226g**) in a wide, light-coloured pan over medium heat, swirling. It foams loudly as the water boils off, then goes quiet with a fine dense foam — swirl constantly from that point.
+
+   The milk solids at the bottom turn tan, then amber, and it smells nutty. That's 30 seconds from done.
+
+   Off the heat immediately. Put the sugar bowl on the scale and zero it, then pour the butter in, scraping every brown speck out.
 
 2. **Top up and cool** · 20 min
 

@@ -52,7 +52,11 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 
 3. **Toast the walnuts** · 5 min
 
-   Dry-toast the walnut halves (**50g**) in a frying pan over medium heat with no oil, shaking every 30 seconds. Done when they smell nutty and the cut faces are lightly golden — smell is the cue, not colour, as walnuts turn bitter fast. Tip onto a cold plate immediately so the pan's residual heat doesn't take them further. Chop roughly once cool.
+   Dry-toast the walnut halves (**50g**) in a frying pan over medium heat with no oil, shaking every 30 seconds.
+
+   Done when they smell nutty and the cut faces are lightly golden — smell is the cue, not colour, as walnuts turn bitter fast.
+
+   Tip onto a cold plate immediately so the pan's residual heat doesn't take them further. Chop roughly once cool.
 
 4. **Infuse the honey** · 5 min
 
@@ -60,7 +64,13 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 
 5. **Prep the cheese** · 5 min
 
-   Unwrap the camembert fully and discard the paper — the cloth-feel inner sheet is waxed or laminated and must not go in the oven. Return the naked wheel to its wooden base, lid off, and check the seam for metal staples; if there are any, wrap in a double layer of baking paper or use a buttered ramekin instead. Score a shallow crosshatch across the top rind, about 5mm deep, without cutting through the base. Push everything from the garlic studs bowl into the cuts. Rub with olive oil (**5g**) and season with black pepper (**1g**). Sit the whole box on a baking tray.
+   Unwrap the camembert fully and discard the paper — the cloth-feel inner sheet is waxed or laminated and must not go in the oven.
+
+   Return the naked wheel to its wooden base, lid off, and check the seam for metal staples; if there are any, wrap in a double layer of baking paper or use a buttered ramekin instead.
+
+   Score a shallow crosshatch across the top rind, about 5mm deep, without cutting through the base. Push everything from the garlic studs bowl into the cuts.
+
+   Rub with olive oil (**5g**) and season with black pepper (**1g**). Sit the whole box on a baking tray.
 
 6. **Bake** · 18–20 min
 

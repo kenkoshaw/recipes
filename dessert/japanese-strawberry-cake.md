@@ -55,11 +55,15 @@ Japanese bakery-style strawberry shortcake: a light, fluffy sponge baked in a wa
 
 4. **Whip the whites** · 8 min
 
-   Make sure the Kenwood bowl and whisk are clean and dry, as any fat stops the whites whipping. Whisk the 4 whites (**~120g**) on medium-high speed until frothy. With the mixer still running, add the caster sugar (**70g**) a little at a time. Keep whisking until the meringue is glossy and holds medium peaks.
+   Make sure the Kenwood bowl and whisk are clean and dry, as any fat stops the whites whipping. Whisk the 4 whites (**~120g**) on medium-high speed until frothy.
+
+   With the mixer still running, add the caster sugar (**70g**) a little at a time. Keep whisking until the meringue is glossy and holds medium peaks.
 
 5. **Fold** · 5 min
 
-   Fold a quarter of the whites into the yolk batter with a spatula until smooth. Scrape that back into the whites in the Kenwood bowl and fold by hand until just smooth, with no big streaks of white. Don't use the machine for this; it knocks the air out.
+   Fold a quarter of the whites into the yolk batter with a spatula until smooth. Scrape that back into the whites in the Kenwood bowl and fold by hand until just smooth, with no big streaks of white.
+
+   Don't use the machine for this; it knocks the air out.
 
 6. **Fill the tin, set the water bath** · 5 min
 
@@ -75,7 +79,9 @@ Japanese bakery-style strawberry shortcake: a light, fluffy sponge baked in a wa
 
 9. **Macerate the strawberries** · 1–2 hr (while the cake cools)
 
-   Slice the strawberries (**225g**) into 5mm slices and put them in a bowl with 1½ tsp (**6g**) caster sugar. Toss to coat and leave for at least 1 hour and up to 2, until glossy and sweet. Lift the slices out onto a plate and keep the liquid left in the bowl. Keep the whole strawberries (**115g**) aside for the top.
+   Slice the strawberries (**225g**) into 5mm slices and put them in a bowl with 1½ tsp (**6g**) caster sugar. Toss to coat and leave for at least 1 hour and up to 2, until glossy and sweet.
+
+   Lift the slices out onto a plate and keep the liquid left in the bowl. Keep the whole strawberries (**115g**) aside for the top.
 
 10. **Make the cake syrup** · 2 min
 
@@ -90,15 +96,27 @@ Japanese bakery-style strawberry shortcake: a light, fluffy sponge baked in a wa
 
 12. **Level and split the cake** · 10 min
 
-    Put the cooled cake on a board and measure its height at 4 points. Mark the cut for the top and the cut for halving with toothpicks. Slice off the browned top along the toothpicks with a serrated knife and discard it, then slice the cake into two even layers. Put the top layer cut side down on a turntable (or an upturned bowl with a plate on top) and brush the syrup (**70g** in total) evenly over it. Flip the other layer upside down and brush syrup over that too.
+    Put the cooled cake on a board and measure its height at 4 points. Mark the cut for the top and the cut for halving with toothpicks.
+
+    Slice off the browned top along the toothpicks with a serrated knife and discard it, then slice the cake into two even layers.
+
+    Put the top layer cut side down on a turntable (or an upturned bowl with a plate on top) and brush the syrup (**70g** in total) evenly over it. Flip the other layer upside down and brush syrup over that too.
 
 13. **Fill the cake** · 10 min
 
-    Spoon a large dollop of the whipped cream (**280g** in total) onto the layer on the turntable. Spread it with an offset spatula into a thin, even layer, until it just spills over the edge. Cover with as many macerated strawberry slices (**225g**) as fit. Add another large dollop of cream over the strawberries and spread it thinly. Set the second layer on top, lined up with the bottom one.
+    Spoon a large dollop of the whipped cream (**280g** in total) onto the layer on the turntable. Spread it with an offset spatula into a thin, even layer, until it just spills over the edge.
+
+    Cover with as many macerated strawberry slices (**225g**) as fit. Add another large dollop of cream over the strawberries and spread it thinly.
+
+    Set the second layer on top, lined up with the bottom one.
 
 14. **Cover and decorate** · 15 min
 
-    Spread another dollop of cream over the top. Use the cream that has spilled over to smooth the sides, adding more if needed, until the cake has a thin, even coat. Add a larger dollop to the top, spread it thicker and smooth the sides again. Pipe any leftover cream onto the top or sides with a piping bag, or a freezer bag with the corner cut off. Decorate with the whole strawberries (**115g**) on top.
+    Spread another dollop of cream over the top. Use the cream that has spilled over to smooth the sides, adding more if needed, until the cake has a thin, even coat.
+
+    Add a larger dollop to the top, spread it thicker and smooth the sides again.
+
+    Pipe any leftover cream onto the top or sides with a piping bag, or a freezer bag with the corner cut off. Decorate with the whole strawberries (**115g**) on top.
 
 15. **Chill and serve** · 30 min+
 

@@ -49,11 +49,17 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 
 1. **Pasta water on** · 8 min
 
-   Biggest pan you have, filled and lidded, over high heat. Salt it heavily (**10g**). Start this before anything else — it is the step that stalls everything downstream. Take the Cantabrian anchovies (**25g**) out of the fridge now so the fat softens.
+   Biggest pan you have, filled and lidded, over high heat. Salt it heavily (**10g**).
+
+   Start this before anything else — it is the step that stalls everything downstream.
+
+   Take the Cantabrian anchovies (**25g**) out of the fridge now so the fat softens.
 
 2. **Infuse the oil** · 2 min
 
-   Into a cold wide pan: olive oil (**55g**), then tip in the garlic and anchovy bowl. Bring up to medium-low and press the anchovies with a wooden spoon until they dissolve completely. Cold start means the garlic infuses rather than fries — pull the pan off the heat if it colours past pale gold.
+   Into a cold wide pan: olive oil (**55g**), then tip in the garlic and anchovy bowl. Bring up to medium-low and press the anchovies with a wooden spoon until they dissolve completely.
+
+   Cold start means the garlic infuses rather than fries — pull the pan off the heat if it colours past pale gold.
 
 3. **Darken the purée** · 1 min
 
@@ -65,11 +71,15 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 
 5. **Collapse the tomatoes** · 8 min
 
-   Add the cherry tomatoes (**250g**) cut side down and squash a few against the pan to start them releasing. Simmer until slumped and saucy, with the skins loosening. Taste and salt only now — the anchovies have already brought roughly 1g of salt in.
+   Add the cherry tomatoes (**250g**) cut side down and squash a few against the pan to start them releasing. Simmer until slumped and saucy, with the skins loosening.
+
+   Taste and salt only now — the anchovies have already brought roughly 1g of salt in.
 
 6. **Toast the bread** · 4 min
 
-   While the tomatoes simmer: slice the bread (**100g**) at 1.5cm and char it in a dry pan or under the grill, 1–2 min a side. Rub the hot cut face firmly with 1 halved raw garlic clove (**5g**), drizzle with a little of the extra virgin oil and drape the Cantabrian anchovies (**25g**) on whole — 2 per slice, never chopped.
+   While the tomatoes simmer: slice the bread (**100g**) at 1.5cm and char it in a dry pan or under the grill, 1–2 min a side.
+
+   Rub the hot cut face firmly with 1 halved raw garlic clove (**5g**), drizzle with a little of the extra virgin oil and drape the Cantabrian anchovies (**25g**) on whole — 2 per slice, never chopped.
 
 7. **Cook the pasta** · 6 min
 
@@ -77,11 +87,15 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 
 8. **Prawns in** · 2 min
 
-   Raise the heat under the sauce and add the dried prawns (**300g**). Cook just until opaque, then kill the heat for the last 30 seconds. Doneness cue: a loose C shape. A tight O means overcooked.
+   Raise the heat under the sauce and add the dried prawns (**300g**). Cook just until opaque, then kill the heat for the last 30 seconds.
+
+   Doneness cue: a loose C shape. A tight O means overcooked.
 
 9. **Toss** · 2 min
 
-   Add the drained pasta and about **60g** of the reserved pasta water. Toss hard and continuously over the heat so the starch emulsifies the sauce and it clings to the strands. Add more water only if it looks tight — too much at once and it turns to soup you cannot reverse.
+   Add the drained pasta and about **60g** of the reserved pasta water. Toss hard and continuously over the heat so the starch emulsifies the sauce and it clings to the strands.
+
+   Add more water only if it looks tight — too much at once and it turns to soup you cannot reverse.
 
 10. **Finish** · 1 min
 

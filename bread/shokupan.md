@@ -54,7 +54,9 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 4. **First rise** · 45–60 min
 
-   Roll the dough into a ball and put it in a lightly greased bowl. Cover with cling film and leave at about 30°C for 45–60 min, until doubled in size. To check, dust a finger with flour and poke the dough. If the hole stays and the dough doesn't bounce back, it's ready.
+   Roll the dough into a ball and put it in a lightly greased bowl. Cover with cling film and leave at about 30°C for 45–60 min, until doubled in size.
+
+   To check, dust a finger with flour and poke the dough. If the hole stays and the dough doesn't bounce back, it's ready.
 
 5. **Divide and rest** · 25 min
 
@@ -62,7 +64,9 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 6. **Roll out and shape** · 15 min
 
-   Roll each piece with a rolling pin into a rectangle of about 15×20cm. Fold each tightly towards the centre from the left and right, without letting any air in. Turn it 90 degrees and roll it up from one end. Lightly spray a 10×20×9cm loaf tin and put the two rolls in side by side, each at one end of the tin and facing the centre.
+   Roll each piece with a rolling pin into a rectangle of about 15×20cm. Fold each tightly towards the centre from the left and right, without letting any air in. Turn it 90 degrees and roll it up from one end.
+
+   Lightly spray a 10×20×9cm loaf tin and put the two rolls in side by side, each at one end of the tin and facing the centre.
 
 7. **Second rise** · 30 min
 

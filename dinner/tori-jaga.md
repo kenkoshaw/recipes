@@ -62,7 +62,9 @@ thumbnail: ../images/tori-jaga/tori-jaga.jpg
 
 4. **Boil off the wine** · 2 min
 
-   Pour in the 5 tbsp (**75g**) of white wine and raise to high. Let it bubble hard, scraping the fond off the base. Don't skip this — mirin and sake are low-acid, wine isn't, and raw alcohol left in makes the braise read as a French stew.
+   Pour in the 5 tbsp (**75g**) of white wine and raise to high. Let it bubble hard, scraping the fond off the base.
+
+   Don't skip this — mirin and sake are low-acid, wine isn't, and raw alcohol left in makes the braise read as a French stew.
 
 5. **Stock, soy and sugar** · 2 min
 

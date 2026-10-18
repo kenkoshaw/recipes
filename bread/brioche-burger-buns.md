@@ -50,7 +50,9 @@ Proper version with optional overnight prove. In a hurry: [fast version](brioche
 
 3. **Add the butter** · 10 min
 
-   Add the butter (**100g**) a few cubes at a time, waiting for each addition to disappear. Knead on medium until glossy, smooth and pulling cleanly from the bowl sides. Should pass the windowpane test — stretch a piece thin enough to see light through without tearing.
+   Add the butter (**100g**) a few cubes at a time, waiting for each addition to disappear. Knead on medium until glossy, smooth and pulling cleanly from the bowl sides.
+
+   Should pass the windowpane test — stretch a piece thin enough to see light through without tearing.
 
 4. **First prove** · 1 hr 30, or overnight in fridge
 
@@ -62,7 +64,9 @@ Proper version with optional overnight prove. In a hurry: [fast version](brioche
 
 6. **Second prove** · 1 hr
 
-   Cover loosely, prove until visibly puffy. Poke test with a floured finger: springs straight back = needs longer; dents and slowly fills halfway = ready; stays fully dented = overproved, knock back and reshape. Don't rush — underproved buns bake dense.
+   Cover loosely, prove until visibly puffy.
+
+   Poke test with a floured finger: springs straight back = needs longer; dents and slowly fills halfway = ready; stays fully dented = overproved, knock back and reshape. Don't rush — underproved buns bake dense.
 
 7. **Glaze and bake** · 17 min
 
