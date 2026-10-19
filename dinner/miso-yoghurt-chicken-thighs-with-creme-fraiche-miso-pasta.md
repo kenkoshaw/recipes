@@ -48,6 +48,7 @@ Chicken thighs marinated in Greek yoghurt, brown miso, honey and garlic, pan-fri
 |------------|-------|
 | Spring onions, sliced | 2 (30g) |
 | Toasted sesame seeds | 3 |
+| Fresh parsley, finely chopped | ~5 |
 | Lemon zest (optional) | to taste |
 
 ## Method
@@ -115,3 +116,4 @@ Chicken thighs marinated in Greek yoghurt, brown miso, honey and garlic, pan-fri
 
 - 2026-10-19: Created. White miso swapped for **17g** brown miso (less, as it's saltier), soy reduced to **8g** and honey increased to **32g** to balance. Rice vinegar swapped for **12g** apple cider vinegar (less, as it's sharper). Chicken was frozen on its use-by, thawed, marinated 5 hours, and cooked the same day. Pan-fried in stainless rather than oven-baked. Served with a crème fraîche miso pasta instead of rice and purple sweet potato, with crème fraîche in place of double cream.
 - 2026-10-19: added to the repo from the Claude chat. Grouped the marinade and garnish into bowls, merged "mix the marinade" with "marinate", and added step times (the ~5 hr total and ~40 min active are estimates). Quantities unchanged.
+- 2026-10-19: added fresh parsley (**~5g**, an estimate) to the garnish bowl.
