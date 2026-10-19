@@ -5,6 +5,7 @@ source: own recipe (Claude chat, 2026-10-19)
 servings: 4
 tags: [chicken, miso, yoghurt-marinade, pasta, japanese-inspired, make-ahead]
 last_made: 2026-10-19
+thumbnail: ../images/miso-yoghurt-chicken-thighs-with-creme-fraiche-miso-pasta/thumbnail.jpg
 ---
 
 # Miso-Yoghurt Chicken Thighs with Crème Fraîche Miso Pasta
