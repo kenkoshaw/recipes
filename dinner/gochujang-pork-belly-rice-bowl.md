@@ -74,9 +74,11 @@ Sticky, spicy-sweet jeyuk-style pork belly over short-grain rice. The pork marin
 
 - **Stainless pan**: get it properly hot first, don't move the pork until it releases, and deglaze with a splash of water if it scorches.
 - **Heat level**: adjust with gochugaru, not gochujang.
+- **No gochugaru**: swap in chipotle chilli flakes at about half the amount, 1½ tsp (**~3g**); it's smokier than gochugaru. For a closer match, use ¾ tsp (**~1.5g**) chipotle with 2 tsp (**~4g**) sweet paprika.
 - **Sides**: kimchi, quick-pickled cucumber, or lettuce leaves for ssam-style wraps.
 - **Kenwood**: no step here uses the mixer.
 
 ## Adjustment Log
 
 - 2026-10-20: added from a Claude chat. The source gives spoon and count amounts; the grams are estimates: gochujang **~40g**, gochugaru **~6g**, soy **~36g**, mirin/honey **~20g**, garlic **~12g**, ginger **~5g**, onion **~150g**, spring onions **~45g**, eggs **~100g**. Rice water converted from 1:1.1 by volume to **~325g**. Added "bring to a boil" before the 12 min on low. The onion went into the marinade bowl because it marinates with the pork; mixing the marinade folded into the marinate step.
+- 2026-10-20: added a Tip for swapping gochugaru for chipotle chilli flakes (~3g, or ~1.5g with ~4g sweet paprika). Quantities unchanged.
