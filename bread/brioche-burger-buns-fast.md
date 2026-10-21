@@ -27,19 +27,15 @@ Quick version of [brioche burger buns](brioche-burger-buns.md). Trade-off: crumb
 |------------|-------|
 | Fast-action dried yeast | 14 |
 | Whole milk, warm (~38°C) | 250ml (250g) |
+| Caster sugar (for the yeast) | 1 pinch (~1g) |
 
 ### Mixer bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
 | Strong white bread flour | 500 |
-| Caster sugar | 40 |
+| Caster sugar | 39 |
 | Fine salt | 9 |
-
-### Egg and butter jug (step 2)
-
-| Ingredient | Grams |
-|------------|-------|
 | Large egg | 1 (55g) |
 | Unsalted butter, melted and cooled slightly | 70 |
 
@@ -47,11 +43,11 @@ Quick version of [brioche burger buns](brioche-burger-buns.md). Trade-off: crumb
 
 1. **Wake the yeast** · 5 min
 
-   Whisk the yeast jug together with a pinch of the sugar from the mixer bowl. Leave until lively and foamy.
+   Whisk the yeast jug together. Leave until lively and foamy.
 
 2. **Mix and knead** · 8 min
 
-   Fit the mixer bowl to the mixer. Add the yeasted milk and the egg and butter jug all at once.
+   Fit the mixer bowl to the mixer. Add the yeast jug.
 
    Knead on medium until smooth and elastic — 8 min in a mixer, 10 by hand. Tacky but shouldn't stick to a clean finger.
 
@@ -80,3 +76,4 @@ Quick version of [brioche burger buns](brioche-burger-buns.md). Trade-off: crumb
 
 - 2026-09-27: split out from the combined brioche burger buns note (2026-08-29). Converted to repo format: milk 250ml → 250g, eggs ≈ 55g each, sesame 2 tbsp → 18g.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Yeast jug, Mixer bowl, Egg and butter jug); steps refer to them by name. Quantities unchanged.
+- 2026-10-21: merged the egg and butter jug into the Mixer bowl, since they go in together at step 2. The pinch of sugar for the yeast (**~1g**) moved from the mixer bowl into the yeast jug, so the mixer bowl's sugar is 40 → **39g**; total sugar unchanged.

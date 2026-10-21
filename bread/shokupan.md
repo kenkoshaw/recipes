@@ -20,21 +20,16 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 |------------|-------|
 | Bread flour, about 12% protein (yudane) | 50 |
 | Boiling water, above 90°C (yudane) | 40ml (40g) |
-| Milk, room temperature | 150ml (155g) |
 | Egg, for brushing (optional) | 1 (~50g) |
 
-### Yeast bowl (step 2)
+### Mixer bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
+| Milk, room temperature | 150ml (155g) |
 | Sugar | 1 tbsp (15g) |
 | Instant dry yeast | 1 tsp (3g) |
 | Unsalted butter, room temperature | 2 tsp (10g) |
-
-### Dry mix bowl (step 2)
-
-| Ingredient | Grams |
-|------------|-------|
 | Bread flour, about 12% protein | 200 |
 | Salt | 1 tsp (5g) |
 
@@ -46,7 +41,7 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 2. **Add everything to the bowl** · 5 min
 
-   Pour 150ml (**155g**) milk into the Kenwood bowl and tip in the yeast bowl. Tear the yudane (**90g** in total) into small pieces into the bowl, then add the dry mix bowl. Fit the dough hook and mix on low until everything is combined.
+   Tear the yudane (**90g** in total) into small pieces into the mixer bowl. Fit the dough hook and mix on low until everything is combined.
 
 3. **Knead** · 20 min
 
@@ -95,3 +90,4 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 - 2026-10-18: the source lists the optional egg wash after cooling; here it's brushed on before baking, which is where it would normally go. The source also says only "place the rolled dough in the end of the tin facing the centre"; I read that as one roll at each end, facing the centre. Neither reading is checked against the source's video.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Yeast bowl, Dry mix bowl); steps refer to them by name. Quantities unchanged.
 - 2026-10-18: removed the "Get ready" step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.
+- 2026-10-21: merged the yeast bowl, dry mix bowl and milk into one Mixer bowl, weighed straight into the Kenwood bowl, since they all go in together at step 2. Quantities unchanged.

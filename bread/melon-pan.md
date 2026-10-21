@@ -31,11 +31,6 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 | Salt (Diamond Crystal kosher) | 1 tsp (3g) |
 | Granulated sugar (bread dough) | 3 tbsp (40g) |
 | Instant yeast | 1¼ tsp (4g) |
-
-### Bread wet jug (step 1)
-
-| Ingredient | Grams |
-|------------|-------|
 | Large egg, beaten (bread dough) | 1 (50g) |
 | Whole milk, at 30°C | 50ml (50g) |
 | Water, at 30°C | 50ml (50g) |
@@ -58,7 +53,7 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 
 1. **Mix the bread dough** · 5 min
 
-   Whisk the bread mixer bowl by hand to combine. Fit the dough hook, pour in the bread wet jug and start on low speed.
+   Fit the dough hook to the bread mixer bowl and start on low speed.
 
    Scrape the sides and bottom with a silicone spatula a couple of times.
 
@@ -152,3 +147,4 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 - 2026-10-18: imported from justonecookbook.com using the source's metric weights, and the stand mixer method only. The Kenwood dough hook kneads the bread dough and the K-beater mixes the biscuit dough. The source gives milk and water in ml; kept as **50g** each. It also gives no mixer times or active time, so the ~10 min knead and ~1 hr 15 active are estimates.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Bread mixer bowl, Bread wet jug, Biscuit butter and sugar bowl, Biscuit dough dry bowl); steps refer to them by name. Quantities unchanged.
 - 2026-10-18: removed the prep step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.
+- 2026-10-21: merged the bread wet jug into the Bread mixer bowl, since it goes in at the same time in step 1; dropped the hand-whisk of the dry ingredients, as the dough hook mixes them. Quantities unchanged.
