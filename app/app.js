@@ -285,10 +285,8 @@
                 <li class="step ${progress.steps.includes(n) ? 'done' : ''}" data-step="${n}">
                   <span class="num">${n + 1}</span>
                   <div class="content">
-                    <h3><span>${s.title}</span>${s.time ? (timerSeconds(s.time)
-                      ? `<button class="timer" data-timer="${n}" aria-label="Start ${esc(s.time)} timer">${ICONS.clock}<span>${esc(s.time)}</span></button>`
-                      : `<em>${esc(s.time)}</em>`) : ''}</h3>
-                    <div class="body">${s.html}</div>
+                    <h3><span>${s.title}</span>${s.time ? `<em>${esc(s.time)}</em>` : ''}</h3>
+                    <div class="body">${withTimers(s.html, n)}</div>
                   </div>
                 </li>`).join('')}
             </ol>
@@ -361,9 +359,9 @@
       save();
     }));
     view.querySelectorAll('[data-timer]').forEach((btn) => btn.addEventListener('click', () => {
-      const n = Number(btn.dataset.timer);
-      const s = r.steps[n];
-      toggleTimer(`${slug}:${n}`, timerSeconds(s.time), `Step ${n + 1} · ${s.title.replace(/<[^>]+>/g, '')}`, s.time);
+      const n = Number(btn.dataset.timer.split(':')[0]);
+      const label = `Step ${n + 1} · ${r.steps[n].title.replace(/<[^>]+>/g, '')}`;
+      toggleTimer(`${slug}:${btn.dataset.timer}`, Number(btn.dataset.secs), label, btn.dataset.idle || btn.textContent);
     }));
     paintTimers();
     view.querySelectorAll('[data-step]').forEach((li) => li.addEventListener('click', (e) => {
@@ -403,12 +401,21 @@
   }
 
   // ---------- Step timers ----------
-  // A step time like "13–15 min", "1 hr 30" or "30 min–overnight" times the top of its first range.
-  function timerSeconds(time) {
-    const m = time.match(/(\d+(?:\.\d+)?)(?:\s*[–-]\s*(\d+(?:\.\d+)?))?\s*(hr|min)\b(?:\s+(\d+)(?!\s*hr))?/);
-    if (!m) return 0;
-    const n = Number(m[2] || m[1]);
-    return Math.round(m[3] === 'hr' ? n * 3600 + Number(m[4] || 0) * 60 : n * 60);
+  // Waits written in a step ("rest for 20 min", "bake 25–30 min", "cook for 1 hr 45") become timer
+  // buttons set to the top of the range. Cues and asides ("every 30 seconds", "20 minutes before
+  // cooking", "no more than 24 hours") and anything over 6 hours stay plain text.
+  const DURATION = /(\d+(?:\.\d+)?)(?:\s*(?:[–-]|to)\s*(\d+(?:\.\d+)?))?\s*(hours?|hrs?|minutes?|mins?|seconds?|secs?)\b(?:\s+(\d+)\b(?!\s*(?:hours?|hrs?|minutes?|mins?|seconds?|secs?|[–-])))?/gi;
+  const NOT_A_WAIT_BEFORE = /\b(every|in about|in|more than|towards)\s+$/i;
+  const NOT_A_WAIT_AFTER = /^\s*(before|from|under|short|less)\b/i;
+  function withTimers(html, n) {
+    let i = 0;
+    return html.replace(/(<[^>]+>)|([^<]+)/g, (all, tag, text) => tag || text.replace(DURATION, (m, a, b, unit, extra, at, str) => {
+      if (NOT_A_WAIT_BEFORE.test(str.slice(0, at)) || NOT_A_WAIT_AFTER.test(str.slice(at + m.length))) return m;
+      const per = /^h/i.test(unit) ? 3600 : /^m/i.test(unit) ? 60 : 1;
+      const secs = Math.round(Number(b || a) * per + (per === 3600 ? Number(extra || 0) * 60 : 0));
+      if (!secs || secs > 6 * 3600) return m;
+      return `<button class="timer" data-timer="${n}:${i++}" data-secs="${secs}" aria-label="Start ${m} timer">${ICONS.clock}<span>${m}</span></button>`;
+    }));
   }
 
   // key "slug:step" -> { end (ms epoch), label }; kept in storage so a reload doesn't lose a running timer.
