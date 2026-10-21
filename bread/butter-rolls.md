@@ -21,7 +21,7 @@ Soft Japanese-style enriched rolls, scaled up to use a full 7g yeast packet. The
 | Unsalted butter, softened | 58 |
 | Egg wash (1 egg + 1 tbsp milk + pinch of salt) | ~20 |
 
-### Dough bowl (step 1)
+### Mixer bowl (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
@@ -37,11 +37,11 @@ Soft Japanese-style enriched rolls, scaled up to use a full 7g yeast packet. The
 
 1. **Mix the dough** · 5 min
 
-   Mix the dough bowl until you have a shaggy dough.
+   Fit the mixer bowl to the Kenwood with the dough hook. Mix on low until you have a shaggy dough.
 
 2. **Knead, then add butter** · 15 min
 
-   Knead for about 5 minutes until the dough comes together. Work in the softened butter (**58g**) a little at a time, then keep kneading for 8–10 minutes until the dough is smooth, elastic and passes the windowpane test.
+   Knead on medium-low for about 5 minutes until the dough comes together. With the mixer on low, add the softened butter (**58g**) a little at a time, waiting for each piece to disappear. Then knead on medium-low for 8–10 minutes until the dough is smooth, elastic and passes the windowpane test.
 
 3. **First proof** · 60 min
 
@@ -69,6 +69,7 @@ Soft Japanese-style enriched rolls, scaled up to use a full 7g yeast packet. The
 - Use caster sugar, as it's the closest UK match to Japanese 上白糖. Granulated also works.
 - Use unsalted butter. If you only have salted, cut the salt to about **6g**.
 - If you add too much egg, cut back the water (egg is about 75% water) or add flour 1 tbsp at a time until the dough is tacky but not sticky.
+- **Kenwood use**: the dough hook mixes and kneads (steps 1–2). Check your Kenwood manual for the top speed it allows with the dough hook.
 - Egg wash: strain it or beat it well, and brush it on thinly just before baking. Yolk plus milk gives a darker, shinier finish.
 - To freeze unbaked, freeze straight after shaping (before the second proof). Thaw overnight in the fridge, then proof for 1–2 hrs, egg wash and bake. Freezing after the second proof risks the rolls deflating.
 - More reliable freezing: par-bake the rolls until set but pale (about two-thirds of the bake time), cool and freeze. To serve, egg wash and finish in the oven for 5–8 minutes.
@@ -78,3 +79,4 @@ Soft Japanese-style enriched rolls, scaled up to use a full 7g yeast packet. The
 - 2026-09-27: Scaled ×2.33 from the original 8-roll recipe (yeast 3g → 7g) to use a full yeast packet. Flour 200 → 467, sugar 20 → 47, salt 3 → 7, egg 25 → 58, water 65 → 152, milk 50 → 117, butter 25 → 58.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Dry mix bowl, Wet jug); steps refer to them by name. Quantities unchanged.
 - 2026-10-21: merged the dry mix bowl and wet jug into one Dough bowl, since the wet goes straight onto the dry at step 1. Quantities unchanged.
+- 2026-10-21: switched the mixing and kneading (steps 1–2) to the Kenwood dough hook, with the butter added on low; renamed the Dough bowl to Mixer bowl, since it's weighed straight into the Kenwood. Knead times kept from the hand method, not checked on the Kenwood. Quantities unchanged.
