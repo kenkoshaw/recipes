@@ -285,7 +285,9 @@
                 <li class="step ${progress.steps.includes(n) ? 'done' : ''}" data-step="${n}">
                   <span class="num">${n + 1}</span>
                   <div class="content">
-                    <h3><span>${s.title}</span>${s.time ? `<em>${esc(s.time)}</em>` : ''}</h3>
+                    <h3><span>${s.title}</span>${s.time ? (timerSeconds(s.time)
+                      ? `<button class="timer" data-timer="${n}" aria-label="Start ${esc(s.time)} timer">${ICONS.clock}<span>${esc(s.time)}</span></button>`
+                      : `<em>${esc(s.time)}</em>`) : ''}</h3>
                     <div class="body">${s.html}</div>
                   </div>
                 </li>`).join('')}
@@ -358,8 +360,14 @@
       progress.bowls = done ? [...progress.bowls, n] : progress.bowls.filter((x) => x !== n);
       save();
     }));
+    view.querySelectorAll('[data-timer]').forEach((btn) => btn.addEventListener('click', () => {
+      const n = Number(btn.dataset.timer);
+      const s = r.steps[n];
+      toggleTimer(`${slug}:${n}`, timerSeconds(s.time), `Step ${n + 1} · ${s.title.replace(/<[^>]+>/g, '')}`, s.time);
+    }));
+    paintTimers();
     view.querySelectorAll('[data-step]').forEach((li) => li.addEventListener('click', (e) => {
-      if (e.target.closest('a')) return;
+      if (e.target.closest('a, .timer')) return;
       const n = Number(li.dataset.step);
       const done = li.classList.toggle('done');
       progress.steps = done ? [...progress.steps, n] : progress.steps.filter((x) => x !== n);
@@ -393,6 +401,103 @@
     clearTimeout(toastTimer);
     toastTimer = setTimeout(() => t.remove(), 1800);
   }
+
+  // ---------- Step timers ----------
+  // A step time like "13–15 min", "1 hr 30" or "30 min–overnight" times the top of its first range.
+  function timerSeconds(time) {
+    const m = time.match(/(\d+(?:\.\d+)?)(?:\s*[–-]\s*(\d+(?:\.\d+)?))?\s*(hr|min)\b(?:\s+(\d+)(?!\s*hr))?/);
+    if (!m) return 0;
+    const n = Number(m[2] || m[1]);
+    return Math.round(m[3] === 'hr' ? n * 3600 + Number(m[4] || 0) * 60 : n * 60);
+  }
+
+  // key "slug:step" -> { end (ms epoch), label }; kept in storage so a reload doesn't lose a running timer.
+  const timers = store.get('timers', {});
+  const saveTimers = () => store.set('timers', timers);
+  let audio = null;
+  let ringTimer = null;
+
+  function toggleTimer(key, secs, label, time) {
+    try { audio = audio || new (window.AudioContext || window.webkitAudioContext)(); audio.resume(); } catch { /* no audio */ }
+    if (timers[key]) {
+      if (timers[key].end > Date.now() && !confirm(`Cancel the ${time} timer?`)) return;
+      delete timers[key];
+      toast('Timer cancelled');
+    } else {
+      timers[key] = { end: Date.now() + secs * 1000, label };
+      toast(`Timer set for ${clockText(secs)}`);
+    }
+    saveTimers();
+    tickTimers();
+  }
+
+  function clockText(secs) {
+    const h = Math.floor(secs / 3600);
+    const m = Math.floor((secs % 3600) / 60);
+    const s = String(secs % 60).padStart(2, '0');
+    return h ? `${h}:${String(m).padStart(2, '0')}:${s}` : `${m}:${s}`;
+  }
+
+  function paintTimers() {
+    const r = currentRoute();
+    if (r.name !== 'recipe') return;
+    view.querySelectorAll('[data-timer]').forEach((btn) => {
+      const t = timers[`${r.slug}:${btn.dataset.timer}`];
+      const left = t ? Math.max(0, Math.ceil((t.end - Date.now()) / 1000)) : 0;
+      btn.classList.toggle('running', !!t && left > 0);
+      btn.classList.toggle('finished', !!t && left === 0);
+      if (!btn.dataset.idle) btn.dataset.idle = btn.querySelector('span').textContent;
+      btn.querySelector('span').textContent = !t ? btn.dataset.idle : left ? clockText(left) : 'Done';
+    });
+  }
+
+  function tickTimers() {
+    paintTimers();
+    const due = Object.entries(timers).filter(([, t]) => t.end <= Date.now());
+    if (due.length) ring(due); else stopRing();
+  }
+
+  function beep() {
+    if (!audio) return;
+    [0, 0.25, 0.5].forEach((at) => {
+      const o = audio.createOscillator();
+      const g = audio.createGain();
+      o.frequency.value = 880;
+      g.gain.setValueAtTime(0.25, audio.currentTime + at);
+      g.gain.exponentialRampToValueAtTime(0.001, audio.currentTime + at + 0.2);
+      o.connect(g).connect(audio.destination);
+      o.start(audio.currentTime + at);
+      o.stop(audio.currentTime + at + 0.2);
+    });
+    if (navigator.vibrate) navigator.vibrate([300, 150, 300]);
+  }
+
+  function ring(due) {
+    let bar = document.querySelector('.timer-alert');
+    if (!bar) {
+      bar = document.createElement('div');
+      bar.className = 'timer-alert';
+      bar.setAttribute('role', 'alert');
+      document.body.appendChild(bar);
+      bar.addEventListener('click', () => {
+        Object.keys(timers).forEach((k) => { if (timers[k].end <= Date.now()) delete timers[k]; });
+        saveTimers();
+        tickTimers();
+      });
+    }
+    const html = `${ICONS.clock}<div><strong>Time’s up</strong>${due.map(([, t]) => `<small>${esc(t.label)}</small>`).join('')}</div><button>Dismiss</button>`;
+    if (bar.dataset.html !== html) { bar.dataset.html = html; bar.innerHTML = html; }
+    if (!ringTimer) { beep(); ringTimer = setInterval(beep, 3000); }
+  }
+
+  function stopRing() {
+    document.querySelectorAll('.timer-alert').forEach((b) => b.remove());
+    clearInterval(ringTimer);
+    ringTimer = null;
+  }
+
+  setInterval(tickTimers, 1000);
+  document.addEventListener('visibilitychange', () => { if (!document.hidden) tickTimers(); });
 
   // Favourite hearts on cards live inside links: handle them before navigation.
   view.addEventListener('click', (e) => {

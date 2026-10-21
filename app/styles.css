@@ -167,6 +167,16 @@ input { font: inherit; color: inherit; }
 .step .content { flex: 1; min-width: 0; }
 .step h3 { margin: 7px 0 6px; font-size: 17px; font-weight: 600; display: flex; justify-content: space-between; gap: 10px; }
 .step h3 em { font-style: normal; font-weight: 400; color: var(--text-3); font-size: 14px; white-space: nowrap; padding-top: 2px; }
+.step h3 .timer { flex: none; align-self: flex-start; display: inline-flex; align-items: center; gap: 5px; padding: 3px 9px; border-radius: 9px; background: var(--muted-surface); color: var(--text-2); font-size: 14px; font-weight: 500; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.step h3 .timer svg { width: 15px; height: 15px; }
+.step h3 .timer.running { background: var(--accent-soft); color: var(--accent); }
+.step h3 .timer.finished { background: var(--accent); color: #fff; }
+.timer-alert { position: fixed; left: 16px; right: 16px; max-width: 480px; margin: 0 auto; top: calc(var(--safe-top) + 12px); display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-radius: 16px; background: var(--accent); color: #fff; box-shadow: var(--shadow); z-index: 30; cursor: pointer; }
+.timer-alert > svg { width: 26px; height: 26px; flex: none; }
+.timer-alert div { flex: 1; min-width: 0; }
+.timer-alert strong { display: block; font-size: 16px; }
+.timer-alert small { display: block; font-size: 14px; opacity: .9; }
+.timer-alert button { padding: 6px 12px; border-radius: 10px; background: rgba(255,255,255,.22); font-weight: 600; }
 .step .body { color: var(--text-2); font-size: 16px; line-height: 1.6; }
 .step .body p { margin: 0 0 8px; }
 .step .body strong { color: var(--text); font-weight: 600; }
