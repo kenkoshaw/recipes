@@ -82,6 +82,7 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 
 - **Kenwood use**: the K-beater on low mixes the dry ingredients and rubs in the butter (steps 2–3). The wet mix and the folding stay by hand, since the source says scones are like soda bread and turn tough when over-handled.
 - **Lemon juice**: it acts as a buttermilk substitute and boosts the raising agents. Use buttermilk if you can get it, or apple cider vinegar in a pinch (from the source).
+- **Buttermilk substitute**: for a tangier scone, replace the milk and lemon with homemade buttermilk. Stir 1 tbsp (**15g**) lemon juice or white vinegar into the 175ml (**180g**) milk and leave for 5–10 min until slightly thickened and curdled. Or loosen 120g natural yoghurt with 60g milk. Leave the lemon out of the flavouring bowl, and warm it only gently, since it splits if it gets hot.
 - **Warm milk**: a tip from the source for light scones that rise every time.
 - **Tall scones**: pat the dough out a bit thicker than you think you should. A hot baking tray kick-starts the rise, and don't leave the dough sitting around (from the source).
 - **Cutter**: smooth-edged cutters cut more cleanly, giving a better rise (from the source).
@@ -94,3 +95,4 @@ Quick storecupboard scones, from Good Food magazine. Warm milk, a little lemon j
 - 2026-10-18: Kenwood K-beater replaces rubbing the butter in by fingers. The source gives a 15 min total time and no active time, so ~10 min active is an estimate.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Mixer bowl, Flavouring bowl); steps refer to them by name. Quantities unchanged.
 - 2026-10-18: removed the prep step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.
+- 2026-10-21: added a buttermilk substitute Tip (milk soured with **15g** lemon juice or vinegar, or **120g** yoghurt loosened with **60g** milk). Not from the source; not yet tried. Quantities unchanged.
