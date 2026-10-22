@@ -219,6 +219,11 @@ input { font: inherit; color: inherit; }
 .bowl.done .bowl-title, .bowl.done .bowl-items { opacity: .45; }
 .bowl-ref { display: inline-block; padding: 0 7px; border-radius: 7px; background: var(--accent-soft); color: var(--accent); font-weight: 600; font-size: .92em; white-space: nowrap; }
 
+/* ---------- Version tabs ---------- */
+.version-tabs { display: flex; gap: 4px; padding: 4px; margin-bottom: 18px; border-radius: 14px; background: var(--muted-surface); }
+.vtab { flex: 1; min-width: 0; height: 40px; padding: 0 10px; border-radius: 11px; font-size: 15px; font-weight: 500; color: var(--text-2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.vtab.active { background: var(--surface); color: var(--text); box-shadow: var(--shadow); }
+
 /* ---------- Theme toggle and reset ---------- */
 .greeting .icon-btn { margin-left: auto; }
 .icon-btn { width: 48px; height: 48px; flex: none; border-radius: 14px; border: 1px solid var(--border); background: var(--surface); display: grid; place-items: center; color: var(--text); }

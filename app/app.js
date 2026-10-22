@@ -84,7 +84,8 @@
   function matches(r, q) {
     if (!q) return true;
     if (!r._search) {
-      const items = [...r.ingredients, ...r.bowls.flatMap((b) => b.items)];
+      const vs = r.versions.length ? r.versions : [r];
+      const items = vs.flatMap((v) => [...v.ingredients, ...v.bowls.flatMap((b) => b.items)]);
       r._search = [r.title, r.blurb, r.category, r.tags.join(' '), items.map((i) => stripTags(i.name)).join(' ')]
         .join(' ').toLowerCase();
     }
@@ -198,16 +199,24 @@
   }
 
   function renderRecipe(slug) {
-    const r = data.recipes.find((x) => x.slug === slug);
+    const r = data.recipes.find((x) => x.slug === slug) || data.recipes.find((x) => x.aliases.includes(slug));
     if (!r) { location.hash = '#/'; return; }
+    slug = r.slug;
 
-    const progressKey = `progress:${slug}`;
+    // Recipes with versions show tabs; everything below the tabs comes from the chosen version.
+    const versions = r.versions.length > 1 ? r.versions : null;
+    const vi = versions ? Math.min(Number(store.get(`version:${slug}`, 0)) || 0, versions.length - 1) : 0;
+    const v = versions ? versions[vi] : r;
+    const scope = versions ? `${slug}~${v.name}` : slug;
+    timerScope = scope;
+
+    const progressKey = `progress:${scope}`;
     const progress = store.get(progressKey, { ing: [], steps: [] });
     progress.bowls = progress.bowls || [];
     const meta = [
-      r.total && `<span>${ICONS.clock}${esc(r.total)}</span>`,
-      r.active && `<span>${ICONS.flame}${esc(r.active)} active</span>`,
-      r.makes && `<span>${ICONS.bowl}${esc(r.makes)}</span>`,
+      v.total && `<span>${ICONS.clock}${esc(v.total)}</span>`,
+      v.active && `<span>${ICONS.flame}${esc(v.active)} active</span>`,
+      v.makes && `<span>${ICONS.bowl}${esc(v.makes)}</span>`,
     ].filter(Boolean).join('');
     const fav = favourites.has(slug);
     const anyProgress = progress.ing.length || progress.steps.length || progress.bowls.length;
@@ -226,6 +235,10 @@
       </div>
       <article class="sheet">
         <div class="recipe-aside">
+        ${versions ? `
+          <div class="version-tabs" role="tablist" aria-label="Versions">
+            ${versions.map((x, i) => `<button role="tab" class="vtab ${i === vi ? 'active' : ''}" aria-selected="${i === vi}" data-version="${i}">${esc(x.name)}</button>`).join('')}
+          </div>` : ''}
         <div class="title-row">
           <h1>${esc(r.title)}</h1>
           <span class="cat-tag">${esc(LABEL[r.category] || r.category)}</span>
@@ -251,17 +264,17 @@
         <details class="block" open>
           <summary>Ingredients ${ICONS.chevron}</summary>
           <div class="block-body">
-            <ul class="ingredients" ${r.ingredients.length ? '' : 'hidden'}>
-              ${r.ingredients.map((i, n) => `
+            <ul class="ingredients" ${v.ingredients.length ? '' : 'hidden'}>
+              ${v.ingredients.map((i, n) => `
                 <li data-ing="${n}" class="${progress.ing.includes(n) ? 'done' : ''}">
                   <span class="tick">${ICONS.check}</span>
                   <span class="name">${i.name}</span>
                   <span class="grams">${esc(gramsText(i.grams))}</span>
                 </li>`).join('')}
             </ul>
-            ${r.bowls.length ? `
+            ${v.bowls.length ? `
               <h3 class="bowls-title">Prepare bowls</h3>
-              ${r.bowls.map((b, n) => `
+              ${v.bowls.map((b, n) => `
                 <div class="bowl ${progress.bowls.includes(n) ? 'done' : ''}" data-bowl="${n}">
                   <div class="bowl-head">
                     <span class="tick">${ICONS.check}</span>
@@ -281,7 +294,7 @@
           <summary>How to make it ${ICONS.chevron}</summary>
           <div class="block-body">
             <ol class="steps">
-              ${r.steps.map((s, n) => `
+              ${v.steps.map((s, n) => `
                 <li class="step ${progress.steps.includes(n) ? 'done' : ''}" data-step="${n}">
                   <span class="num">${n + 1}</span>
                   <div class="content">
@@ -293,7 +306,7 @@
           </div>
         </details>
 
-        ${r.tips ? `<details class="block"><summary>Tips ${ICONS.chevron}</summary><div class="block-body prose">${r.tips}</div></details>` : ''}
+        ${v.tips || (versions && r.tips) ? `<details class="block"><summary>Tips ${ICONS.chevron}</summary><div class="block-body prose">${v.tips}${versions ? r.tips : ''}</div></details>` : ''}
         ${r.extra.map((x) => `<details class="block"><summary style="text-transform:capitalize">${esc(x.title)} ${ICONS.chevron}</summary><div class="block-body prose">${x.html}</div></details>`).join('')}
         ${r.log ? `<details class="block"><summary>Adjustment log ${ICONS.chevron}</summary><div class="block-body prose">${r.log}</div></details>` : ''}
 
@@ -360,8 +373,8 @@
     }));
     view.querySelectorAll('[data-timer]').forEach((btn) => btn.addEventListener('click', () => {
       const n = Number(btn.dataset.timer.split(':')[0]);
-      const label = `Step ${n + 1} · ${r.steps[n].title.replace(/<[^>]+>/g, '')}`;
-      toggleTimer(`${slug}:${btn.dataset.timer}`, Number(btn.dataset.secs), label, btn.dataset.idle || btn.textContent);
+      const label = `Step ${n + 1} · ${v.steps[n].title.replace(/<[^>]+>/g, '')}`;
+      toggleTimer(`${scope}:${btn.dataset.timer}`, Number(btn.dataset.secs), label, btn.dataset.idle || btn.textContent);
     }));
     paintTimers();
     view.querySelectorAll('[data-step]').forEach((li) => li.addEventListener('click', (e) => {
@@ -370,6 +383,12 @@
       const done = li.classList.toggle('done');
       progress.steps = done ? [...progress.steps, n] : progress.steps.filter((x) => x !== n);
       save();
+    }));
+    view.querySelectorAll('[data-version]').forEach((btn) => btn.addEventListener('click', () => {
+      store.set(`version:${slug}`, Number(btn.dataset.version));
+      const y = window.scrollY;
+      renderRecipe(slug);
+      window.scrollTo(0, y);
     }));
     resetBtn.addEventListener('click', () => {
       try { localStorage.removeItem(progressKey); } catch { /* ignore */ }
@@ -438,6 +457,8 @@
     tickTimers();
   }
 
+  let timerScope = '';
+
   function clockText(secs) {
     const h = Math.floor(secs / 3600);
     const m = Math.floor((secs % 3600) / 60);
@@ -449,7 +470,7 @@
     const r = currentRoute();
     if (r.name !== 'recipe') return;
     view.querySelectorAll('[data-timer]').forEach((btn) => {
-      const t = timers[`${r.slug}:${btn.dataset.timer}`];
+      const t = timers[`${timerScope}:${btn.dataset.timer}`];
       const left = t ? Math.max(0, Math.ceil((t.end - Date.now()) / 1000)) : 0;
       btn.classList.toggle('running', !!t && left > 0);
       btn.classList.toggle('finished', !!t && left === 0);
@@ -558,6 +579,11 @@
       }
       data = await cached.json();
     }
+    // A favourite saved under a recipe's old slug moves to the recipe that now owns it.
+    for (const r of data.recipes) for (const a of r.aliases || []) {
+      if (favourites.delete(a)) favourites.add(r.slug);
+    }
+    store.set('favourites', [...favourites]);
     window.addEventListener('hashchange', route);
     route();
   }

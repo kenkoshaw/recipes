@@ -61,6 +61,7 @@ When creating or updating a recipe in this repo, follow these rules exactly:
     - Assume the bowls, and the prep named in each ingredient row (cubed, diced, chopped, beaten, separated, patted dry), are done before step 1. Don't write a step that only does that prep: put the prep in the ingredient's name instead. Steps for equipment (lining a tin, heating the oven) stay, or fold into the step that needs them.
     - When a step needs a weight in a bowl, jug or pan that already holds something, say to put it on the scale and zero it first, so the number to hit comes straight from the ingredient list (e.g. "zero the scale with the sugar bowl on it, then add water until it reads **226g**"). Never ask the cook to note a container's weight.
     - Don't bowl anything that can't sit combined until its step, such as gelatin in water (it sets) or cream that must stay cold. Weigh those at the step instead.
+12. **Versions**: when a recipe has variants (Brioche and Fast buns, Classic and Buttermilk scones), keep them in one file and the app shows a tab per version under the photo. List them in the frontmatter, `versions: [Brioche, Fast]`, and give each its own `## Ingredients (Brioche)`, `## Method (Brioche)` and optional `## Tips (Brioche)`. Start each version's Ingredients with its own `**Makes** … · **Total** … · **Active** …` line. A plain `## Tips` and the Adjustment Log are shared. If the file replaces older recipes, list their old file names in `aliases: [old-slug]` so old links and favourites still work.
 
 ## Recipe template
 
@@ -119,8 +120,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 
 **Bread**
 
-- [Brioche Burger Buns](bread/brioche-burger-buns.md) — proper version, overnight prove option
-- [Fast Burger Buns](bread/brioche-burger-buns-fast.md) — 90-minute version
+- [Burger Buns](bread/burger-buns.md) — Brioche (overnight prove option) or Fast (90 min)
 - [Butter Rolls](bread/butter-rolls.md) — soft Japanese-style rolls, freezable
 - [Melon Pan](bread/melon-pan.md) — cookie-crust Japanese sweet bread, Kenwood-kneaded
 - [New York-Style Bagels](bread/new-york-style-bagels.md) — same-day, boiled then baked, Kenwood-kneaded
@@ -128,7 +128,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 
 **Breakfast**
 
-- [Classic Scones with Jam and Clotted Cream](breakfast/classic-scones-with-jam-and-clotted-cream.md) — quick, Kenwood-rubbed butter
+- [Scones with Jam and Clotted Cream](breakfast/scones-with-jam-and-clotted-cream.md) — Classic or Buttermilk, Kenwood-rubbed butter
 - [Crêpes](breakfast/crepes.md) — double-cream batter, optional toppings
 - [Gazpacho](breakfast/gazpacho.md) — cold Andalusian tomato soup, cucumber garnish
 

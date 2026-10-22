@@ -38,17 +38,23 @@ function splitSections(body) {
   return sections;
 }
 
-function parseHead(head) {
-  const lines = head.replace(/^# .*$/m, '').trim();
+// The "**Makes** … · **Total** … · **Active** …" line, wherever it appears.
+function parseGlance(text) {
   const glance = {};
-  const glanceMatch = lines.match(/^\*\*Makes\*\*.*$/m);
+  const glanceMatch = text.match(/^\*\*Makes\*\*.*$/m);
   if (glanceMatch) {
     for (const part of glanceMatch[0].split('·')) {
       const g = part.match(/\*\*(\w+)\*\*\s*(.+)/);
       if (g) glance[g[1].toLowerCase()] = g[2].trim();
     }
   }
-  const intro = glanceMatch ? lines.replace(glanceMatch[0], '') : lines;
+  return { glance, line: glanceMatch ? glanceMatch[0] : '' };
+}
+
+function parseHead(head) {
+  const lines = head.replace(/^# .*$/m, '').trim();
+  const { glance, line } = parseGlance(lines);
+  const intro = line ? lines.replace(line, '') : lines;
   return { glance, intro };
 }
 
@@ -112,8 +118,29 @@ async function loadRecipe(category, file) {
   const [meta, body] = parseFrontmatter(raw.replace(/\r\n/g, '\n'));
   const s = splitSections(body);
   const { glance, intro } = parseHead(s._head);
-  const ing = parseIngredientSection(s.ingredients || '');
-  const known = new Set(['_head', 'ingredients', 'method', 'tips', 'adjustment log']);
+  // A recipe with `versions: [A, B]` has "## Ingredients (A)", "## Method (A)" and optional
+  // "## Tips (A)" per version; each version may start its ingredients with its own Makes line.
+  const versionNames = Array.isArray(meta.versions) ? meta.versions : [];
+  const buildVersion = (name) => {
+    const key = (k) => (name ? `${k} (${name.toLowerCase()})` : k);
+    const ingText = s[key('ingredients')] || '';
+    const g = parseGlance(ingText).glance;
+    const ing = parseIngredientSection(ingText);
+    const tips = s[key('tips')];
+    return {
+      name,
+      makes: g.makes || glance.makes || '',
+      total: g.total || glance.total || '',
+      active: g.active || glance.active || '',
+      ingredients: ing.ingredients,
+      bowls: ing.bowls,
+      steps: parseMethod(s[key('method')] || '', ing.bowls.map((b) => b.title.replace(/<[^>]+>/g, ''))),
+      tips: tips ? md(tips) : '',
+    };
+  };
+  const versions = versionNames.length ? versionNames.map(buildVersion) : [buildVersion('')];
+  const v0 = versions[0];
+  const isKnown = (k) => ['_head', 'ingredients', 'method', 'tips', 'adjustment log'].includes(k) || /^(ingredients|method|tips) \(.+\)$/.test(k);
   const image = meta.thumbnail ? fixImagePaths(meta.thumbnail) : firstImage(raw);
   const introText = intro.replace(/^!\[[^\]]*\]\(([^)]+)\)\s*$/m, (line, src) => (fixImagePaths(src) === image ? '' : line));
   return {
@@ -124,17 +151,19 @@ async function loadRecipe(category, file) {
     servings: meta.servings || '',
     tags: Array.isArray(meta.tags) ? meta.tags : [],
     lastMade: meta.last_made || '',
-    makes: glance.makes || '',
-    total: glance.total || '',
-    active: glance.active || '',
+    makes: v0.makes,
+    total: v0.total,
+    active: v0.active,
     intro: introText.trim() ? md(introText) : '',
     image,
-    ingredients: ing.ingredients,
-    bowls: ing.bowls,
-    steps: parseMethod(s.method || '', ing.bowls.map((b) => b.title.replace(/<[^>]+>/g, ''))),
-    tips: s.tips ? md(s.tips) : '',
+    ingredients: v0.ingredients,
+    bowls: v0.bowls,
+    steps: v0.steps,
+    tips: versionNames.length ? (s.tips ? md(s.tips) : '') : v0.tips,
+    versions: versionNames.length > 1 ? versions : [],
+    aliases: Array.isArray(meta.aliases) ? meta.aliases : [],
     log: s['adjustment log'] ? md(s['adjustment log']) : '',
-    extra: Object.entries(s).filter(([k]) => !known.has(k)).map(([k, v]) => ({ title: k, html: md(v) })),
+    extra: Object.entries(s).filter(([k]) => !isKnown(k)).map(([k, v]) => ({ title: k, html: md(v) })),
   };
 }
 
