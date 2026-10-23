@@ -12,7 +12,7 @@ aliases: [classic-scones-with-jam-and-clotted-cream]
 
 # Scones with Jam and Clotted Cream
 
-Quick storecupboard scones from Good Food magazine, two ways. **Classic** uses warm milk with a squeeze of lemon. **Buttermilk** swaps both for cold buttermilk and uses bicarbonate of soda instead of baking powder, for a tangier, more tender scone. A hot baking tray gives a tall rise, and the Kenwood K-beater rubs in the butter.
+Quick storecupboard scones from Good Food magazine, two ways. Both use plain flour and bicarbonate of soda, which needs an acid to rise: **Classic** sours warm milk with lemon juice, and **Buttermilk** uses cold buttermilk for a tangier, more tender scone. A hot baking tray gives a tall rise, and the Kenwood K-beater rubs in the butter.
 
 ## Ingredients (Classic)
 
@@ -31,8 +31,8 @@ Quick storecupboard scones from Good Food magazine, two ways. **Classic** uses w
 
 | Ingredient | Grams |
 |------------|-------|
-| Self-raising flour, plus more for dusting | 350 |
-| Baking powder | 1 tsp (4g) |
+| Plain flour, plus more for dusting | 350 |
+| Bicarbonate of soda | ¾ tsp (~4g) |
 | Salt | ¼ tsp (~1.5g) |
 
 ### Flavouring bowl (step 4)
@@ -40,7 +40,7 @@ Quick storecupboard scones from Good Food magazine, two ways. **Classic** uses w
 | Ingredient | Grams |
 |------------|-------|
 | Vanilla extract | 1 tsp (5g) |
-| Lemon juice | 1 squeeze (~5g) |
+| Lemon juice | 1 tbsp (15g) |
 
 ## Method (Classic)
 
@@ -58,11 +58,13 @@ Quick storecupboard scones from Good Food magazine, two ways. **Classic** uses w
 
 4. **Warm the milk** · 2 min
 
-   Microwave the 175ml (**180g**) milk in the jug for about 30 secs, until warm but not hot. Stir in the flavouring bowl and set aside for a moment.
+   Microwave the 175ml (**180g**) milk in the jug for about 30 secs, until warm but not hot. Stir in the flavouring bowl and leave for a minute: the lemon sours the milk slightly, which is what the bicarbonate of soda needs to rise.
 
 5. **Mix the dough** · 2 min
 
    Take the bowl off the Kenwood. Make a well in the dry mix, pour in the milk mixture and combine it quickly with a cutlery knife. It will seem pretty wet at first.
+
+   Work quickly from here: the bicarbonate of soda starts reacting as soon as the milk goes in.
 
 6. **Fold and cut** · 10 min
 
@@ -82,7 +84,7 @@ Quick storecupboard scones from Good Food magazine, two ways. **Classic** uses w
 
 ## Tips (Classic)
 
-- **Lemon juice**: it acts as a buttermilk substitute and boosts the raising agents. Use buttermilk if you can get it (see the Buttermilk version), or apple cider vinegar in a pinch (from the source).
+- **Lemon juice**: it sours the milk into a buttermilk substitute, giving the bicarbonate of soda the acid it needs. Without it the scones stay flat and taste soapy. White or apple cider vinegar works too.
 - **Warm milk**: a tip from the source for light scones that rise every time.
 
 ## Ingredients (Buttermilk)
@@ -103,8 +105,8 @@ Quick storecupboard scones from Good Food magazine, two ways. **Classic** uses w
 
 | Ingredient | Grams |
 |------------|-------|
-| Self-raising flour, plus more for dusting | 350 |
-| Bicarbonate of soda | ½ tsp (~2.5g) |
+| Plain flour, plus more for dusting | 350 |
+| Bicarbonate of soda | ¾ tsp (~4g) |
 | Salt | ¼ tsp (~1.5g) |
 
 ## Method (Buttermilk)
@@ -149,7 +151,7 @@ Quick storecupboard scones from Good Food magazine, two ways. **Classic** uses w
 
 ## Tips (Buttermilk)
 
-- **Why bicarbonate of soda**: buttermilk is acidic, and bicarb needs an acid to make the gas that lifts the scones, so it replaces the baking powder. Self-raising flour still does most of the rising.
+- **Why bicarbonate of soda**: plain flour has no raising agent, so the bicarb does all the lifting, using the buttermilk's acid. Expect a slightly more soda-bread-like scone than one made with self-raising flour.
 - **Liquid**: buttermilk doughs run softer. BBC Good Food's buttermilk scones use a whole 284ml carton for the same 350g flour; start with 200ml and add more only if the dough is dry.
 - **No buttermilk**: stir 1 tbsp (**15g**) lemon juice or white vinegar into 200ml (**206g**) milk and leave for 5–10 min until slightly thickened and curdled. Or loosen natural yoghurt with milk, about 2 parts yoghurt to 1 part milk, to make 200ml.
 
@@ -169,3 +171,4 @@ Quick storecupboard scones from Good Food magazine, two ways. **Classic** uses w
 - 2026-10-18: removed the prep step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.
 - 2026-10-21: added a buttermilk substitute Tip (milk soured with **15g** lemon juice or vinegar, or **120g** yoghurt loosened with **60g** milk). Not from the source; not yet tried. Quantities unchanged.
 - 2026-10-22: renamed to Scones with Jam and Clotted Cream and split into Classic and Buttermilk versions; Classic is unchanged. Buttermilk is adapted from BBC Good Food's buttermilk scones (350g self-raising flour, ½ tsp bicarbonate of soda, 85g butter, a 284ml carton of buttermilk, 220°C). Lemon juice and baking powder replaced by buttermilk and **~2.5g** bicarb, the buttermilk is used cold, the bake runs 10–12 min, and the substitute Tip moved to the Buttermilk version, scaled to 200ml. Not yet tried.
+- 2026-10-23: switched both versions to plain flour and bicarbonate of soda, since self-raising flour and baking powder aren't in the house. Self-raising flour is plain flour plus about 1–1¼ tsp baking powder per 100g, and 1 tsp baking powder is about ¼ tsp bicarb plus an acid. Classic: 350g self-raising flour + 1 tsp baking powder → 350g plain flour + **¾ tsp (~4g)** bicarb, with lemon juice raised from a squeeze to **1 tbsp (15g)** to sour the milk. Buttermilk: bicarb ½ → **¾ tsp (~4g)**, about the ratio Irish soda bread uses with buttermilk. Not yet tried; the rise may be a little lower than with self-raising flour.

@@ -20,6 +20,7 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 |------------|-------|
 | Unsalted butter, cubed, room temperature (bread dough) | 2½ tbsp (35g) |
 | Large egg, beaten (biscuit dough) | 1 (50g) |
+| Lemon juice (biscuit dough) | ½ tsp (2.5g) |
 | Granulated sugar, for the topping | 2 tbsp (26g) |
 
 ### Bread mixer bowl (step 1)
@@ -47,7 +48,7 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 | Ingredient | Grams |
 |------------|-------|
 | Cake flour (biscuit dough) | 200 |
-| Baking powder | ½ tsp (2g) |
+| Bicarbonate of soda | ⅛ tsp (~0.6g) |
 
 ## Method
 
@@ -81,7 +82,7 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 
    Wash and dry the Kenwood bowl and fit the K-beater. Add the biscuit butter and sugar bowl and mix on medium-low until smooth and well blended.
 
-   Crack the second large egg (**50g**), beat it and add it a very small amount at a time, blending well after each addition, until it's all in.
+   Crack the second large egg (**50g**), beat it with ½ tsp (**2.5g**) lemon juice and add it a very small amount at a time, blending well after each addition, until it's all in.
 
    Sift in the biscuit dough dry bowl and mix until just incorporated, then stop the mixer. Take the dough out and form it into a ball by hand.
 
@@ -148,3 +149,4 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Bread mixer bowl, Bread wet jug, Biscuit butter and sugar bowl, Biscuit dough dry bowl); steps refer to them by name. Quantities unchanged.
 - 2026-10-18: removed the prep step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.
 - 2026-10-21: merged the bread wet jug into the Bread mixer bowl, since it goes in at the same time in step 1; dropped the hand-whisk of the dry ingredients, as the dough hook mixes them. Quantities unchanged.
+- 2026-10-23: biscuit dough's ½ tsp baking powder → ⅛ tsp (**~0.6g**) bicarbonate of soda plus ½ tsp (**2.5g**) lemon juice beaten into the egg, since baking powder isn't in the house (1 tsp baking powder ≈ ¼ tsp bicarb + an acid). Not yet tried.
