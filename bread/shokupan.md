@@ -12,7 +12,7 @@ thumbnail: ../images/shokupan/thumbnail.jpg
 
 **Makes** 1 square loaf (10×10.5×20.5cm lidded tin, ~10 slices) · **Total** 2 hr 45 + yudane overnight · **Active** ~45 min
 
-Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour paste made the night before keeps the crumb moist. Three rolls of dough sit side by side in a lidded loaf tin, baked with the lid on for a square loaf, and the Kenwood dough hook does the kneading.
+Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour paste made the night before keeps the crumb moist. Three rolls of dough sit side by side in a lidded loaf tin, baked with the lid on for a square loaf, and the Kenwood dough hook does the kneading. The milk powder, yeast-first mixing and lid-on rise height come from [Just One Cookbook's shokupan](https://www.justonecookbook.com/japanese-milk-bread-shokupan/).
 
 ## Ingredients
 
