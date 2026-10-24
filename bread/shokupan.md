@@ -2,7 +2,7 @@
 title: Shokupan
 category: bread
 source: https://www.chopstickchronicles.com/shokupan-japanese-fluffy-white-bread/
-servings: 8
+servings: 16
 tags: [japanese, milk-bread, loaf, yudane, sandwich-bread]
 last_made:
 thumbnail: ../images/shokupan/thumbnail.jpg
@@ -10,7 +10,7 @@ thumbnail: ../images/shokupan/thumbnail.jpg
 
 # Shokupan
 
-**Makes** 1 small loaf (10×20×9cm tin, ~8 slices) · **Total** 2 hr 30 + yudane overnight · **Active** ~45 min
+**Makes** 2 small loaves (two 10×20×9cm tins, ~16 slices) · **Total** 2 hr 30 + yudane overnight · **Active** ~45 min
 
 Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour paste made the night before keeps the crumb moist. Two rolls of dough sit side by side in a small loaf tin, and the Kenwood dough hook does the kneading.
 
@@ -18,30 +18,30 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 | Ingredient | Grams |
 |------------|-------|
-| Bread flour, about 12% protein (yudane) | 50 |
-| Boiling water, above 90°C (yudane) | 40ml (40g) |
+| Bread flour, about 12% protein (yudane) | 100 |
+| Boiling water, above 90°C (yudane) | 80ml (80g) |
 | Egg, for brushing (optional) | 1 (~50g) |
 
 ### Mixer bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
-| Milk, room temperature | 150ml (155g) |
-| Sugar | 1 tbsp (15g) |
-| Instant dry yeast | 1 tsp (3g) |
-| Unsalted butter, room temperature | 2 tsp (10g) |
-| Bread flour, about 12% protein | 200 |
-| Salt | 1 tsp (5g) |
+| Milk, room temperature | 300ml (310g) |
+| Sugar | 2 tbsp (30g) |
+| Instant dry yeast | 2 tsp (6g) |
+| Unsalted butter, room temperature | 4 tsp (20g) |
+| Bread flour, about 12% protein | 400 |
+| Salt | 2 tsp (10g) |
 
 ## Method
 
 1. **Make the yudane the night before** · 5 min + overnight
 
-   Put the bread flour (**50g**) in a bowl, pour in 40ml (**40g**) boiling water, above 90°C, and mix well. Cover with cling film and refrigerate overnight.
+   Put the bread flour (**100g**) in a bowl, pour in 80ml (**80g**) boiling water, above 90°C, and mix well. Cover with cling film and refrigerate overnight.
 
 2. **Add everything to the bowl** · 5 min
 
-   Tear the yudane (**90g** in total) into small pieces into the mixer bowl. Fit the dough hook and mix on low until everything is combined.
+   Tear the yudane (**180g** in total) into small pieces into the mixer bowl. Fit the dough hook and mix on low until everything is combined.
 
 3. **Knead** · 20 min
 
@@ -55,34 +55,34 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 5. **Divide and rest** · 25 min
 
-   Punch the dough down and cut it into two equal pieces with a scraper (about **240g** each, from the **478g** total of the ingredients). Roll each into a ball, cover with a wet cloth and rest for 20 min.
+   Punch the dough down and cut it into four equal pieces with a scraper (about **240g** each, from the **956g** total of the ingredients). Roll each into a ball, cover with a wet cloth and rest for 20 min.
 
 6. **Roll out and shape** · 15 min
 
    Roll each piece with a rolling pin into a rectangle of about 15×20cm. Fold each tightly towards the centre from the left and right, without letting any air in. Turn it 90 degrees and roll it up from one end.
 
-   Lightly spray a 10×20×9cm loaf tin and put the two rolls in side by side, each at one end of the tin and facing the centre.
+   Lightly spray two 10×20×9cm loaf tins and put two rolls in each, side by side, each at one end of the tin and facing the centre.
 
 7. **Second rise** · 30 min
 
-   Cover the tin with a wet cloth and leave until the dough has risen level with the top of the tin. Heat the oven to 185°C while it rises.
+   Cover the tins with a wet cloth and leave until the dough has risen level with the tops of the tins. Heat the oven to 185°C while it rises.
 
 8. **Bake** · 25–30 min
 
-   If you like, brush a little of 1 beaten egg (**~50g**) over the tops. Bake at 185°C for 25–30 min.
+   If you like, brush a little of 1 beaten egg (**~50g**) over the tops. Bake both tins side by side at 185°C for 25–30 min.
 
 9. **Cool** · 1 hr+
 
-   Take the loaf out of the tin and cool it on a wire rack. Slice it the next day if you can; it's so soft that it tears when still warm.
+   Take the loaves out of the tins and cool them on a wire rack. Slice them the next day if you can; they're so soft that it tears when still warm.
 
 ## Tips
 
 - **Kenwood use**: the dough hook mixes and kneads (steps 2–3). The source's mixer speeds (1, then 5 or 6) are for its own mixer, not a Kenwood, so these steps say "low" and "medium-low" instead. I haven't checked how long or how fast your Kenwood manual allows the dough hook to run, so look before kneading for the full 20 min.
 - **Flour**: choose a bread flour with around 12% protein (from the source).
-- **Yeast**: **15g** of fresh yeast can replace the **3g** of instant dry yeast (from the source).
+- **Yeast**: **30g** of fresh yeast can replace the **6g** of instant dry yeast (from the source).
 - **Milk**: plant-based milk works if you prefer (from the source).
 - **Yudane timing**: best made the night before, but it can be made and rested for a shorter time (from the source).
-- **Tin**: the source uses a 10×20×9cm tin and gets about 8 slices, 2cm thick.
+- **Tin**: the source uses one 10×20×9cm tin and gets about 8 slices, 2cm thick. This doubled batch fills two of them.
 
 ## Adjustment Log
 
@@ -91,3 +91,4 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Yeast bowl, Dry mix bowl); steps refer to them by name. Quantities unchanged.
 - 2026-10-18: removed the "Get ready" step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.
 - 2026-10-21: merged the yeast bowl, dry mix bowl and milk into one Mixer bowl, weighed straight into the Kenwood bowl, since they all go in together at step 2. Quantities unchanged.
+- 2026-10-24: doubled the recipe to make 2 loaves. Every ingredient is ×2 except the egg for brushing, since one egg covers both loaves: yudane flour 50 → **100g**, water 40 → **80g**, milk 155 → **310g**, sugar 15 → **30g**, yeast 3 → **6g**, butter 10 → **20g**, flour 200 → **400g**, salt 5 → **10g**. The dough is cut into 4 pieces of ~240g, two per tin, so each loaf and its bake time stay the same. Knead time is unchanged at 20 min, but the bigger batch may need a little longer. Check your Kenwood manual's maximum dough load, which I haven't checked. Untried.
