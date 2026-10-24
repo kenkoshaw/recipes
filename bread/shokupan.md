@@ -49,9 +49,11 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
    Once everything is combined, turn the Kenwood up to medium-low and knead for 20 min.
 
-4. **First rise** · 45–60 min
+   The dough should be 26–28°C straight after kneading. If it's warmer, use colder water next time.
 
-   Roll the dough into a ball and put it in a lightly greased bowl. Cover with cling film and leave at about 30°C for 45–60 min, until doubled in size.
+4. **First rise** · 35–60 min
+
+   Roll the dough into a ball and put it in a lightly greased bowl. Cover with cling film and leave at about 30°C for 35–60 min, until doubled in size.
 
    To check, dust a finger with flour and poke the dough. If the hole stays and the dough doesn't bounce back, it's ready.
 
@@ -104,3 +106,4 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 - 2026-10-24: took two things from Just One Cookbook's shokupan (https://www.justonecookbook.com/japanese-milk-bread-shokupan/). (1) Skim milk powder replaces fresh milk: 194g whole milk → 170g water + **17g** skim milk powder, and butter 12 → **19g** to make up the milk fat. These are worked out from whole milk being ~87.5% water, ~9% milk solids and ~3.5% fat, not taken from JOC. (2) The yeast is whisked into the water and sugar in a jug first, then poured into a well in the dry mix. Water, sugar and yeast move to the top table because yeast water can't sit overnight in a bowl. The ~7g per tbsp for the milk powder is an estimate. Untried.
 - 2026-10-24: second rise now stops at 75–80% of the tin's height (~2–2.5cm below the rim, taking 10.5cm as the height) instead of 1cm below, as in Just One Cookbook's flat-topped loaf, to leave room for oven spring under the lid. Time 30–40 → 30–60 min (JOC says about 1 hr).
 - 2026-10-24: instant yeast 4 → **7g** (one UK sachet), about 2.2% of the total flour, close to Just One Cookbook's 2.1%. Expect both rises to finish towards the short end of their times, so go by the finger test and the tin height, not the clock. Fresh yeast in the Tip 19 → **35g**. Untried.
+- 2026-10-24: for the 7g yeast, step 3 now gives a 26–28°C dough temperature after kneading (Just One Cookbook's 79–82°F), and the first rise is 45–60 → 35–60 min. Quantities unchanged.
