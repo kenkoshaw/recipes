@@ -73,7 +73,7 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 9. **Cool** · 1 hr+
 
-   Take the loaves out of the tins and cool them on a wire rack. Slice them the next day if you can; they're so soft that it tears when still warm.
+   Take the loaves out of the tins and cool them on a wire rack. Slice them the next day if you can; they're so soft that they tear when still warm.
 
 ## Tips
 
