@@ -12,7 +12,7 @@ thumbnail: ../images/shokupan/thumbnail.jpg
 
 **Makes** 1 square loaf (10×10.5×20.5cm lidded tin, ~10 slices) · **Total** 2 hr 45 + yudane overnight · **Active** ~45 min
 
-Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour paste made the night before keeps the crumb moist. Two rolls of dough sit side by side in a lidded loaf tin, baked with the lid on for a square loaf, and the Kenwood dough hook does the kneading.
+Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour paste made the night before keeps the crumb moist. Three rolls of dough sit side by side in a lidded loaf tin, baked with the lid on for a square loaf, and the Kenwood dough hook does the kneading.
 
 ## Ingredients
 
@@ -54,13 +54,13 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 5. **Divide and rest** · 25 min
 
-   Punch the dough down and cut it into two equal pieces with a scraper (about **300g** each, from the **597g** total of the ingredients). Roll each into a ball, cover with a wet cloth and rest for 20 min.
+   Punch the dough down and cut it into three equal pieces with a scraper (about **199g** each, from the **597g** total of the ingredients). Roll each into a ball, cover with a wet cloth and rest for 20 min.
 
 6. **Roll out and shape** · 15 min
 
-   Roll each piece with a rolling pin into a rectangle of about 15×20cm. Fold each tightly towards the centre from the left and right, without letting any air in. Turn it 90 degrees and roll it up from one end.
+   Roll each piece with a rolling pin into a rectangle of about 12×18cm. Fold each tightly towards the centre from the left and right, so it's about 6cm wide, without letting any air in. Turn it 90 degrees and roll it up from one end.
 
-   Lightly spray the 10×10.5×20.5cm tin and the inside of its lid. Put the two rolls in side by side, one at each end of the tin, facing the centre.
+   Lightly spray the 10×10.5×20.5cm tin and the inside of its lid. Put the three rolls in side by side, seam down and spirals facing the long sides of the tin: one at each end and one in the middle.
 
 7. **Second rise** · 30–40 min
 
@@ -95,3 +95,4 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 - 2026-10-21: merged the yeast bowl, dry mix bowl and milk into one Mixer bowl, weighed straight into the Kenwood bowl, since they all go in together at step 2. Quantities unchanged.
 - 2026-10-24: doubled the recipe to make 2 loaves. Every ingredient is ×2 except the egg for brushing, since one egg covers both loaves: yudane flour 50 → **100g**, water 40 → **80g**, milk 155 → **310g**, sugar 15 → **30g**, yeast 3 → **6g**, butter 10 → **20g**, flour 200 → **400g**, salt 5 → **10g**. The dough is cut into 4 pieces of ~240g, two per tin, so each loaf and its bake time stay the same. Knead time is unchanged at 20 min, but the bigger batch may need a little longer. Check your Kenwood manual's maximum dough load, which I haven't checked. Untried.
 - 2026-10-24: replaced the doubling with 1.25× the original, to fill one 10×10.5×20.5cm lidded tin (~2,150cm³). Compared with the original: yudane flour 50 → **62g**, water 40 → **50g**, milk 155 → **194g**, sugar 15 → **19g**, yeast 3 → **4g**, butter 10 → **12g**, flour 200 → **250g**, salt 5 → **6g**. That gives ~597g of dough in 2 pieces of ~300g. The loaf is now baked lid on at 190°C for 30–35 min, rising to 1cm below the rim before the lid goes on. The egg wash moves to the lid-off Tip, since the lid covers the top. The lidded bake time and temperature, and the ~0.28g of dough per cm³ fill, are typical for Pullman tins and not from the source. Untried.
+- 2026-10-24: 3 rolls instead of 2, each ~199g. The rectangle is now ~12×18cm instead of 15×20cm, folded to ~6cm wide so three rolls fit along the 20.5cm tin. Quantities unchanged. The rectangle size is an estimate. Untried.
