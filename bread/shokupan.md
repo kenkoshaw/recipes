@@ -22,7 +22,7 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 | Boiling water, above 90°C (yudane) | 50ml (50g) |
 | Water, room temperature (cold in a warm kitchen) | 170ml (170g) |
 | Sugar | 1¼ tbsp (19g) |
-| Instant dry yeast | 1¼ tsp (4g) |
+| Instant dry yeast | 1 sachet, 2¼ tsp (7g) |
 
 ### Mixer bowl (step 2)
 
@@ -41,7 +41,7 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 2. **Mix the yeast, then the dough** · 5 min
 
-   In a jug, whisk the water (**170g**) with the sugar (**19g**) until dissolved, then whisk in the yeast (**4g**).
+   In a jug, whisk the water (**170g**) with the sugar (**19g**) until dissolved, then whisk in the yeast (**7g**).
 
    Tear the yudane (**112g** in total) into small pieces into the mixer bowl. Make a well in the middle and pour in the yeast water. Fit the dough hook and mix on low until everything is combined.
 
@@ -85,7 +85,7 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
 - **Kenwood use**: the dough hook mixes and kneads (steps 2–3). The source's mixer speeds (1, then 5 or 6) are for its own mixer, not a Kenwood, so these steps say "low" and "medium-low" instead. I haven't checked how long or how fast your Kenwood manual allows the dough hook to run, so look before kneading for the full 20 min.
 - **Flour**: choose a bread flour with around 12% protein (from the source).
-- **Yeast**: **19g** of fresh yeast can replace the **4g** of instant dry yeast (5× the dry weight, as in the source).
+- **Yeast**: **35g** of fresh yeast can replace the **7g** of instant dry yeast (5× the dry weight, as in the source).
 - **Milk powder**: skim milk powder and water replace the fresh milk, as in Just One Cookbook's shokupan. For fresh milk instead, use 190ml (**194g**) whole milk in place of the water and powder, and cut the butter to **12g**.
 - **Yudane timing**: best made the night before, but it can be made and rested for a shorter time (from the source).
 - **Lid off**: for a domed loaf, leave the lid off and let the dough rise just above the rim instead. Brush with a little beaten egg, then bake at 185°C for 25–30 min, as in the source.
@@ -103,3 +103,4 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 - 2026-10-24: 3 rolls instead of 2, each ~199g. The rectangle is now ~12×18cm instead of 15×20cm, folded to ~6cm wide so three rolls fit along the 20.5cm tin. Quantities unchanged. The rectangle size is an estimate. Untried.
 - 2026-10-24: took two things from Just One Cookbook's shokupan (https://www.justonecookbook.com/japanese-milk-bread-shokupan/). (1) Skim milk powder replaces fresh milk: 194g whole milk → 170g water + **17g** skim milk powder, and butter 12 → **19g** to make up the milk fat. These are worked out from whole milk being ~87.5% water, ~9% milk solids and ~3.5% fat, not taken from JOC. (2) The yeast is whisked into the water and sugar in a jug first, then poured into a well in the dry mix. Water, sugar and yeast move to the top table because yeast water can't sit overnight in a bowl. The ~7g per tbsp for the milk powder is an estimate. Untried.
 - 2026-10-24: second rise now stops at 75–80% of the tin's height (~2–2.5cm below the rim, taking 10.5cm as the height) instead of 1cm below, as in Just One Cookbook's flat-topped loaf, to leave room for oven spring under the lid. Time 30–40 → 30–60 min (JOC says about 1 hr).
+- 2026-10-24: instant yeast 4 → **7g** (one UK sachet), about 2.2% of the total flour, close to Just One Cookbook's 2.1%. Expect both rises to finish towards the short end of their times, so go by the finger test and the tin height, not the clock. Fresh yeast in the Tip 19 → **35g**. Untried.
