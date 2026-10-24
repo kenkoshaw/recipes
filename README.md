@@ -125,7 +125,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 - [Butter Rolls](bread/butter-rolls.md) — soft Japanese-style rolls, freezable
 - [Melon Pan](bread/melon-pan.md) — cookie-crust Japanese sweet bread, Kenwood-kneaded
 - [New York-Style Bagels](bread/new-york-style-bagels.md) — same-day, boiled then baked, Kenwood-kneaded
-- [Shokupan](bread/shokupan.md) — yudane milk bread, small loaf, Kenwood-kneaded
+- [Shokupan](bread/shokupan.md) — yudane milk bread, square lidded loaf, Kenwood-kneaded
 
 **Breakfast**
 
