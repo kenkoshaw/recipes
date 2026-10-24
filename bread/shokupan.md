@@ -65,9 +65,11 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 
    Lightly spray the 10×10.5×20.5cm tin and the inside of its lid. Put the three rolls in side by side, seam down and spirals facing the long sides of the tin: one at each end and one in the middle.
 
-7. **Second rise** · 30–40 min
+7. **Second rise** · 30–60 min
 
-   Cover the tin with a wet cloth and leave until the dough is about 1cm below the rim. Don't let it reach the top, or the lid will squash it.
+   Cover the tin with a wet cloth and leave until the dough reaches 75–80% of the tin's height, about 2–2.5cm below the rim.
+
+   The gap leaves room for oven spring. If the dough rises higher, the lid may not close, or the dough may overflow and stick.
 
    Slide the lid on. Heat the oven to 190°C while the dough rises.
 
@@ -100,3 +102,4 @@ Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour pa
 - 2026-10-24: replaced the doubling with 1.25× the original, to fill one 10×10.5×20.5cm lidded tin (~2,150cm³). Compared with the original: yudane flour 50 → **62g**, water 40 → **50g**, milk 155 → **194g**, sugar 15 → **19g**, yeast 3 → **4g**, butter 10 → **12g**, flour 200 → **250g**, salt 5 → **6g**. That gives ~597g of dough in 2 pieces of ~300g. The loaf is now baked lid on at 190°C for 30–35 min, rising to 1cm below the rim before the lid goes on. The egg wash moves to the lid-off Tip, since the lid covers the top. The lidded bake time and temperature, and the ~0.28g of dough per cm³ fill, are typical for Pullman tins and not from the source. Untried.
 - 2026-10-24: 3 rolls instead of 2, each ~199g. The rectangle is now ~12×18cm instead of 15×20cm, folded to ~6cm wide so three rolls fit along the 20.5cm tin. Quantities unchanged. The rectangle size is an estimate. Untried.
 - 2026-10-24: took two things from Just One Cookbook's shokupan (https://www.justonecookbook.com/japanese-milk-bread-shokupan/). (1) Skim milk powder replaces fresh milk: 194g whole milk → 170g water + **17g** skim milk powder, and butter 12 → **19g** to make up the milk fat. These are worked out from whole milk being ~87.5% water, ~9% milk solids and ~3.5% fat, not taken from JOC. (2) The yeast is whisked into the water and sugar in a jug first, then poured into a well in the dry mix. Water, sugar and yeast move to the top table because yeast water can't sit overnight in a bowl. The ~7g per tbsp for the milk powder is an estimate. Untried.
+- 2026-10-24: second rise now stops at 75–80% of the tin's height (~2–2.5cm below the rim, taking 10.5cm as the height) instead of 1cm below, as in Just One Cookbook's flat-topped loaf, to leave room for oven spring under the lid. Time 30–40 → 30–60 min (JOC says about 1 hr).
