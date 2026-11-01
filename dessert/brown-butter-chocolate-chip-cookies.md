@@ -59,7 +59,7 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 
    The milk solids at the bottom turn tan, then amber, and it smells nutty. That's 30 seconds from done.
 
-   Off the heat immediately. Put a heatproof mixing bowl on the scale and zero it, then pour the butter in, scraping every brown speck out.
+   Off the heat immediately. Put the Kenwood bowl on the scale and zero it, then pour the butter in, scraping every brown speck out.
 
 2. **Top up and cool** · 20 min
 
@@ -67,15 +67,15 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 
 3. **Sugars** · 2 min
 
-   Add the sugar bowl and whisk for 1 min, until smooth and glossy. This dissolves the sugar and gives the crackly top.
+   Fit the bowl to the Kenwood with the K-beater. Add the sugar bowl and beat on medium for 1 min, until smooth and glossy. This dissolves the sugar and gives the crackly top.
 
 4. **Wet ingredients** · 2 min
 
-   Whisk in the wet jug. Whisk hard for 30 seconds until it thickens slightly and lightens in colour.
+   Add the wet jug and beat on medium-high for 30 seconds, until it thickens slightly and lightens in colour.
 
 5. **Dry ingredients** · 1 min
 
-   Add the dry mix bowl and fold with a spatula only until the flour is starting to mix in, with plenty of dry flour still showing. Don't beat it.
+   Take the bowl off the Kenwood. Add the dry mix bowl and fold with a spatula only until the flour is starting to mix in, with plenty of dry flour still showing. Don't beat it.
 
 6. **Chocolate** · 2 min
 
@@ -106,8 +106,9 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 - **Pink Himalayan salt: weigh it, don't measure by volume.** It's ~98% NaCl like table salt, but coarse crystals pack much lighter per spoon. Grind it or dissolve it into the coffee if it's coarse.
 - **Baking powder omitted.** The original called for 1/4 tsp at this scale, which is negligible. Don't increase the bicarb to compensate — more bicarb means more spread and a soapy edge.
 - **Freeze the surplus as dough balls**, not as baked cookies. After the step 8 chill, freeze on the tray, then bag. Bake from frozen, adding 2 minutes.
-- **Dark brown sugar** gives more toffee depth than light. With light, whisking 2 tsp black treacle into the butter at step 3 roughly closes the gap.
+- **Dark brown sugar** gives more toffee depth than light. With light, adding 2 tsp black treacle to the butter at step 3 roughly closes the gap.
 - Keep the chocolate bowl in the fridge until you fold it in.
+- **Kenwood use**: the butter goes straight into the Kenwood bowl, and the K-beater does the sugar and egg. Flour and chocolate are folded by hand, as the machine overworks the dough and toughens the cookies.
 
 ## Adjustment Log
 
@@ -116,3 +117,4 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 - 2026-10-18: removed the prep step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.
 - 2026-10-18: top-up step now zeroes the scale with the sugar bowl on it, so the target is the butter weight (**226g**) rather than a noted bowl weight. Quantities unchanged.
 - 2026-11-01: butter now browns into a separate mixing bowl and cools before the sugar bowl goes in. Light or dark brown sugar. Dry mix folded in only partly before the chocolate, then mixed until no flour remains. Chill changed from 1 hr+ as one mass to 30 min, roll into balls, then 2–24 hr as balls; bake straight from the fridge. Times written as words ("a full minute") now in numbers so the app makes timers. Quantities unchanged.
+- 2026-11-01: butter browns straight into the Kenwood bowl; K-beater replaces hand whisking for the sugar and wet jug. Flour and chocolate still folded by hand. Quantities unchanged.
