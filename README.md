@@ -144,6 +144,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 - [Honey Soy Baked Chicken Thighs](dinner/honey-soy-baked-chicken-thighs.md) — marinated, baked then broiled
 - [Miso-Yoghurt Chicken Thighs with Crème Fraîche Miso Pasta](dinner/miso-yoghurt-chicken-thighs-with-creme-fraiche-miso-pasta.md) — charred miso-yoghurt thighs over a same-pan crème fraîche pasta
 - [Quick Peri Peri Marinade](dinner/quick-peri-peri-marinade.md) — for 1kg chicken or veg
+- [Rice Cooker Khao Man Gai](dinner/rice-cooker-khao-man-gai.md) — chicken cooked on seasoned rice, soy-oyster-miso sauce
 - [Sicilian Prawn and Tomato Spaghetti](dinner/sicilian-prawn-and-tomato-spaghetti.md) — anchovy toast on the side
 - [Swedish Meatballs](dinner/swedish-meatballs.md) — butter-basted, cream gravy, pomme purée, shop-bought lingonberry sauce and pickles
 - [Tori-jaga](dinner/tori-jaga.md) — soy-braised chicken and potato, no mirin/sake
