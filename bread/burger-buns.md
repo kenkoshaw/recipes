@@ -141,7 +141,7 @@ Burger buns two ways. **Brioche** is the proper version: a lean brioche with a s
 
 6. **Cool** · 20 min
 
-   Twenty minutes is the realistic minimum before the crumb sets enough to slice cleanly.
+   Cool for 20 min. That's the realistic minimum before the crumb sets enough to slice cleanly.
 
 ## Tips (Fast)
 
@@ -159,3 +159,4 @@ Burger buns two ways. **Brioche** is the proper version: a lean brioche with a s
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients; steps refer to them by name. Quantities unchanged.
 - 2026-10-21 (Fast): merged the egg and butter jug into the Mixer bowl, since they go in together at step 2. The pinch of sugar for the yeast (**~1g**) moved from the mixer bowl into the yeast jug, so the mixer bowl's sugar is 40 → **39g**; total sugar unchanged.
 - 2026-10-22: merged Brioche Burger Buns and Fast Burger Buns into one recipe with Brioche and Fast versions. The sizing tip is shared; everything else is unchanged.
+- 2026-11-01: time written as words now in numbers so the app makes a timer. Quantities unchanged.

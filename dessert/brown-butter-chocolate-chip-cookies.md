@@ -10,7 +10,7 @@ thumbnail: ../images/brown-butter-chocolate-chip-cookies/cookies.jpg
 
 # Brown Butter Chocolate Chip Cookies
 
-**Makes** 27 cookies (40g each) · **Total** 2 hr 15 · **Active** 40 min
+**Makes** 27 cookies (40g each) · **Total** 3 hr 40 · **Active** 50 min
 
 Half batch of a 48-50 cookie American recipe, converted to metric with unsalted butter and brewed coffee in place of milk. Coffee sharpens the chocolate and feeds the bicarb; the butter's missing salt is folded back into the 6g total.
 
@@ -21,11 +21,11 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 | Unsalted butter | 226 |
 | Flaky or coarse salt, to finish | 4 |
 
-### Sugar bowl (step 1)
+### Sugar bowl (step 3)
 
 | Ingredient | Grams |
 |------------|-------|
-| Light brown sugar | 180 |
+| Light or dark brown sugar | 180 |
 | Caster sugar | 100 |
 
 ### Wet jug (step 4)
@@ -59,37 +59,41 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 
    The milk solids at the bottom turn tan, then amber, and it smells nutty. That's 30 seconds from done.
 
-   Off the heat immediately. Put the sugar bowl on the scale and zero it, then pour the butter in, scraping every brown speck out.
+   Off the heat immediately. Put a heatproof mixing bowl on the scale and zero it, then pour the butter in, scraping every brown speck out.
 
 2. **Top up and cool** · 20 min
 
-   Browning drives off 30-40g of water. With the bowl still on the zeroed scale, add cold water until it reads **226g**, the weight of butter you started with. Leave until just warm, not hot, or it will scramble the egg.
+   Browning drives off 30-40g of water. With the bowl still on the zeroed scale, add cold water until it reads **226g**, the weight of butter you started with. Leave for 20 min, until just warm, not hot. Hot butter melts the sugar to a greasy mix and scrambles the egg.
 
 3. **Sugars** · 2 min
 
-   Whisk the butter and sugars together for a full minute, until smooth and glossy. This dissolves the sugar and gives the crackly top.
+   Add the sugar bowl and whisk for 1 min, until smooth and glossy. This dissolves the sugar and gives the crackly top.
 
 4. **Wet ingredients** · 2 min
 
    Whisk in the wet jug. Whisk hard for 30 seconds until it thickens slightly and lightens in colour.
 
-5. **Dry ingredients** · 2 min
+5. **Dry ingredients** · 1 min
 
-   Add the dry mix bowl and fold with a spatula until a few floury streaks remain. Don't beat it.
+   Add the dry mix bowl and fold with a spatula only until the flour is starting to mix in, with plenty of dry flour still showing. Don't beat it.
 
 6. **Chocolate** · 2 min
 
-   Fold in the chilled chocolate bowl, tipping in the dust from the board as well. Chilled shards stay as shards; warm ones smear.
+   Add the chilled chocolate bowl, tipping in the dust from the board as well. Fold until no dry flour remains. Chilled shards stay as shards; warm ones smear.
 
-7. **Chill** · 1 hr minimum
+7. **Chill** · 30 min
 
-   Cover and refrigerate at least 1 hour. 24-36 hours is noticeably better for flavour and gives less spread.
+   Cover and refrigerate for 30 min, until firm enough to roll.
 
-8. **Bake** · 12 min
+8. **Shape and chill** · 2–24 hr
 
-   Heat the oven to 175°C fan / 190°C conventional. Scoop 40g balls onto a cool, paper-lined tray, 8 per tray, well spaced. Bake 11-13 minutes — edges set, centres still looking underdone.
+   Roll into **40g** balls and set them close together on a paper-lined tray or plate. Cover and refrigerate for 2 hr, up to 24 hr. Longer gives more flavour and less spread.
 
-9. **Finish** · 5 min
+9. **Bake** · 12 min
+
+   Heat the oven to 175°C fan / 190°C conventional. Put 8 balls straight from the fridge onto a cool, paper-lined tray, well spaced, and keep the rest chilled. Bake 11-13 minutes — edges set, centres still looking underdone.
+
+10. **Finish** · 5 min
 
    Sprinkle with flaky salt (**4g** across the batch) straight from the oven. Bang the tray once on the worktop for ripples. Cool 5 minutes on the tray before moving to a rack.
 
@@ -101,8 +105,8 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 - **Cool tray, baking paper.** A preheated tray sets the base before the dough spreads and you get domes instead of ripples. Let the tray cool fully between loads; the same paper does three or four batches.
 - **Pink Himalayan salt: weigh it, don't measure by volume.** It's ~98% NaCl like table salt, but coarse crystals pack much lighter per spoon. Grind it or dissolve it into the coffee if it's coarse.
 - **Baking powder omitted.** The original called for 1/4 tsp at this scale, which is negligible. Don't increase the bicarb to compensate — more bicarb means more spread and a soapy edge.
-- **Freeze the surplus as dough balls**, not as baked cookies. Scoop, freeze on a tray, bag. Bake from frozen, adding 2 minutes.
-- **For more toffee depth with light brown sugar**, whisk 2 tsp black treacle into the warm butter at step 3. That roughly closes the molasses gap to dark brown sugar.
+- **Freeze the surplus as dough balls**, not as baked cookies. After the step 8 chill, freeze on the tray, then bag. Bake from frozen, adding 2 minutes.
+- **Dark brown sugar** gives more toffee depth than light. With light, whisking 2 tsp black treacle into the butter at step 3 roughly closes the gap.
 - Keep the chocolate bowl in the fridge until you fold it in.
 
 ## Adjustment Log
@@ -111,3 +115,4 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Sugar bowl, Wet jug, Dry mix bowl, Chocolate bowl); steps refer to them by name. Quantities unchanged.
 - 2026-10-18: removed the prep step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.
 - 2026-10-18: top-up step now zeroes the scale with the sugar bowl on it, so the target is the butter weight (**226g**) rather than a noted bowl weight. Quantities unchanged.
+- 2026-11-01: butter now browns into a separate mixing bowl and cools before the sugar bowl goes in. Light or dark brown sugar. Dry mix folded in only partly before the chocolate, then mixed until no flour remains. Chill changed from 1 hr+ as one mass to 30 min, roll into balls, then 2–24 hr as balls; bake straight from the fridge. Times written as words ("a full minute") now in numbers so the app makes timers. Quantities unchanged.

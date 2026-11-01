@@ -44,7 +44,7 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 
 1. **Temper the cheese** · 30–60 min
 
-   Take the 1 wheel (**250g**) of camembert out of the fridge and leave it wrapped at room temperature. 30 minutes for a ripe wheel, a full hour if it's young — a fridge-cold centre stays chalky while the edges split.
+   Take the 1 wheel (**250g**) of camembert out of the fridge and leave it wrapped at room temperature. 30 minutes for a ripe wheel, 1 hr if it's young — a fridge-cold centre stays chalky while the edges split.
 
 2. **Preheat oven** · 10 min
 
@@ -98,3 +98,4 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 - 2026-10-10: Added a prep step (garlic sliced and split into honey/cheese portions, thyme sorted, honey weighed) before the walnuts; later steps renumbered 4–8. Quantities unchanged.
 - 2026-10-18: grouped same-time ingredients into named bowls under Ingredients (Garlic honey bowl, Garlic studs bowl); steps refer to them by name. Quantities unchanged.
 - 2026-10-18: removed the garlic-slicing step; the bowls and the prep named in each ingredient row are done before step 1. Steps renumbered where needed. Quantities unchanged.
+- 2026-11-01: time written as words now in numbers so the app makes a timer. Quantities unchanged.

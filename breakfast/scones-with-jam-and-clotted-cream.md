@@ -58,7 +58,7 @@ Quick storecupboard scones from Good Food magazine, two ways. Both use plain flo
 
 4. **Warm the milk** · 2 min
 
-   Microwave the 175ml (**180g**) milk in the jug for about 30 secs, until warm but not hot. Stir in the flavouring bowl and leave for a minute: the lemon sours the milk slightly, which is what the bicarbonate of soda needs to rise.
+   Microwave the 175ml (**180g**) milk in the jug for about 30 secs, until warm but not hot. Stir in the flavouring bowl and leave for 1 min: the lemon sours the milk slightly, which is what the bicarbonate of soda needs to rise.
 
 5. **Mix the dough** · 2 min
 
@@ -172,3 +172,4 @@ Quick storecupboard scones from Good Food magazine, two ways. Both use plain flo
 - 2026-10-21: added a buttermilk substitute Tip (milk soured with **15g** lemon juice or vinegar, or **120g** yoghurt loosened with **60g** milk). Not from the source; not yet tried. Quantities unchanged.
 - 2026-10-22: renamed to Scones with Jam and Clotted Cream and split into Classic and Buttermilk versions; Classic is unchanged. Buttermilk is adapted from BBC Good Food's buttermilk scones (350g self-raising flour, ½ tsp bicarbonate of soda, 85g butter, a 284ml carton of buttermilk, 220°C). Lemon juice and baking powder replaced by buttermilk and **~2.5g** bicarb, the buttermilk is used cold, the bake runs 10–12 min, and the substitute Tip moved to the Buttermilk version, scaled to 200ml. Not yet tried.
 - 2026-10-23: switched both versions to plain flour and bicarbonate of soda, since self-raising flour and baking powder aren't in the house. Self-raising flour is plain flour plus about 1–1¼ tsp baking powder per 100g, and 1 tsp baking powder is about ¼ tsp bicarb plus an acid. Classic: 350g self-raising flour + 1 tsp baking powder → 350g plain flour + **¾ tsp (~4g)** bicarb, with lemon juice raised from a squeeze to **1 tbsp (15g)** to sour the milk. Buttermilk: bicarb ½ → **¾ tsp (~4g)**, about the ratio Irish soda bread uses with buttermilk. Not yet tried; the rise may be a little lower than with self-raising flour.
+- 2026-11-01: time written as words now in numbers so the app makes a timer. Quantities unchanged.
