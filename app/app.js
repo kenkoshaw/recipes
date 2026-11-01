@@ -156,6 +156,8 @@
     });
     view.querySelectorAll('.chip').forEach((b) => b.addEventListener('click', () => {
       state.category = b.dataset.cat;
+      // Keep the address shareable (#/c/bread) without adding a history entry.
+      history.replaceState(null, '', state.category === 'all' ? '#/' : `#/c/${state.category}`);
       view.querySelectorAll('.chip').forEach((c) => c.classList.toggle('active', c === b));
       paint();
     }));
@@ -543,6 +545,7 @@
   function currentRoute() {
     const h = location.hash.replace(/^#\/?/, '');
     if (h.startsWith('r/')) return { name: 'recipe', slug: decodeURIComponent(h.slice(2)) };
+    if (h.startsWith('c/')) return { name: 'home', category: decodeURIComponent(h.slice(2)) };
     if (h === 'search') return { name: 'search' };
     if (h === 'favourites') return { name: 'favourites' };
     return { name: 'home' };
@@ -561,6 +564,7 @@
     else if (r.name === 'favourites') { renderFavourites(); window.scrollTo(0, 0); }
     else if (r.name === 'search') renderHome({ focusSearch: true });
     else {
+      if (r.category && data.categories.includes(r.category)) state.category = r.category;
       renderHome();
       window.scrollTo(0, lastRoute && lastRoute.name === 'recipe' ? state.homeScroll : 0);
     }

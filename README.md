@@ -29,6 +29,8 @@ Personal recipe collection. Recipes start from online sources, then get adjusted
 
 Preview locally: `npm install && npm run serve`, then open http://localhost:8080.
 
+Link straight to a category with `#/c/<category>`, e.g. https://kenkoshaw.github.io/recipes/#/c/bread.
+
 ## Intake from Downloads
 
 To file a downloaded recipe into this repo:
