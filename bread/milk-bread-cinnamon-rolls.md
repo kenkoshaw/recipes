@@ -20,7 +20,7 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 |------------|-------|
 | Water (tangzhong) | 155 |
 | Bread flour (tangzhong) | ¼ cup (32g) |
-| Salted butter, cool room temperature, cut into 8 pieces (dough) | 8 tbsp (113g) |
+| Unsalted butter, cool room temperature, cut into 8 pieces (dough) | 8 tbsp (113g) |
 | Unsalted butter, room temperature (frosting) | 6 tbsp (84g) |
 | Full-fat cream cheese, cold (frosting) | 142 |
 | Icing sugar (frosting) | 120 |
@@ -34,7 +34,7 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 | Bread flour, plus a little for dusting | 485 |
 | Caster sugar | 66 |
 | Fast action yeast | 1 sachet, 2¼ tsp (7g) |
-| Fine sea salt | ¾ tsp (~4.5g) |
+| Fine sea salt (dough) | 1 tsp (~6g) |
 
 ### Wet jug (step 2)
 
@@ -49,7 +49,8 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 
 | Ingredient | Grams |
 |------------|-------|
-| Salted butter, cool room temperature (filling) | 168 |
+| Unsalted butter, cool room temperature (filling) | 168 |
+| Fine sea salt (filling) | ½ tsp (~2.5g) |
 | Light brown soft sugar | 150 |
 | Ground cinnamon | 2 tbsp (~16g) |
 | Vanilla powder (optional) | 2 tsp (~5g) |
@@ -72,7 +73,7 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 
 3. **Knead in the butter, then rest** · 15 min + 30 min rest
 
-   On low speed, add the 8 tbsp (**113g**) salted butter one piece at a time, letting each fully disappear before adding the next.
+   On low speed, add the 8 tbsp (**113g**) unsalted butter one piece at a time, letting each fully disappear before adding the next.
 
    Keep kneading on low for 10–12 min, until the dough pulls away from the sides and feels smooth, stretchy and elastic.
 
@@ -80,7 +81,7 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 
 4. **Mix the filling** · 5 min
 
-   While the dough rests, stir the filling bowl into a smooth paste. The butter must be cool room temperature: if it's melted or greasy, the filling leaks out in the oven.
+   While the dough rests, stir the filling bowl into a smooth paste, so the salt is spread evenly. The butter must be cool room temperature: if it's melted or greasy, the filling leaks out in the oven.
 
 5. **Roll, fill and cut** · 20 min
 
@@ -129,3 +130,4 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 
 - 2026-11-04: imported from cambreabakes.com using the source's own metric weights where it gives them. US → UK swaps: heavy cream → double cream, powdered sugar → icing sugar, granulated sugar → caster sugar, European salted butter → salted butter. 2 tsp (6g) instant yeast → 1 sachet (**7g**) fast action. Estimated weights (marked `~`): salt, cinnamon, vanilla powder, vanilla bean paste, egg. 5oz cream cheese → **142g**. Sizes converted from inches: 9×13in tin → 23×33cm, 15×21in rectangle → 38×53cm, 1¾in strips → 4.5cm. Oven 325°F → 160°C (140°C fan), internal 185°F → 85°C. Total time includes the 1–2 hr rise the source leaves out of its 2½ hr. Not yet made.
 - 2026-11-04: tin 23×33cm → the 26×26cm square cake tin, the closest one in the kitchen (89% of the area, 9cm deep). Same 12 rolls in 3 rows of 4; bake may run up to 5 min longer, so the step leans on the 85°C internal temperature. Quantities unchanged.
+- 2026-11-04: salted butter → unsalted, since only unsalted is kept. Dough: 113g salted → 113g unsalted, salt ¾ tsp (~4.5g) → 1 tsp (**~6g**). Filling: 168g salted → 168g unsalted plus ½ tsp (**~2.5g**) fine sea salt. Added salt is ~1.5% of the butter's weight. Not yet tried.
