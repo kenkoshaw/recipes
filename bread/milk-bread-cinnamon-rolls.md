@@ -20,7 +20,7 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 |------|--------|
 | Bread flour | 550g |
 | Unsalted butter | 400g |
-| Light brown soft sugar | 150g |
+| Dark brown soft sugar | 150g |
 | Cream cheese, full-fat | 150g |
 | Icing sugar | 150g |
 | Caster sugar | 100g |
@@ -69,7 +69,7 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 |------------|-------|
 | Unsalted butter, cool room temperature (filling) | 168 |
 | Fine sea salt (filling) | ½ tsp (~2.5g) |
-| Light brown soft sugar | 150 |
+| Dark brown soft sugar | 150 |
 | Ground cinnamon | 2 tbsp (~16g) |
 | Vanilla powder (optional) | 2 tsp (~5g) |
 
@@ -149,3 +149,4 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 - 2026-11-04: imported from cambreabakes.com using the source's own metric weights where it gives them. US → UK swaps: heavy cream → double cream, powdered sugar → icing sugar, granulated sugar → caster sugar, European salted butter → salted butter. 2 tsp (6g) instant yeast → 1 sachet (**7g**) fast action. Estimated weights (marked `~`): salt, cinnamon, vanilla powder, vanilla bean paste, egg. 5oz cream cheese → **142g**. Sizes converted from inches: 9×13in tin → 23×33cm, 15×21in rectangle → 38×53cm, 1¾in strips → 4.5cm. Oven 325°F → 160°C (140°C fan), internal 185°F → 85°C. Total time includes the 1–2 hr rise the source leaves out of its 2½ hr. Not yet made.
 - 2026-11-04: tin 23×33cm → the 26×26cm square cake tin, the closest one in the kitchen (89% of the area, 9cm deep). Same 12 rolls in 3 rows of 4; bake may run up to 5 min longer, so the step leans on the 85°C internal temperature. Quantities unchanged.
 - 2026-11-04: salted butter → unsalted, since only unsalted is kept. Dough: 113g salted → 113g unsalted, salt ¾ tsp (~4.5g) → 1 tsp (**~6g**). Filling: 168g salted → 168g unsalted plus ½ tsp (**~2.5g**) fine sea salt. Added salt is ~1.5% of the butter's weight. Not yet tried.
+- 2026-11-04: light brown soft sugar → dark brown soft sugar (**150g**, same weight) in the filling, for a deeper toffee flavour. Not yet tried.
