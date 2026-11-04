@@ -126,6 +126,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 
 - [Burger Buns](bread/burger-buns.md) — Brioche (overnight prove option) or Fast (90 min)
 - [Butter Rolls](bread/butter-rolls.md) — soft Japanese-style rolls, freezable
+- [Milk Bread Cinnamon Rolls](bread/milk-bread-cinnamon-rolls.md) — tangzhong dough, cream cheese frosting, overnight option
 - [Melon Pan](bread/melon-pan.md) — cookie-crust Japanese sweet bread, Kenwood-kneaded
 - [New York-Style Bagels](bread/new-york-style-bagels.md) — same-day, boiled then baked, Kenwood-kneaded
 - [Shokupan](bread/shokupan.md) — yudane milk bread, square lidded loaf, Kenwood-kneaded
