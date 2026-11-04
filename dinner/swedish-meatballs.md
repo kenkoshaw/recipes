@@ -14,6 +14,27 @@ thumbnail: ../images/swedish-meatballs/thumbnail.jpg
 
 Butter-basted beef and pork meatballs in a cream gravy, with pomme purée, shop-bought lingonberry (or cranberry) sauce and pickled cucumber. The meatballs chill for an hour, which is when the potatoes get done.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Potatoes | 1000g |
+| Beef mince | 500g |
+| Pork mince | 500g |
+| Unsalted butter | 300g |
+| Dijon mustard | 50g |
+| Panko breadcrumbs | 50g |
+| Ground allspice | 50g |
+| Fresh thyme | 50g |
+| Fresh rosemary | 50g |
+| Double cream | 300ml |
+| Whole milk | 300ml |
+| Olive oil | 50ml |
+| Eggs, large | 1 |
+| Beef stock cubes | 1 |
+| Lingonberry or cranberry sauce | 1 × 200g jar |
+| Sweet-sour pickled cucumber | 1 × 300g jar |
+
 ## Ingredients
 
 | Ingredient | Grams |

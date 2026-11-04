@@ -14,6 +14,21 @@ thumbnail: ../images/honey-soy-baked-chicken-thighs/thumbnail.jpg
 
 Skinless boneless chicken thighs marinated in a honey soy sauce, baked, then broiled until golden and slightly charred at the edges. Few ingredients, and most of the time is the marinade.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Chicken thighs, skinless boneless | 1200g |
+| Honey | 150g |
+| Fresh ginger | 50g |
+| Green onions | 50g |
+| Fresh parsley | 50g |
+| Low-sodium soy sauce | 100ml |
+| Vegetable oil | 50ml |
+| White vinegar (optional) | 50ml |
+| Sesame oil (optional) | 50ml |
+| Garlic | 1 bulb |
+
 ## Ingredients
 
 | Ingredient | Grams |

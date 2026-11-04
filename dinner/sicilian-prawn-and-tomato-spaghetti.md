@@ -14,6 +14,24 @@ thumbnail: ../images/sicilian-prawn-and-tomato-spaghetti/thumbnail.jpg
 
 Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen prawns, so tomato purée stands in for the prawn-shell stock. Anchovy toast on the side replaces the traditional toasted breadcrumbs.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Raw king prawns, peeled | 300g |
+| Cherry tomatoes | 250g |
+| Spaghetti | 200g |
+| Sourdough or ciabatta | 100g |
+| Anchovy fillets | 50g |
+| Dried chilli flakes | 50g |
+| Curly parsley | 50g |
+| Tomato purée | 50g |
+| Dry white wine | 100ml |
+| Olive oil | 100ml |
+| Extra virgin olive oil | 50ml |
+| Garlic | 1 bulb |
+| Lemon | 1 |
+
 ## Ingredients
 
 | Ingredient | Grams |

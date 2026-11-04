@@ -14,6 +14,21 @@ aliases: [classic-scones-with-jam-and-clotted-cream]
 
 Quick storecupboard scones from Good Food magazine, two ways. Both use plain flour and bicarbonate of soda, which needs an acid to rise: **Classic** sours warm milk with lemon juice, and **Buttermilk** uses cold buttermilk for a tangier, more tender scone. A hot baking tray gives a tall rise, and the Kenwood K-beater rubs in the butter.
 
+## Shopping List (Classic)
+
+| Item | Amount |
+|------|--------|
+| Plain flour | 350g |
+| Butter | 100g |
+| Clotted cream | 50g |
+| Jam | 50g |
+| Caster sugar | 50g |
+| Bicarbonate of soda | 50g |
+| Milk | 200ml |
+| Vanilla extract | 50ml |
+| Eggs | 1 |
+| Lemons | 1 |
+
 ## Ingredients (Classic)
 
 **Makes** 8 scones · **Total** 15 min · **Active** ~10 min
@@ -86,6 +101,20 @@ Quick storecupboard scones from Good Food magazine, two ways. Both use plain flo
 
 - **Lemon juice**: it sours the milk into a buttermilk substitute, giving the bicarbonate of soda the acid it needs. Without it the scones stay flat and taste soapy. White or apple cider vinegar works too.
 - **Warm milk**: a tip from the source for light scones that rise every time.
+
+## Shopping List (Buttermilk)
+
+| Item | Amount |
+|------|--------|
+| Plain flour | 350g |
+| Butter | 100g |
+| Clotted cream | 50g |
+| Jam | 50g |
+| Caster sugar | 50g |
+| Bicarbonate of soda | 50g |
+| Buttermilk | 300ml |
+| Vanilla extract | 50ml |
+| Eggs | 1 |
 
 ## Ingredients (Buttermilk)
 

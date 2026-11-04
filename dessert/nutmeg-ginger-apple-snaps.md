@@ -18,6 +18,25 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 
 *"They're still warm."*
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Plain (all-purpose) flour | 500g |
+| Unsalted butter | 450g |
+| Caster sugar | 100g |
+| Brown sugar | 100g |
+| Granulated sugar | 50g |
+| Maple syrup | 50g |
+| Fresh ginger | 50g |
+| Ground cinnamon | 50g |
+| Ground ginger | 50g |
+| Ground nutmeg | 50g |
+| Ground cloves | 50g |
+| Vanilla extract | 50ml |
+| Gala apples | 5 |
+| Eggs, medium | 2 |
+
 ## Ingredients
 
 | Ingredient | Grams |

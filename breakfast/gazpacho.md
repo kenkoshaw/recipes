@@ -14,6 +14,20 @@ thumbnail: ../images/gazpacho/gazpacho.jpg
 
 Classic Andalusian cold tomato soup. Cucumber in the blend plus fresh on top, red pepper for sweetness. Best made the day before.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Ripe tomatoes | 1000g |
+| Cucumber | 200g |
+| Red pepper | 150g |
+| Day-old white bread | 100g |
+| Onion | 100g |
+| Sugar (optional) | 50g |
+| Extra virgin olive oil | 100ml |
+| Sherry vinegar | 50ml |
+| Garlic | 1 bulb |
+
 ## Ingredients
 
 | Ingredient | Grams |

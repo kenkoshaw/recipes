@@ -14,6 +14,20 @@ thumbnail: ../images/crepes/crepes.jpg
 
 Thin crêpes built from double cream diluted with water instead of milk. The batter is the recipe; steps 6–8 are optional toppings, pick one or none.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Plain flour | 100g |
+| Golden syrup (optional) | 100g |
+| Caster sugar (optional) | 50g |
+| Butter | 50g |
+| Icing sugar (optional) | 50g |
+| Double cream | 250ml |
+| Vanilla bean extract (optional) | 50ml |
+| Eggs, medium | 2 |
+| Lemon (optional) | 1 |
+
 ## Ingredients
 
 | Ingredient | Grams |

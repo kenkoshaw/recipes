@@ -14,6 +14,20 @@ thumbnail: ../images/white-fig-clafoutis/thumbnail.jpg
 
 Classic all-milk clafoutis — a soft, custardy baked batter over white figs. Barely sweet by design, so the figs lead. No cream needed.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| White figs | 350g |
+| Plain flour | 150g |
+| Caster sugar | 100g |
+| Unsalted butter | 50g |
+| Demerara sugar | 50g |
+| Icing sugar | 50g |
+| Whole milk | 400ml |
+| Vanilla extract | 50ml |
+| Eggs, large | 5 |
+
 ## Ingredients
 
 | Ingredient | Grams |

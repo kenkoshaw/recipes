@@ -14,6 +14,20 @@ thumbnail: ../images/japanese-strawberry-cake/thumbnail.jpg
 
 Japanese bakery-style strawberry shortcake: a light, fluffy sponge baked in a water bath, layered with lightly sweet whipped cream and macerated strawberries. Gelatin in the cream is optional; it keeps the cake's shape for longer.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Strawberries | 350g |
+| Caster sugar | 150g |
+| Cake flour | 100g |
+| Unsalted butter | 50g |
+| Icing sugar | 50g |
+| Gelatin powder (optional) | 50g |
+| Whipping cream | 300ml |
+| Whole milk | 100ml |
+| Eggs, large | 4 |
+
 ## Ingredients
 
 | Ingredient | Grams |

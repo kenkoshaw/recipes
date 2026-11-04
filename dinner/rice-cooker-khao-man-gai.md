@@ -13,6 +13,24 @@ thumbnail: ../images/rice-cooker-khao-man-gai/thumbnail.jpg
 
 カオマンガイ — Hainanese-style chicken rice from Cookpad: the chicken cooks on top of seasoned rice in the rice cooker, served with a soy, oyster and miso sauce. No fish sauce by default; add it to the sauce for a more Thai taste.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Japanese short-grain rice | 300g |
+| Boneless skin-on chicken thigh | 300g |
+| Caster sugar | 50g |
+| Fresh ginger | 50g |
+| Miso | 50g |
+| Oyster sauce | 50g |
+| Spring onions | 50g |
+| Soy sauce | 50ml |
+| Lemon juice | 50ml |
+| Sesame oil | 50ml |
+| Fish sauce (optional) | 50ml |
+| Garlic | 1 bulb |
+| Chicken stock cubes | 1 |
+
 ## Ingredients
 
 | Ingredient | Grams |

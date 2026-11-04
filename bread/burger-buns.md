@@ -14,6 +14,18 @@ aliases: [brioche-burger-buns, brioche-burger-buns-fast]
 
 Burger buns two ways. **Brioche** is the proper version: a lean brioche with a shreddy crumb, an optional overnight prove, and buns that keep to day three. **Fast** takes about 1 hr 30: the crumb is fluffier and more bread-roll than brioche and it stales by day two, but it's still very good under a burger.
 
+## Shopping List (Brioche)
+
+| Item | Amount |
+|------|--------|
+| Strong white bread flour | 500g |
+| Unsalted butter | 100g |
+| Caster sugar | 50g |
+| Sesame seeds | 50g |
+| Whole milk | 200ml |
+| Eggs, large | 3 |
+| Fast action yeast sachets | 1 |
+
 ## Ingredients (Brioche)
 
 **Makes** 8 buns (110g each) · **Total** 3 hr 50 (or 10–13 hr over two days) · **Active** 40 min
@@ -87,6 +99,18 @@ Burger buns two ways. **Brioche** is the proper version: a lean brioche with a s
 - Upgrade — add milk powder (**20g**) with the flour for a softer, longer-lasting crumb.
 - Upgrade — tangzhong: cook **25g** of the flour with **125g** of the milk to a paste, cool, add at step 2. Noticeably plusher and keeps better.
 - Storage: best day one. Freeze split and pre-sliced, then toast from frozen — better than day-three fresh.
+
+## Shopping List (Fast)
+
+| Item | Amount |
+|------|--------|
+| Strong white bread flour | 500g |
+| Unsalted butter | 100g |
+| Caster sugar | 50g |
+| Sesame seeds | 50g |
+| Whole milk | 250ml |
+| Eggs, large | 2 |
+| Fast action yeast sachets | 2 |
 
 ## Ingredients (Fast)
 

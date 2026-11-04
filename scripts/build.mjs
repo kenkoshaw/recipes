@@ -63,7 +63,7 @@ function parseIngredients(text) {
   for (const line of text.split('\n')) {
     if (!line.trim().startsWith('|')) continue;
     const cells = line.split('|').slice(1, -1).map((c) => c.trim());
-    if (cells.length < 2 || /^-+$/.test(cells[0].replace(/:/g, '')) || cells[0].toLowerCase() === 'ingredient') continue;
+    if (cells.length < 2 || /^-+$/.test(cells[0].replace(/:/g, '')) || ['ingredient', 'item'].includes(cells[0].toLowerCase())) continue;
     rows.push({ name: mdInline(cells[0]), grams: cells[1] });
   }
   return rows;
@@ -127,6 +127,7 @@ async function loadRecipe(category, file) {
     const g = parseGlance(ingText).glance;
     const ing = parseIngredientSection(ingText);
     const tips = s[key('tips')];
+    const shop = s[key('shopping list')] ?? s['shopping list'];
     return {
       name,
       makes: g.makes || glance.makes || '',
@@ -134,13 +135,14 @@ async function loadRecipe(category, file) {
       active: g.active || glance.active || '',
       ingredients: ing.ingredients,
       bowls: ing.bowls,
+      shopping: shop ? parseIngredients(shop) : [],
       steps: parseMethod(s[key('method')] || '', ing.bowls.map((b) => b.title.replace(/<[^>]+>/g, ''))),
       tips: tips ? md(tips) : '',
     };
   };
   const versions = versionNames.length ? versionNames.map(buildVersion) : [buildVersion('')];
   const v0 = versions[0];
-  const isKnown = (k) => ['_head', 'ingredients', 'method', 'tips', 'adjustment log'].includes(k) || /^(ingredients|method|tips) \(.+\)$/.test(k);
+  const isKnown = (k) => ['_head', 'shopping list', 'ingredients', 'method', 'tips', 'adjustment log'].includes(k) || /^(shopping list|ingredients|method|tips) \(.+\)$/.test(k);
   const image = meta.thumbnail ? fixImagePaths(meta.thumbnail) : firstImage(raw);
   const introText = intro.replace(/^!\[[^\]]*\]\(([^)]+)\)\s*$/m, (line, src) => (fixImagePaths(src) === image ? '' : line));
   return {
@@ -158,6 +160,7 @@ async function loadRecipe(category, file) {
     image,
     ingredients: v0.ingredients,
     bowls: v0.bowls,
+    shopping: v0.shopping,
     steps: v0.steps,
     tips: versionNames.length ? (s.tips ? md(s.tips) : '') : v0.tips,
     versions: versionNames.length > 1 ? versions : [],

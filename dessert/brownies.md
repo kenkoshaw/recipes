@@ -14,6 +14,19 @@ thumbnail: ../images/brownies/thumbnail.jpg
 
 Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-minute egg beat and the mid-bake tray drop are the two steps that make it, don't shortcut them.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Granulated sugar | 400g |
+| Unsalted butter | 300g |
+| Semisweet/bittersweet chocolate (60–70% cacao) | 250g |
+| Plain (all-purpose) flour | 150g |
+| Dark brown sugar | 150g |
+| Dutch process cocoa powder | 100g |
+| Vanilla extract | 50ml |
+| Large eggs | 6 |
+
 ## Ingredients
 
 | Ingredient | Grams |

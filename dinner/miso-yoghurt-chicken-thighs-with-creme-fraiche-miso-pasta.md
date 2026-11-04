@@ -14,6 +14,29 @@ thumbnail: ../images/miso-yoghurt-chicken-thighs-with-creme-fraiche-miso-pasta/t
 
 Chicken thighs marinated in Greek yoghurt, brown miso, honey and garlic, pan-fried in stainless steel until charred, then sliced over a quick crème fraîche pasta made in the same pan. The yoghurt and crème fraîche share a tang that ties the dish together, and the fond from the chicken gives the sauce its depth. It also works with short grain rice and roasted purple sweet potato instead of pasta.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Boneless skinless chicken thighs | 600g |
+| Pasta | 400g |
+| Crème fraîche, full fat | 300g |
+| Greek yoghurt, full fat | 150g |
+| Parmigiano | 100g |
+| Unsalted butter | 50g |
+| Fresh ginger | 50g |
+| Honey | 50g |
+| Brown miso | 50g |
+| Fresh parsley | 50g |
+| Toasted sesame seeds | 50g |
+| Neutral oil | 50ml |
+| Soy sauce | 50ml |
+| Apple cider vinegar | 50ml |
+| Toasted sesame oil | 50ml |
+| Garlic | 1 bulb |
+| Spring onions | 2 |
+| Lemon (optional) | 1 |
+
 ## Ingredients
 
 | Ingredient | Grams |

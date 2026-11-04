@@ -14,6 +14,27 @@ thumbnail: ../images/epic-chunky-beef-and-mushroom-pie/thumbnail.jpg
 
 Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dried porcini give the gravy a savoury depth. The filling is better made the day before.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Chuck beef | 1000g |
+| Carrots | 400g |
+| Swiss brown mushrooms | 400g |
+| Bacon | 200g |
+| Onion | 150g |
+| Dried porcini mushrooms | 50g |
+| Flour | 50g |
+| Celery | 50g |
+| Fresh thyme | 50g |
+| Beef stock | 500ml |
+| Dark ale | 300ml |
+| Vegetable oil | 50ml |
+| Garlic | 1 bulb |
+| Eggs | 1 |
+| Bay leaves | 2 |
+| Puff pastry, ready-rolled | 1 × 320g sheet |
+
 ## Ingredients
 
 | Ingredient | Grams |

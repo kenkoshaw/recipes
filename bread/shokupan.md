@@ -14,6 +14,16 @@ thumbnail: ../images/shokupan/thumbnail.jpg
 
 Soft, fluffy Japanese milk bread made with the yudane method: a scalded flour paste made the night before keeps the crumb moist. Three rolls of dough sit side by side in a lidded loaf tin, baked with the lid on for a square loaf, and the Kenwood dough hook does the kneading. The milk powder, yeast-first mixing and lid-on rise height come from [Just One Cookbook's shokupan](https://www.justonecookbook.com/japanese-milk-bread-shokupan/).
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Bread flour | 350g |
+| Unsalted butter | 50g |
+| Sugar | 50g |
+| Skim milk powder | 50g |
+| Instant dry yeast sachets | 1 |
+
 ## Ingredients
 
 | Ingredient | Grams |

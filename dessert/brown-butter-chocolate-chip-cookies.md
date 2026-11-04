@@ -14,6 +14,21 @@ thumbnail: ../images/brown-butter-chocolate-chip-cookies/cookies.jpg
 
 Half batch of a 48-50 cookie American recipe, converted to metric with unsalted butter and brewed coffee in place of milk. Coffee sharpens the chocolate and feeds the bicarb; the butter's missing salt is folded back into the 6g total.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Plain flour | 300g |
+| Unsalted butter | 250g |
+| Light or dark brown sugar | 200g |
+| Dark chocolate bar | 150g |
+| Caster sugar | 100g |
+| Chocolate chips | 100g |
+| Bicarbonate of soda | 50g |
+| Vanilla extract | 50ml |
+| Strong brewed coffee or espresso | 50ml |
+| Eggs | 2 |
+
 ## Ingredients
 
 | Ingredient | Grams |

@@ -67,6 +67,14 @@ When creating or updating a recipe in this repo, follow these rules exactly:
 12. **Versions**: when a recipe has variants (Brioche and Fast buns, Classic and Buttermilk scones), keep them in one file and the app shows a tab per version under the photo. List them in the frontmatter, `versions: [Brioche, Fast]`, and give each its own `## Ingredients (Brioche)`, `## Method (Brioche)` and optional `## Tips (Brioche)`. Start each version's Ingredients with its own `**Makes** … · **Total** … · **Active** …` line. A plain `## Tips` and the Adjustment Log are shared. If the file replaces older recipes, list their old file names in `aliases: [old-slug]` so old links and favourites still work.
 13. **No self-raising flour or baking powder**: the kitchen keeps plain flour and bicarbonate of soda only, because bicarb keeps for years. Convert any recipe that uses them: self-raising flour ≈ plain flour + 1–1¼ tsp baking powder per 100g, and 1 tsp baking powder ≈ ¼ tsp bicarb + an acid. Choose an acid that fits the recipe: buttermilk or yoghurt in scones and soda breads, lemon juice in sweet bakes, vinegar where the flavour should stay neutral. Brown sugar, honey and cocoa already in the recipe count towards it; roughly ½–1 tsp lemon or vinegar per ¼ tsp bicarb. Don't round the bicarb up, since too much without enough acid tastes soapy. Add a note to work quickly once the wet goes in, and log the conversion with the original amounts.
 14. **Unsalted butter only**: the kitchen keeps unsalted butter, never salted. Change every salted butter row to unsalted, keeping one row per portion (rule 11). Add the salt it would have brought, about 1.5% of the salted butter's weight, to that portion's bowl: add it to a salt row already there or add a fine salt row. In fillings and frostings use fine salt and mix it in well. Plain "butter" with no salt stated stays as it is. Log the conversion with the original amounts.
+15. **Shopping list**: every recipe has a `## Shopping List` between the intro and `## Ingredients`, for comparing against groceries. The app shows it as a closed drop-down.
+    - Table `| Item | Amount |`, one row per thing to buy, totalled across the top table and every bowl (e.g. bread flour for the tangzhong and the dough is one row). Use the plain shop name, without prep or purpose notes.
+    - Round every amount **up** to the next 50: solids in g (`550g`), liquids in ml (`100ml`). Liquids are milk, cream, buttermilk, oils, juices, vinegars, thin sauces like soy, and wine.
+    - Things bought by the unit stay as a count: eggs, yeast sachets, stock cubes, lemons and limes, garlic as bulbs (`1 bulb` for up to 10 cloves), and tins or packs the recipe names by size (`1 × 400g tin`).
+    - Leave out water, salt and pepper.
+    - Optional ingredients go in with `(optional)` in the name.
+    - Recipes with versions get one list per version: `## Shopping List (Brioche)`.
+    - Update the list whenever an ingredient quantity changes.
 
 ## Recipe template
 
@@ -86,6 +94,14 @@ thumbnail: ../images/recipe-name/photo.jpg (optional)
 **Makes** 4 servings · **Total** 1 hr 30 · **Active** 20 min
 
 Optional one-line intro: what this is, key trade-off, link to a variant.
+
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Ingredient one | 500g |
+| Ingredient two | 400ml |
+| Eggs | 2 |
 
 ## Ingredients
 

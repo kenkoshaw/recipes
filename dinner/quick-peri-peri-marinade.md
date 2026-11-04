@@ -14,6 +14,19 @@ thumbnail: ../images/quick-peri-peri-marinade/thumbnail.jpg
 
 Store-cupboard peri peri — smoked paprika and cayenne base, honey to balance. Halve everything for 500g of protein.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Smoked paprika | 50g |
+| Cayenne pepper | 50g |
+| Chilli flakes (optional) | 50g |
+| Dried oregano | 50g |
+| Honey | 50g |
+| Olive oil | 100ml |
+| Lemon juice | 100ml |
+| Garlic | 1 bulb |
+
 ## Ingredients
 
 | Ingredient | Grams |

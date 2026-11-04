@@ -14,6 +14,24 @@ thumbnail: ../images/milk-bread-cinnamon-rolls/thumbnail.jpg
 
 Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese frosting. Kenwood dough hook for the dough, K-beater for the frosting. Can rise overnight in the fridge (see Tips).
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Bread flour | 550g |
+| Unsalted butter | 400g |
+| Light brown soft sugar | 150g |
+| Cream cheese, full-fat | 150g |
+| Icing sugar | 150g |
+| Caster sugar | 100g |
+| Ground cinnamon | 50g |
+| Vanilla bean paste | 50g |
+| Vanilla powder (optional) | 50g |
+| Double cream | 100ml |
+| Whole milk | 100ml |
+| Eggs, large | 1 |
+| Fast action yeast sachets | 1 |
+
 ## Ingredients
 
 | Ingredient | Grams |

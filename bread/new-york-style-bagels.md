@@ -14,6 +14,16 @@ thumbnail: ../images/new-york-style-bagels/thumbnail.jpg
 
 Same-day bagels made the classic way: the dough is shaped into rings and boiled for a couple of minutes before baking, which gives the chewy bite and shiny crust. The Kenwood dough hook does the kneading.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Bread flour or high-gluten flour | 500g |
+| Granulated sugar | 50g |
+| Toppings (optional) | 50g |
+| Oil | 50ml |
+| Active dry yeast sachets | 1 |
+
 ## Ingredients
 
 | Ingredient | Grams |

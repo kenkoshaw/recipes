@@ -263,6 +263,16 @@
           <button class="reset-btn" id="reset" ${anyProgress ? '' : 'disabled'}>${ICONS.reset}Untick everything</button>
         </div>
 
+        ${v.shopping && v.shopping.length ? `
+        <details class="block">
+          <summary>Shopping list ${ICONS.chevron}</summary>
+          <div class="block-body">
+            <ul class="shopping">
+              ${v.shopping.map((i) => `<li><span class="name">${i.name}</span><span class="grams">${esc(i.grams)}</span></li>`).join('')}
+            </ul>
+          </div>
+        </details>` : ''}
+
         <details class="block" open>
           <summary>Ingredients ${ICONS.chevron}</summary>
           <div class="block-body">

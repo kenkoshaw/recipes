@@ -14,6 +14,20 @@ thumbnail: ../images/melon-pan/thumbnail.jpg
 
 Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (biscuit) crust with the signature gridline pattern. The bread dough is kneaded with the Kenwood dough hook and the biscuit dough is mixed with the K-beater.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Bread flour | 250g |
+| Cake flour | 250g |
+| Granulated sugar | 200g |
+| Unsalted butter | 100g |
+| Bicarbonate of soda | 50g |
+| Whole milk | 50ml |
+| Eggs, large | 2 |
+| Instant yeast sachets | 1 |
+| Lemons | 1 |
+
 ## Ingredients
 
 | Ingredient | Grams |

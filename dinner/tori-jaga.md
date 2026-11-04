@@ -14,6 +14,22 @@ thumbnail: ../images/tori-jaga/tori-jaga.jpg
 
 鶏じゃが — soy-braised chicken thigh and potato, the chicken counterpart to nikujaga. Built without mirin or sake: dry white wine covers both, with extra sugar to replace mirin's sweetness. Serve teishoku style with a separate bowl of white rice (not included below).
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Maris Piper potatoes | 500g |
+| Boneless chicken thighs | 400g |
+| Onion | 150g |
+| Carrot | 100g |
+| Spring onions | 50g |
+| Fresh ginger | 50g |
+| Caster sugar | 50g |
+| Katsuo dashi granules | 50g |
+| Dry white wine | 100ml |
+| Vegetable oil | 50ml |
+| Soy sauce | 50ml |
+
 ## Ingredients
 
 | Ingredient | Grams |

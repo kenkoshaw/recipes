@@ -14,6 +14,18 @@ thumbnail: ../images/baked-camembert-with-garlic-honey-and-walnuts/camembert.jpg
 
 Molten camembert baked in its own box, studded with garlic and finished with a separately infused garlic honey and toasted walnuts. The split approach is deliberate — studded garlic gives roasted pockets, the infusion carries garlic flavour through the whole thing.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Sourdough or baguette | 200g |
+| Runny honey | 100g |
+| Walnut halves | 50g |
+| Fresh thyme | 50g |
+| Olive oil | 50ml |
+| Garlic | 2 bulbs |
+| Camembert, whole 250g wheel | 1 |
+
 ## Ingredients
 
 | Ingredient | Grams |

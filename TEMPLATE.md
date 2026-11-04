@@ -14,6 +14,14 @@ thumbnail: ../images/recipe-name/photo.jpg (optional)
 
 Optional one-line intro: what this is, key trade-off, link to a variant.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Ingredient one | 500g |
+| Ingredient two | 400ml |
+| Eggs | 2 |
+
 ## Ingredients
 
 | Ingredient | Grams |

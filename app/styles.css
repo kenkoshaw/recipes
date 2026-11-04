@@ -211,6 +211,11 @@ input { font: inherit; color: inherit; }
 .bowl-head .tick svg { width: 14px; height: 14px; }
 .bowl-title { flex: 1; min-width: 0; }
 .bowl-head em { font-style: normal; font-weight: 400; font-size: 13px; color: var(--text-3); white-space: nowrap; }
+.shopping { list-style: none; margin: 0; padding: 0; }
+.shopping li { display: flex; gap: 12px; padding: 10px 0; border-bottom: 1px dashed var(--border); font-size: 16px; }
+.shopping li:last-child { border-bottom: 0; }
+.shopping .name { flex: 1; }
+.shopping .grams { font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; }
 .bowl-items { list-style: none; margin: 8px 0 0 36px; padding: 0; }
 .bowl-items li { display: flex; gap: 12px; padding: 5px 0; font-size: 15px; color: var(--text-2); }
 .bowl-items .name { flex: 1; }

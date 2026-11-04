@@ -14,6 +14,14 @@ thumbnail: ../images/grape-juice-ice-lollies/thumbnail.jpg
 
 Pure juice alone freezes rock-hard and icy. Honey lowers the freezing point for a lolly you can bite, salt and lemon push the flavour back through the cold.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Honey | 50g |
+| Welch's 100% grape juice | 200ml |
+| Lemons | 1 |
+
 ## Ingredients
 
 | Ingredient | Grams |

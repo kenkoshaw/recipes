@@ -14,6 +14,25 @@ thumbnail: ../images/gochujang-pork-belly-rice-bowl/thumbnail.jpg
 
 Sticky, spicy-sweet jeyuk-style pork belly over short-grain rice. The pork marinates while the rice cooks.
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Pork belly, skinless | 400g |
+| Short-grain (sushi) rice | 250g |
+| Onion | 150g |
+| Gochujang | 50g |
+| Gochugaru (Korean chilli flakes) | 50g |
+| Fresh ginger | 50g |
+| Toasted sesame seeds | 50g |
+| Sugar | 50g |
+| Mirin | 50ml |
+| Soy sauce | 50ml |
+| Toasted sesame oil | 50ml |
+| Garlic | 1 bulb |
+| Spring onions | 3 |
+| Eggs (optional) | 2 |
+
 ## Ingredients
 
 | Ingredient | Grams |

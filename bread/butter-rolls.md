@@ -14,6 +14,17 @@ thumbnail: ../images/butter-rolls/thumbnail.jpg
 
 Soft Japanese-style enriched rolls, scaled up to use a full 7g yeast packet. The original makes 8 (multiply everything by 0.43).
 
+## Shopping List
+
+| Item | Amount |
+|------|--------|
+| Strong white bread flour | 500g |
+| Unsalted butter | 100g |
+| Caster sugar | 50g |
+| Whole milk | 150ml |
+| Eggs, large | 2 |
+| Fast action yeast sachets | 1 |
+
 ## Ingredients
 
 | Ingredient | Grams |
