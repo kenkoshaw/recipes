@@ -58,7 +58,7 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 
 1. **Make the tangzhong** · 5 min
 
-   Line a metal 23×33cm baking tin with baking paper.
+   Line the 26×26cm square cake tin with baking paper.
 
    In a small saucepan, whisk the water (**155g**) and ¼ cup (**32g**) bread flour. Cook over medium heat, whisking constantly, for 4–5 min until it turns into a thick paste.
 
@@ -100,7 +100,7 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 
 7. **Bake** · 30–35 min
 
-   Bake for 30–35 min, until the tops are lightly golden and the centre roll reads 85°C on a probe thermometer.
+   Bake for 30–35 min, until the tops are lightly golden and the centre roll reads 85°C on a probe thermometer. The rolls sit a little taller in the square tin, so they may need up to 5 min more: go by the thermometer.
 
 8. **Make the frosting** · 10 min
 
@@ -128,3 +128,4 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 ## Adjustment Log
 
 - 2026-11-04: imported from cambreabakes.com using the source's own metric weights where it gives them. US → UK swaps: heavy cream → double cream, powdered sugar → icing sugar, granulated sugar → caster sugar, European salted butter → salted butter. 2 tsp (6g) instant yeast → 1 sachet (**7g**) fast action. Estimated weights (marked `~`): salt, cinnamon, vanilla powder, vanilla bean paste, egg. 5oz cream cheese → **142g**. Sizes converted from inches: 9×13in tin → 23×33cm, 15×21in rectangle → 38×53cm, 1¾in strips → 4.5cm. Oven 325°F → 160°C (140°C fan), internal 185°F → 85°C. Total time includes the 1–2 hr rise the source leaves out of its 2½ hr. Not yet made.
+- 2026-11-04: tin 23×33cm → the 26×26cm square cake tin, the closest one in the kitchen (89% of the area, 9cm deep). Same 12 rolls in 3 rows of 4; bake may run up to 5 min longer, so the step leans on the 85°C internal temperature. Quantities unchanged.
