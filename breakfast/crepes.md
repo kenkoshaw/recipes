@@ -24,7 +24,7 @@ Thin crêpes built from double cream diluted with water instead of milk. The bat
 | Butter | 50g |
 | Icing sugar (optional) | 50g |
 | Double cream | 250ml |
-| Vanilla bean extract (optional) | 50ml |
+| Vanilla bean extract (optional) | 1ml |
 | Eggs, medium | 2 |
 | Lemon (optional) | 1 |
 

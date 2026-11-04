@@ -28,12 +28,12 @@ Mrs Bean's famous nutmeg-ginger-apple snaps, from Fantastic Mr Fox — spiced co
 | Brown sugar | 100g |
 | Granulated sugar | 50g |
 | Maple syrup | 50g |
-| Fresh ginger | 50g |
-| Ground cinnamon | 50g |
-| Ground ginger | 50g |
-| Ground nutmeg | 50g |
-| Ground cloves | 50g |
-| Vanilla extract | 50ml |
+| Fresh ginger | 6g |
+| Ground cinnamon | ~7g |
+| Ground ginger | 4g |
+| Ground nutmeg | 2g |
+| Ground cloves | 0.3g |
+| Vanilla extract | 5ml |
 | Gala apples | 5 |
 | Eggs, medium | 2 |
 

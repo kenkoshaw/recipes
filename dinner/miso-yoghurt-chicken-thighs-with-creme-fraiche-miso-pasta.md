@@ -27,12 +27,12 @@ Chicken thighs marinated in Greek yoghurt, brown miso, honey and garlic, pan-fri
 | Fresh ginger | 50g |
 | Honey | 50g |
 | Brown miso | 50g |
-| Fresh parsley | 50g |
-| Toasted sesame seeds | 50g |
+| Fresh parsley | ~5g |
+| Toasted sesame seeds | 3g |
 | Neutral oil | 50ml |
-| Soy sauce | 50ml |
+| Soy sauce | 8ml |
 | Apple cider vinegar | 50ml |
-| Toasted sesame oil | 50ml |
+| Toasted sesame oil | 4ml |
 | Garlic | 1 bulb |
 | Spring onions | 2 |
 | Lemon (optional) | 1 |

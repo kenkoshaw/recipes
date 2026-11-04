@@ -24,7 +24,7 @@ Tasty's "Ultimate Brownies" — melted-chocolate-plus-cocoa fudgy style. The 10-
 | Plain (all-purpose) flour | 150g |
 | Dark brown sugar | 150g |
 | Dutch process cocoa powder | 100g |
-| Vanilla extract | 50ml |
+| Vanilla extract | 9ml |
 | Large eggs | 6 |
 
 ## Ingredients

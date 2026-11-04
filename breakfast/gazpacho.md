@@ -23,7 +23,7 @@ Classic Andalusian cold tomato soup. Cucumber in the blend plus fresh on top, re
 | Red pepper | 150g |
 | Day-old white bread | 100g |
 | Onion | 100g |
-| Sugar (optional) | 50g |
+| Sugar (optional) | 2g |
 | Extra virgin olive oil | 100ml |
 | Sherry vinegar | 50ml |
 | Garlic | 1 bulb |

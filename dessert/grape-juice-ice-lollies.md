@@ -18,7 +18,7 @@ Pure juice alone freezes rock-hard and icy. Honey lowers the freezing point for 
 
 | Item | Amount |
 |------|--------|
-| Honey | 50g |
+| Honey | 7g |
 | Welch's 100% grape juice | 200ml |
 | Lemons | 1 |
 

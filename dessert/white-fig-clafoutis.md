@@ -23,9 +23,9 @@ Classic all-milk clafoutis — a soft, custardy baked batter over white figs. Ba
 | Caster sugar | 100g |
 | Unsalted butter | 50g |
 | Demerara sugar | 50g |
-| Icing sugar | 50g |
+| Icing sugar | 5g |
 | Whole milk | 400ml |
-| Vanilla extract | 50ml |
+| Vanilla extract | 5ml |
 | Eggs, large | 5 |
 
 ## Ingredients

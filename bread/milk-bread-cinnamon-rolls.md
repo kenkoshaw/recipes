@@ -25,8 +25,8 @@ Tangzhong milk-bread dough with a brown sugar cinnamon swirl and cream cheese fr
 | Icing sugar | 150g |
 | Caster sugar | 100g |
 | Ground cinnamon | 50g |
-| Vanilla bean paste | 50g |
-| Vanilla powder (optional) | 50g |
+| Vanilla bean paste | ~9g |
+| Vanilla powder (optional) | ~5g |
 | Double cream | 100ml |
 | Whole milk | 100ml |
 | Eggs, large | 1 |

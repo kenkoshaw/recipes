@@ -22,9 +22,9 @@ Sticky, spicy-sweet jeyuk-style pork belly over short-grain rice. The pork marin
 | Short-grain (sushi) rice | 250g |
 | Onion | 150g |
 | Gochujang | 50g |
-| Gochugaru (Korean chilli flakes) | 50g |
-| Fresh ginger | 50g |
-| Toasted sesame seeds | 50g |
+| Gochugaru (Korean chilli flakes) | ~6g |
+| Fresh ginger | ~5g |
+| Toasted sesame seeds | ~3g |
 | Sugar | 50g |
 | Mirin | 50ml |
 | Soy sauce | 50ml |

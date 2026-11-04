@@ -22,7 +22,7 @@ Classic Japanese sweet bread: a soft enriched bun under a thin, crisp cookie (bi
 | Cake flour | 250g |
 | Granulated sugar | 200g |
 | Unsalted butter | 100g |
-| Bicarbonate of soda | 50g |
+| Bicarbonate of soda | ~0.6g |
 | Whole milk | 50ml |
 | Eggs, large | 2 |
 | Instant yeast sachets | 1 |

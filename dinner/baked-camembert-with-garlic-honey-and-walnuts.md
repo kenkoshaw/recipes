@@ -21,8 +21,8 @@ Molten camembert baked in its own box, studded with garlic and finished with a s
 | Sourdough or baguette | 200g |
 | Runny honey | 100g |
 | Walnut halves | 50g |
-| Fresh thyme | 50g |
-| Olive oil | 50ml |
+| Fresh thyme | 3g |
+| Olive oil | 5ml |
 | Garlic | 2 bulbs |
 | Camembert, whole 250g wheel | 1 |
 

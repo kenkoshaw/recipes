@@ -18,10 +18,10 @@ Store-cupboard peri peri — smoked paprika and cayenne base, honey to balance. 
 
 | Item | Amount |
 |------|--------|
-| Smoked paprika | 50g |
-| Cayenne pepper | 50g |
-| Chilli flakes (optional) | 50g |
-| Dried oregano | 50g |
+| Smoked paprika | 9g |
+| Cayenne pepper | 5g |
+| Chilli flakes (optional) | 3g |
+| Dried oregano | 2g |
 | Honey | 50g |
 | Olive oil | 100ml |
 | Lemon juice | 100ml |

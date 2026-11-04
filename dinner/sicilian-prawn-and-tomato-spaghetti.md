@@ -23,8 +23,8 @@ Anchovy-and-chilli base, cherry tomatoes, no cheese. Built for peeled frozen pra
 | Spaghetti | 200g |
 | Sourdough or ciabatta | 100g |
 | Anchovy fillets | 50g |
-| Dried chilli flakes | 50g |
-| Curly parsley | 50g |
+| Dried chilli flakes | 1g |
+| Curly parsley | 4g |
 | Tomato purée | 50g |
 | Dry white wine | 100ml |
 | Olive oil | 100ml |

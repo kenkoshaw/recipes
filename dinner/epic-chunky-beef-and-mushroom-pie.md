@@ -26,7 +26,7 @@ Tender chunks of beef and mushrooms in a rich gravy, under a puff pastry lid. Dr
 | Dried porcini mushrooms | 50g |
 | Flour | 50g |
 | Celery | 50g |
-| Fresh thyme | 50g |
+| Fresh thyme | ~3g |
 | Beef stock | 500ml |
 | Dark ale | 300ml |
 | Vegetable oil | 50ml |

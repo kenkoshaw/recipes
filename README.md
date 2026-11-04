@@ -69,7 +69,7 @@ When creating or updating a recipe in this repo, follow these rules exactly:
 14. **Unsalted butter only**: the kitchen keeps unsalted butter, never salted. Change every salted butter row to unsalted, keeping one row per portion (rule 11). Add the salt it would have brought, about 1.5% of the salted butter's weight, to that portion's bowl: add it to a salt row already there or add a fine salt row. In fillings and frostings use fine salt and mix it in well. Plain "butter" with no salt stated stays as it is. Log the conversion with the original amounts.
 15. **Shopping list**: every recipe has a `## Shopping List` between the intro and `## Ingredients`, for comparing against groceries. The app shows it as a closed drop-down.
     - Table `| Item | Amount |`, one row per thing to buy, totalled across the top table and every bowl (e.g. bread flour for the tangzhong and the dough is one row). Use the plain shop name, without prep or purpose notes.
-    - Round every amount **up** to the next 50: solids in g (`550g`), liquids in ml (`100ml`). Liquids are milk, cream, buttermilk, oils, juices, vinegars, thin sauces like soy, and wine.
+    - Round every amount **up** to the next 50: solids in g (`550g`), liquids in ml (`100ml`). A total under 10g or 10ml stays as the actual amount (`9g`, `~5ml`), since spices and extracts are bought in small jars. Liquids are milk, cream, buttermilk, oils, juices, vinegars, thin sauces like soy, and wine.
     - Things bought by the unit stay as a count: eggs, yeast sachets, stock cubes, lemons and limes, garlic as bulbs (`1 bulb` for up to 10 cloves), and tins or packs the recipe names by size (`1 × 400g tin`).
     - Leave out water, salt and pepper.
     - Optional ingredients go in with `(optional)` in the name.

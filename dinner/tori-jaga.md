@@ -25,7 +25,7 @@ thumbnail: ../images/tori-jaga/tori-jaga.jpg
 | Spring onions | 50g |
 | Fresh ginger | 50g |
 | Caster sugar | 50g |
-| Katsuo dashi granules | 50g |
+| Katsuo dashi granules | 2g |
 | Dry white wine | 100ml |
 | Vegetable oil | 50ml |
 | Soy sauce | 50ml |

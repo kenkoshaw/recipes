@@ -23,9 +23,9 @@ Quick storecupboard scones from Good Food magazine, two ways. Both use plain flo
 | Clotted cream | 50g |
 | Jam | 50g |
 | Caster sugar | 50g |
-| Bicarbonate of soda | 50g |
+| Bicarbonate of soda | ~4g |
 | Milk | 200ml |
-| Vanilla extract | 50ml |
+| Vanilla extract | 5ml |
 | Eggs | 1 |
 | Lemons | 1 |
 
@@ -111,9 +111,9 @@ Quick storecupboard scones from Good Food magazine, two ways. Both use plain flo
 | Clotted cream | 50g |
 | Jam | 50g |
 | Caster sugar | 50g |
-| Bicarbonate of soda | 50g |
+| Bicarbonate of soda | ~4g |
 | Buttermilk | 300ml |
-| Vanilla extract | 50ml |
+| Vanilla extract | 5ml |
 | Eggs | 1 |
 
 ## Ingredients (Buttermilk)

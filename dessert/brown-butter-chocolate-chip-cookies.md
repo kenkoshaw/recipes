@@ -24,8 +24,8 @@ Half batch of a 48-50 cookie American recipe, converted to metric with unsalted 
 | Dark chocolate bar | 150g |
 | Caster sugar | 100g |
 | Chocolate chips | 100g |
-| Bicarbonate of soda | 50g |
-| Vanilla extract | 50ml |
+| Bicarbonate of soda | 3.5g |
+| Vanilla extract | 8ml |
 | Strong brewed coffee or espresso | 50ml |
 | Eggs | 2 |
 

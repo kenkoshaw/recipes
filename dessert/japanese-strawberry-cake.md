@@ -23,7 +23,7 @@ Japanese bakery-style strawberry shortcake: a light, fluffy sponge baked in a wa
 | Cake flour | 100g |
 | Unsalted butter | 50g |
 | Icing sugar | 50g |
-| Gelatin powder (optional) | 50g |
+| Gelatin powder (optional) | 2.5g |
 | Whipping cream | 300ml |
 | Whole milk | 100ml |
 | Eggs, large | 4 |

@@ -19,15 +19,15 @@ thumbnail: ../images/rice-cooker-khao-man-gai/thumbnail.jpg
 |------|--------|
 | Japanese short-grain rice | 300g |
 | Boneless skin-on chicken thigh | 300g |
-| Caster sugar | 50g |
-| Fresh ginger | 50g |
-| Miso | 50g |
+| Caster sugar | 4g |
+| Fresh ginger | 8g |
+| Miso | 6g |
 | Oyster sauce | 50g |
 | Spring onions | 50g |
 | Soy sauce | 50ml |
-| Lemon juice | 50ml |
-| Sesame oil | 50ml |
-| Fish sauce (optional) | 50ml |
+| Lemon juice | 5ml |
+| Sesame oil | 2ml |
+| Fish sauce (optional) | 6ml |
 | Garlic | 1 bulb |
 | Chicken stock cubes | 1 |
 

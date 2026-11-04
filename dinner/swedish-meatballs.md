@@ -24,9 +24,9 @@ Butter-basted beef and pork meatballs in a cream gravy, with pomme purée, shop-
 | Unsalted butter | 300g |
 | Dijon mustard | 50g |
 | Panko breadcrumbs | 50g |
-| Ground allspice | 50g |
-| Fresh thyme | 50g |
-| Fresh rosemary | 50g |
+| Ground allspice | ~2g |
+| Fresh thyme | ~4g |
+| Fresh rosemary | ~2g |
 | Double cream | 300ml |
 | Whole milk | 300ml |
 | Olive oil | 50ml |
