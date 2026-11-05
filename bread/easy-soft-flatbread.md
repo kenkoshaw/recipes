@@ -9,7 +9,7 @@ thumbnail: ../images/easy-soft-flatbread/thumbnail.jpg
 
 # Easy Soft Flatbread
 
-**Makes** 6 flatbreads, about 20cm · **Total** 50 min · **Active** 20 min
+**Makes** 6 flatbreads, about 20cm · **Total** 55 min · **Active** 25 min
 
 No-yeast milk and butter flatbread, cooked in a dry pan. Use for wraps, gyros or as naan with curry.
 
@@ -61,7 +61,7 @@ No-yeast milk and butter flatbread, cooked in a dry pan. Use for wraps, gyros or
 
    Weigh the dough (about **540g**) and divide it into 6 pieces of about **90g**. Roll each into a ball, then roll it out on a floured surface to a 20cm round, 2–3mm thick.
 
-5. **Cook** · 12 min
+5. **Cook** · 15 min
 
    Heat a non-stick frying pan over high heat with no oil. Cook each flatbread for 1–1½ min, until it puffs up and has golden spots underneath. Flip and cook the other side for 1 min.
 
