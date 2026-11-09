@@ -22,7 +22,7 @@ Frozen Swedish meatballs in quick Greek yoghurt flatbreads, with dill yoghurt sa
 | Lingonberry or cranberry sauce | 100g |
 | Gherkins | 100g |
 | Fresh dill | 3g |
-| Bicarbonate of soda | 2.5g |
+| Bicarbonate of soda | 3.5g |
 | Little Gem lettuce | 1 |
 | Lemons | 1 |
 | Garlic | 1 bulb |
@@ -32,7 +32,6 @@ Frozen Swedish meatballs in quick Greek yoghurt flatbreads, with dill yoghurt sa
 | Ingredient | Grams |
 |------------|-------|
 | Frozen Swedish meatballs | ~30 (500) |
-| Greek yoghurt (for the dough) | 300 |
 | Plain flour (for dusting) | ~20 |
 | Little Gem lettuce, shredded | 1 (~100) |
 | Lingonberry or cranberry sauce | 6 tbsp (~90) |
@@ -43,8 +42,15 @@ Frozen Swedish meatballs in quick Greek yoghurt flatbreads, with dill yoghurt sa
 | Ingredient | Grams |
 |------------|-------|
 | Plain flour | 300 |
-| Bicarbonate of soda | ½ tsp (2.5) |
+| Bicarbonate of soda | ¾ tsp (3.5) |
 | Salt | ½ tsp (3) |
+
+### Dough yoghurt bowl (step 1)
+
+| Ingredient | Grams |
+|------------|-------|
+| Greek yoghurt (for the dough) | 300 |
+| Lemon juice (for the dough) | 1 tbsp (15) |
 
 ### Dill yoghurt bowl (step 5)
 
@@ -52,7 +58,7 @@ Frozen Swedish meatballs in quick Greek yoghurt flatbreads, with dill yoghurt sa
 |------------|-------|
 | Greek yoghurt (for the sauce) | 150 |
 | Fresh dill, chopped | 1 tbsp (~3) |
-| Lemon juice | 1 tbsp (15) |
+| Lemon juice (for the sauce) | 1 tbsp (15) |
 | Garlic, finely grated | 1 small clove (~3) |
 | Salt | pinch (~0.5) |
 
@@ -60,7 +66,7 @@ Frozen Swedish meatballs in quick Greek yoghurt flatbreads, with dill yoghurt sa
 
 1. **Mix the dough** · 3 min
 
-   Heat the oven to 200°C fan. Fit the mixer bowl to the Kenwood with the dough hook, add the Greek yoghurt (**300g**) and mix on low for 1 min, then medium-low for 1 min, until a soft dough forms.
+   Heat the oven to 200°C fan. Fit the mixer bowl to the Kenwood with the dough hook, tip in the dough yoghurt bowl and mix on low for 1 min, then medium-low for 1 min, until a soft dough forms.
 
    Work quickly from here: the bicarb starts reacting as soon as the yoghurt goes in. If the dough is very sticky, add dusting flour (**~20g**) 1 tbsp at a time.
 
@@ -84,9 +90,10 @@ Frozen Swedish meatballs in quick Greek yoghurt flatbreads, with dill yoghurt sa
 
 ## Tips
 
-- Greek yoghurt is the acid for the bicarb, so use full-fat Greek or Greek-style yoghurt, not a thin or sweetened one.
+- The yoghurt and lemon juice are the acid for the bicarb, so use full-fat Greek or Greek-style yoghurt, not a thin or sweetened one.
 - If the flatbreads crack when rolled, brush them with a little olive oil or melted butter and keep them in the tea towel.
 
 ## Adjustment Log
 
 - 2026-11-09: Created. Flatbread based on the 2-ingredient yoghurt dough (equal weights self-raising flour and Greek yoghurt). Converted 300g self-raising flour to 300g plain flour + ½ tsp (2.5g) bicarb, with the yoghurt as the acid; kept at the low end of the 3–3¾ tsp baking powder equivalent (¾–1 tsp bicarb) because 300g yoghurt only neutralises about ½ tsp. Untried.
+- 2026-11-09: Added 1 tbsp (15g) lemon juice to the dough as extra acid, so bicarb ½ tsp (2.5g) → ¾ tsp (3.5g), the low end of the self-raising swap. Yoghurt and lemon now go in together as the dough yoghurt bowl. Untried.
