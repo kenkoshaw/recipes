@@ -176,5 +176,6 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 - [Brownies](dessert/brownies.md) — Tasty ultimate, 10-min egg beat + mid-bake drop
 - [Grape Juice Ice Lollies](dessert/grape-juice-ice-lollies.md) — honey-softened, kid-friendly
 - [Japanese Strawberry Cake](dessert/japanese-strawberry-cake.md) — water-bath sponge, whipped cream, optional gelatin
+- [Mont Blanc](dessert/mont-blanc.md) — fresh chestnut cream, split sponge, whipped cream dome
 - [Nutmeg & Ginger Apple Snaps](dessert/nutmeg-ginger-apple-snaps.md) — Fantastic Mr Fox cookies, step photos
 - [White Fig Clafoutis](dessert/white-fig-clafoutis.md) — all-milk custard bake
