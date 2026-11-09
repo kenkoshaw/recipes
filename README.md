@@ -31,6 +31,16 @@ Preview locally: `npm install && npm run serve`, then open http://localhost:8080
 
 Link straight to a category with `#/c/<category>`, e.g. https://kenkoshaw.github.io/recipes/#/c/bread.
 
+### Timers on iPhone
+
+Tap a time in a method step to start a timer. The countdown stays right after you leave the app, but a web app can't make a sound while it's closed or the phone is locked. To get an alarm on the lock screen, the app can also start each timer in the iPhone Clock app through a shortcut:
+
+1. In the Shortcuts app, make a new shortcut called **Recipe Timer**.
+2. Add one action, **Start Timer**, and set its duration to **Shortcut Input** seconds.
+3. In the recipe app, answer **Use Clock timers** the first time you start a timer, or turn it on at the bottom of the home page.
+
+Each timer then opens Shortcuts briefly; tap the back link at the top left to return. Cancelling a timer in the app doesn't cancel the Clock timer.
+
 ## Intake from Downloads
 
 To file a downloaded recipe into this repo:

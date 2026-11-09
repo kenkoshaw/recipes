@@ -154,6 +154,7 @@
         <div class="chips time-chips">${TIMES.map(([k, l]) =>
           `<button class="chip ${state.time === k ? 'active' : ''}" data-time="${k}">${k === 'any' ? '' : ICONS.clock}${l}</button>`).join('')}</div>
         <div id="results"></div>
+        <p class="app-setting">Timers also start in the iPhone Clock app: <button id="clock-pref">${clockTimers ? 'On' : 'Off'}</button></p>
       </div>`;
 
     const resultsEl = view.querySelector('#results');
@@ -204,6 +205,11 @@
       paint();
     }));
 
+    view.querySelector('#clock-pref').addEventListener('click', (e) => {
+      setClockTimers(!clockTimers);
+      e.currentTarget.textContent = clockTimers ? 'On' : 'Off';
+      toast(clockTimers ? `Needs the “${CLOCK_SHORTCUT}” shortcut` : 'Timers ring in the app only');
+    });
     view.querySelector('#theme').addEventListener('click', () => {
       setTheme(currentTheme() === 'dark' ? 'light' : 'dark');
       renderHome();
@@ -497,15 +503,58 @@
   let audio = null;
   let ringTimer = null;
 
+  // iOS suspends web audio whenever the app is in the background, and only a tap may restart it.
+  function unlockAudio() {
+    try {
+      audio = audio || new (window.AudioContext || window.webkitAudioContext)();
+      if (audio.state !== 'running') audio.resume();
+    } catch { /* no audio */ }
+  }
+  document.addEventListener('pointerdown', unlockAudio, { capture: true, passive: true });
+
+  // A web app can't ring while it's closed, so on iPhone each timer can also start a Clock app timer
+  // through the "Recipe Timer" shortcut (setup in the README). null = not asked yet.
+  const IOS = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  const CLOCK_SHORTCUT = 'Recipe Timer';
+  let clockTimers = store.get('clockTimers', null);
+  const setClockTimers = (on) => { clockTimers = on; store.set('clockTimers', on); };
+  const startClockTimer = (secs) => {
+    location.href = `shortcuts://run-shortcut?name=${encodeURIComponent(CLOCK_SHORTCUT)}&input=text&text=${secs}`;
+  };
+
+  function askClockTimers(secs) {
+    const d = document.createElement('dialog');
+    d.className = 'timer-sheet';
+    d.innerHTML = `
+      <h2>Ring when the app is closed?</h2>
+      <p>The app can’t make a sound while it’s closed or the phone is locked. It can also start each timer in the iPhone Clock app, which rings on the lock screen.</p>
+      <p>One-time setup in the Shortcuts app: make a shortcut called <strong>${CLOCK_SHORTCUT}</strong> with one action, <strong>Start Timer</strong>, set to <em>Shortcut Input</em> seconds.</p>
+      <div class="timer-sheet-actions">
+        <button class="secondary" value="no">In the app only</button>
+        <button class="primary" value="yes">Use Clock timers</button>
+      </div>`;
+    document.body.appendChild(d);
+    d.querySelectorAll('button').forEach((b) => b.addEventListener('click', () => {
+      const yes = b.value === 'yes';
+      setClockTimers(yes);
+      d.close();
+      d.remove();
+      if (yes) startClockTimer(secs);
+    }));
+    d.showModal();
+  }
+
   function toggleTimer(key, secs, label, time) {
-    try { audio = audio || new (window.AudioContext || window.webkitAudioContext)(); audio.resume(); } catch { /* no audio */ }
+    unlockAudio();
     if (timers[key]) {
-      if (timers[key].end > Date.now() && !confirm(`Cancel the ${time} timer?`)) return;
+      if (timers[key].end > Date.now() && !confirm(`Cancel the ${time} timer?${clockTimers ? ' The Clock app timer keeps running.' : ''}`)) return;
       delete timers[key];
       toast('Timer cancelled');
     } else {
       timers[key] = { end: Date.now() + secs * 1000, label };
       toast(`Timer set for ${clockText(secs)}`);
+      if (clockTimers) startClockTimer(secs);
+      else if (clockTimers === null && IOS) askClockTimers(secs);
     }
     saveTimers();
     tickTimers();
@@ -541,11 +590,12 @@
 
   function beep() {
     if (!audio) return;
+    if (audio.state !== 'running') audio.resume();
     [0, 0.25, 0.5].forEach((at) => {
       const o = audio.createOscillator();
       const g = audio.createGain();
       o.frequency.value = 880;
-      g.gain.setValueAtTime(0.25, audio.currentTime + at);
+      g.gain.setValueAtTime(0.7, audio.currentTime + at);
       g.gain.exponentialRampToValueAtTime(0.001, audio.currentTime + at + 0.2);
       o.connect(g).connect(audio.destination);
       o.start(audio.currentTime + at);
@@ -569,11 +619,17 @@
     }
     const html = `${ICONS.clock}<div><strong>Time’s up</strong>${due.map(([, t]) => `<small>${esc(t.label)}</small>`).join('')}</div><button>Dismiss</button>`;
     if (bar.dataset.html !== html) { bar.dataset.html = html; bar.innerHTML = html; }
-    if (!ringTimer) { beep(); ringTimer = setInterval(beep, 3000); }
+    if (!ringTimer) {
+      // "playback" audio isn't muted by the iPhone's ring/silent switch (Safari 17+).
+      try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch { /* unsupported */ }
+      beep();
+      ringTimer = setInterval(beep, 3000);
+    }
   }
 
   function stopRing() {
     document.querySelectorAll('.timer-alert').forEach((b) => b.remove());
+    if (ringTimer) { try { if (navigator.audioSession) navigator.audioSession.type = 'auto'; } catch { /* unsupported */ } }
     clearInterval(ringTimer);
     ringTimer = null;
   }

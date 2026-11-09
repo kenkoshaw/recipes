@@ -187,6 +187,16 @@ input { font: inherit; color: inherit; }
 .timer-alert strong { display: block; font-size: 16px; }
 .timer-alert small { display: block; font-size: 14px; opacity: .9; }
 .timer-alert button { padding: 6px 12px; border-radius: 10px; background: rgba(255,255,255,.22); font-weight: 600; }
+.timer-sheet { width: min(440px, calc(100% - 32px)); margin: auto; padding: 20px; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); color: var(--text); box-shadow: var(--shadow); }
+.timer-sheet::backdrop { background: rgba(0,0,0,.4); }
+.timer-sheet h2 { margin: 0 0 8px; font-size: 19px; }
+.timer-sheet p { margin: 0 0 10px; color: var(--text-2); line-height: 1.45; }
+.timer-sheet-actions { display: flex; gap: 10px; margin-top: 16px; }
+.timer-sheet-actions button { flex: 1; padding: 12px; border-radius: 12px; font-weight: 600; }
+.timer-sheet-actions .primary { background: var(--accent); color: #fff; }
+.timer-sheet-actions .secondary { background: var(--muted-surface); }
+.app-setting { margin: 28px 0 8px; text-align: center; font-size: 14px; color: var(--text-2); }
+.app-setting button { color: var(--accent); font-weight: 600; text-decoration: underline; }
 .step .body { color: var(--text-2); font-size: 16px; line-height: 1.6; }
 .step .body p { margin: 0 0 8px; }
 .step .body strong { color: var(--text); font-weight: 600; }
