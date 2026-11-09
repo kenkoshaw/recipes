@@ -141,6 +141,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 
 **Bread**
 
+- [Baguettes](bread/baguettes.md) — Overnight (12 hr fridge) or Same-day, no-knead tub folds, ice-tray steam
 - [Burger Buns](bread/burger-buns.md) — Brioche (overnight prove option) or Fast (90 min)
 - [Butter Rolls](bread/butter-rolls.md) — soft Japanese-style rolls, freezable
 - [Easy Soft Flatbread](bread/easy-soft-flatbread.md) — no yeast, milk and butter dough, dry-pan cooked
