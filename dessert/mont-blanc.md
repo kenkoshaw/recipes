@@ -31,7 +31,7 @@ Japanese café-style chestnut cake made from fresh chestnuts: a split sponge fil
 
 | Ingredient | Grams |
 |------------|-------|
-| Chestnuts, in their shells, scored with a cross | ~600 |
+| Chestnuts, in their shells | ~600 |
 | Plain flour, sifted | 150 |
 | Double cream (for the whipped cream), cold | 400ml (~410g) |
 | Caster sugar (for the whipped cream) | 30 |
@@ -63,13 +63,15 @@ Japanese café-style chestnut cake made from fresh chestnuts: a split sponge fil
 
 ## Method
 
-1. **Boil and peel the chestnuts** · 45 min
+1. **Score, boil and peel the chestnuts** · 50 min
 
-   Cover the chestnuts (**~600g**) with water in a large pan, bring to the boil and simmer for 25 min.
+   Pick 3 of the best-looking chestnuts for the top. Put each one flat side down on a board and cut one slit across the rounded side, through the shell and just into the flesh.
 
-   Take a few out at a time and peel off the shell and the brown inner skin while they're hot. Leave the rest in the hot water, since the skins stick once they cool.
+   Cut the rest of the chestnuts (**~600g** in all) in half across their width with a sharp serrated knife. Hold each one with a folded tea towel and keep your fingers clear, since they slip. Soaking them in hot water for 30 min first softens the shell and makes cutting easier.
 
-   Set aside 3 of the best-looking whole chestnuts for the top. Weigh the rest; you need **400g**.
+   Put them all in a large pan, cover with cold water and bring to the boil. Simmer for 20 min, then lift out the halves. Simmer the 3 whole ones for 5–10 min more, until a knife goes in easily.
+
+   Scoop the flesh out of the halves with a teaspoon; the inner skin stays in the shell. You need **400g**. Peel the 3 whole chestnuts while they're hot, taking off the shell and the brown inner skin.
 
 2. **Make the chestnut cream** · 10 min
 
@@ -136,3 +138,4 @@ Japanese café-style chestnut cake made from fresh chestnuts: a split sponge fil
 ## Adjustment Log
 
 - 2026-11-09: Added. Own recipe, put together in a Claude chat from standard Japanese Mont Blanc methods (chestnut cream from fresh chestnuts, genoise, whipped cream dome); untried. The photo shows a round cake, so the sponge is baked in the 26cm square tin and cut to a 22cm round. Chestnut in-shell weight (~600g for 400g peeled) is an estimate.
+- 2026-11-09: Step 1 now scores the chestnuts: the 3 for the top get one slit, the rest are halved, boiled 20 min and scooped out with a teaspoon instead of peeled one by one. Untried.
