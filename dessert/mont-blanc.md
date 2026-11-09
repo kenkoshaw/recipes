@@ -4,12 +4,13 @@ category: dessert
 source: own recipe (Claude chat, 2026-11-09)
 servings: 6
 tags: [cake, chestnut, japanese, sponge, whipped-cream, autumn]
+last_made: 2026-11-09
 thumbnail: ../images/mont-blanc/thumbnail.jpg
 ---
 
 # Mont Blanc
 
-**Makes** one 18cm cake, 6 slices · **Total** 3 hr 45 · **Active** 1 hr 45
+**Makes** one 18cm cake, 6 slices · **Total** 3 hr 50 · **Active** 1 hr 45
 
 Japanese café-style chestnut cake made from fresh chestnuts: two sponge layers filled and domed with whipped cream, then covered in piped strands of homemade chestnut cream.
 
@@ -63,17 +64,23 @@ Japanese café-style chestnut cake made from fresh chestnuts: two sponge layers 
 
 ## Method
 
-1. **Whisk the sponge** · 10 min
+1. **Warm and whisk the eggs** · 15 min
 
    Heat the oven to 180°C (160°C fan). Line the bases of both 18cm round sponge tins with baking paper.
 
-   Fit the mixer bowl to the Kenwood with the balloon whisk. Whisk on high for 8–10 min, until thick and pale and a trail of batter sits on the surface for a few seconds.
+   Set the mixer bowl over a pan of barely simmering water, without touching the water. Whisk by hand for 2–3 min, until the sugar dissolves and the eggs feel warm, about 40°C. Warm eggs whip up much higher than cold ones.
+
+   Fit the bowl to the Kenwood with the balloon whisk. Whisk on high for 10–12 min, until the mix is nearly white and about 3 times its starting volume. Lift the whisk: the ribbon of batter should sit on the surface for 5 seconds before sinking.
+
+   If it's still yellow, keep whisking. Whole eggs never reach stiff peaks, so don't wait for them. Finish with 1 min on low to even out the bubbles.
 
 2. **Fold and bake** · 25 min
 
    Warm the butter and milk jug in the microwave until the butter melts.
 
-   Sift the plain flour (**120g**) over the eggs in 3 lots, folding each in gently by hand with a spatula. Stir a large scoop of batter into the warm butter and milk, then fold that back in.
+   Sift the plain flour (**120g**) over the eggs in 3 lots. Fold each in by hand with a spatula: cut down through the middle, sweep along the bottom and up the side, turning the bowl as you go. Stop as soon as no flour shows.
+
+   Stir a large scoop of batter into the warm butter and milk, then fold that back in the same way. Get it into the tins and oven straight away, before the bubbles fade.
 
    Divide the batter evenly between the 2 tins, about **250g** each. Bake for 15–20 min, until golden and the tops spring back when pressed. Start step 3 while they bake.
 
@@ -133,6 +140,7 @@ Japanese café-style chestnut cake made from fresh chestnuts: two sponge layers 
 - **Make ahead:** the chestnut cream (to the end of step 5) keeps 3 days in the fridge. The sponges, wrapped in cling film once cool, keep 1 day. With both made the day before, the day itself takes about 1 hr plus the final chill.
 - **No Mont Blanc nozzle:** push the chestnut cream through a potato ricer or garlic press and drape the strands over the dome.
 - **Chestnut cream consistency:** if it breaks as you pipe, beat in a little more double cream. If it's too soft to hold strands, chill it for 15 min.
+- **Dense sponge:** almost always under-whipped eggs. The mix must turn nearly white before the flour goes in; yellow and thick isn't enough. Cold eggs and overfolding also knock it down.
 - **Kenwood use:** the balloon whisk does the eggs and the cream. The flour and butter are folded in by hand, since the machine would knock the air out.
 
 ## Adjustment Log
@@ -141,3 +149,4 @@ Japanese café-style chestnut cake made from fresh chestnuts: two sponge layers 
 - 2026-11-09: Step 1 now scores the chestnuts: the 3 for the top get one slit, the rest are halved, boiled 20 min and scooped out with a teaspoon instead of peeled one by one. Untried.
 - 2026-11-09: Reordered so the waits overlap: sponge first, chestnuts boiled while it bakes and cools, chestnut cream chilled in a shallow dish for 30 min instead of 1 hr while the cake is filled. Total 5 hr → 3 hr 45, active 1 hr 30 → 1 hr 45 (the old active figure was low).
 - 2026-11-09: Switched to the 2 × 18cm round sponge tins: one sponge layer per tin, so no cutting a round from the square tin and no splitting. Cake 22cm → 18cm, 8 → 6 slices. Scaled down: eggs 5 → 4, sponge sugar 150g → 120g, flour 150g → 120g, sponge butter and milk 40g → 30g each, chestnuts 600g → ~450g in shell (400g → 300g peeled), chestnut sugar 80g → 60g, chestnut milk 140ml → 105ml, chestnut butter 40g → 30g, chestnut double cream 40–60g → 30–45g, whipped cream 400ml → 300ml, its sugar 30g → 20g. Bake 20–25 min → 15–20 min. Untried.
+- 2026-11-09: First bake (5-egg batch in the two 18cm tins): sponge came out dense. The eggs were whipped thick and fluffy but still yellow, so under-whipped. Step 1 now warms the eggs and sugar over simmering water to ~40°C first, whisks on high for 10–12 min (was 8–10) until nearly white and tripled with a 5-second ribbon, and finishes 1 min on low. Step 2 spells out the fold and says to bake straight away. Total 3 hr 45 → 3 hr 50.
