@@ -11,7 +11,7 @@ thumbnail: ../images/mont-blanc/thumbnail.jpg
 
 **Makes** one 18cm cake, 6 slices · **Total** 3 hr 45 · **Active** 1 hr 45
 
-Japanese café-style chestnut cake made from fresh chestnuts: a split sponge filled and domed with whipped cream, then covered in piped strands of homemade chestnut cream.
+Japanese café-style chestnut cake made from fresh chestnuts: two sponge layers filled and domed with whipped cream, then covered in piped strands of homemade chestnut cream.
 
 ## Shopping List
 
