@@ -145,6 +145,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 - [Burger Buns](bread/burger-buns.md) — Brioche (overnight prove option) or Fast (90 min)
 - [Butter Rolls](bread/butter-rolls.md) — soft Japanese-style rolls, freezable
 - [Easy Soft Flatbread](bread/easy-soft-flatbread.md) — no yeast, milk and butter dough, dry-pan cooked
+- [Greek Yoghurt Flatbread](bread/greek-yoghurt-flatbread.md) — no yeast, no rest, yoghurt + bicarb, dry-pan cooked
 - [Milk Bread Cinnamon Rolls](bread/milk-bread-cinnamon-rolls.md) — tangzhong dough, cream cheese frosting, overnight option
 - [Melon Pan](bread/melon-pan.md) — cookie-crust Japanese sweet bread, Kenwood-kneaded
 - [New York-Style Bagels](bread/new-york-style-bagels.md) — same-day, boiled then baked, Kenwood-kneaded
@@ -168,7 +169,6 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 - [Rice Cooker Khao Man Gai](dinner/rice-cooker-khao-man-gai.md) — chicken cooked on seasoned rice, soy-oyster-miso sauce
 - [Sicilian Prawn and Tomato Spaghetti](dinner/sicilian-prawn-and-tomato-spaghetti.md) — anchovy toast on the side
 - [Swedish Meatballs](dinner/swedish-meatballs.md) — butter-basted, cream gravy, pomme purée, shop-bought lingonberry sauce and pickles
-- [Swedish Meatball Yoghurt Flatbread Wraps](dinner/swedish-meatball-yoghurt-flatbread-wraps.md) — frozen meatballs, 2-ingredient-style yoghurt flatbreads, dill yoghurt, lingonberry
 - [Tori-jaga](dinner/tori-jaga.md) — soy-braised chicken and potato, no mirin/sake
 
 **Dessert**
