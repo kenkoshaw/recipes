@@ -25,21 +25,21 @@ No-yeast milk and butter flatbread, cooked in a dry pan. Use for wraps, gyros or
 
 | Ingredient | Grams |
 |------------|-------|
-| Plain flour (for dusting and adjusting the dough) | ¼ cup (~35) |
+| Plain flour (for dusting and adjusting the dough) | ¼ cup (~35g) |
 
 ### Milk and butter jug (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
-| Milk | 185ml (~190) |
+| Milk | 185ml (~190g) |
 | Unsalted butter, cubed | 50 |
 
 ### Mixer bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
-| Plain flour | 2 cups (~300) |
-| Salt | ½ tsp (3) |
+| Plain flour | 2 cups (~300g) |
+| Salt | ½ tsp (3g) |
 
 ## Method
 

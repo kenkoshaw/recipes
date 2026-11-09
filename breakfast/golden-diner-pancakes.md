@@ -35,30 +35,30 @@ Golden Diner's (New York) tall pancakes, by chef Sam Yoo. Yeast and soured milk 
 
 | Ingredient | Grams |
 |------------|-------|
-| Lemon zest, finely grated | 3 tbsp (~18) |
+| Lemon zest, finely grated | 3 tbsp (~18g) |
 
 ### Soured milk jug (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
-| Whole milk | 560ml (~575) |
-| Lemon juice (from a zested lemon) | 2½ tbsp (~38) |
+| Whole milk | 560ml (~575g) |
+| Lemon juice (from a zested lemon) | 2½ tbsp (~38g) |
 
 ### Mixer bowl (step 1)
 
 | Ingredient | Grams |
 |------------|-------|
 | Plain flour (for the starter) | 260 |
-| Fast action dried yeast | 2 sachets, 4½ tsp (14) |
+| Fast action dried yeast | 2 sachets, 4½ tsp (14g) |
 
 ### Honey butter bowl (step 2)
 
 | Ingredient | Grams |
 |------------|-------|
 | Unsalted butter, very soft | 226 |
-| Honey | 10 tbsp (200) |
-| Soy sauce | 2 tsp (10) |
-| Fine salt (for the honey butter) | 1 tsp (6) |
+| Honey | 10 tbsp (200g) |
+| Soy sauce | 2 tsp (10g) |
+| Fine salt (for the honey butter) | 1 tsp (6g) |
 
 ### Berry pan (step 3)
 
@@ -66,23 +66,23 @@ Golden Diner's (New York) tall pancakes, by chef Sam Yoo. Yeast and soured milk 
 |------------|-------|
 | Mixed berries, fresh or frozen | 400 |
 | Caster sugar (for the berries) | 70 |
-| Cornflour | ½ tsp (~1.5) |
+| Cornflour | ½ tsp (~1.5g) |
 
 ### Dry mix bowl (step 4)
 
 | Ingredient | Grams |
 |------------|-------|
 | Plain flour (for the batter) | 260 |
-| Caster sugar (for the batter) | 4 tbsp (60) |
-| Bicarbonate of soda | 1½ tsp (~8) |
-| Fine salt (for the batter) | 1 tsp (6) |
+| Caster sugar (for the batter) | 4 tbsp (60g) |
+| Bicarbonate of soda | 1½ tsp (~8g) |
+| Fine salt (for the batter) | 1 tsp (6g) |
 
 ### Egg and oil jug (step 4)
 
 | Ingredient | Grams |
 |------------|-------|
-| Large eggs, room temperature | 4 (~200) |
-| Vegetable oil | 120ml (~110) |
+| Large eggs, room temperature | 4 (~200g) |
+| Vegetable oil | 120ml (~110g) |
 
 ## Method
 
