@@ -155,6 +155,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 - [Scones with Jam and Clotted Cream](breakfast/scones-with-jam-and-clotted-cream.md) — Classic or Buttermilk, Kenwood-rubbed butter
 - [Crêpes](breakfast/crepes.md) — double-cream batter, optional toppings
 - [Gazpacho](breakfast/gazpacho.md) — cold Andalusian tomato soup, cucumber garnish
+- [Golden Diner Pancakes](breakfast/golden-diner-pancakes.md) — yeasted buttermilk, oven-baked, honey-maple-soy butter, berries
 
 **Dinner**
 
