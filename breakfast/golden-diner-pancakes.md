@@ -3,7 +3,7 @@ title: Golden Diner Pancakes
 category: breakfast
 source: https://www.notquitenigella.com/2025/08/17/fluffy-pancakes/
 servings: 3
-tags: [breakfast, pancakes, yeast, buttermilk, berries, honey butter]
+tags: [breakfast, pancakes, yeast, berries, honey butter]
 thumbnail: ../images/golden-diner-pancakes/thumbnail.jpg
 ---
 
@@ -11,22 +11,21 @@ thumbnail: ../images/golden-diner-pancakes/thumbnail.jpg
 
 **Makes** 6 thick pancakes, 3 servings · **Total** 2 hr 30 · **Active** 30 min
 
-Golden Diner's (New York) tall pancakes, by chef Sam Yoo. Yeast and buttermilk make them light; they're baked in a hot pan in the oven, then soaked in a maple, honey and soy butter sauce, with a berry topping and lemon zest.
+Golden Diner's (New York) tall pancakes, by chef Sam Yoo. Yeast and soured milk make them light; they're baked in a hot pan in the oven, then soaked in a honey and soy butter sauce, with a berry topping and lemon zest.
 
 ## Shopping List
 
 | Item | Amount |
 |------|--------|
 | Plain flour | 550g |
-| Buttermilk | 600ml |
+| Whole milk | 600ml |
 | Caster sugar | 150g |
 | Fast action dried yeast | 2 sachets |
 | Bicarbonate of soda | ~8g |
 | Eggs | 4 |
 | Vegetable oil | 150ml |
 | Unsalted butter | 250g |
-| Honey | 150g |
-| Maple syrup | 100ml |
+| Honey | 200g |
 | Soy sauce | 50ml |
 | Mixed berries, fresh or frozen | 400g |
 | Cornflour | ~2g |
@@ -36,8 +35,14 @@ Golden Diner's (New York) tall pancakes, by chef Sam Yoo. Yeast and buttermilk m
 
 | Ingredient | Grams |
 |------------|-------|
-| Buttermilk | 600ml (~620) |
 | Lemon zest, finely grated | 3 tbsp (~18) |
+
+### Soured milk jug (step 1)
+
+| Ingredient | Grams |
+|------------|-------|
+| Whole milk | 560ml (~575) |
+| Lemon juice (from a zested lemon) | 2½ tbsp (~38) |
 
 ### Mixer bowl (step 1)
 
@@ -51,8 +56,7 @@ Golden Diner's (New York) tall pancakes, by chef Sam Yoo. Yeast and buttermilk m
 | Ingredient | Grams |
 |------------|-------|
 | Unsalted butter, very soft | 226 |
-| Honey | 6 tbsp (120) |
-| Maple syrup | 4 tbsp (80) |
+| Honey | 10 tbsp (200) |
 | Soy sauce | 2 tsp (10) |
 | Fine salt (for the honey butter) | 1 tsp (6) |
 
@@ -84,9 +88,9 @@ Golden Diner's (New York) tall pancakes, by chef Sam Yoo. Yeast and buttermilk m
 
 1. **Make the starter** · 1 hr
 
-   Warm the buttermilk (**~620g**) to 37°C, body temperature. It may look split; that's fine.
+   Warm the soured milk jug to 37°C, body temperature. It will look curdled; that's fine.
 
-   Fit the mixer bowl to the Kenwood with the K-beater. Pour in the warm buttermilk and mix on low until smooth. Cover and leave at room temperature for 1 hr, until bubbly.
+   Fit the mixer bowl to the Kenwood with the K-beater. Pour in the warm soured milk and mix on low until smooth. Cover and leave at room temperature for 1 hr, until bubbly.
 
 2. **Make the honey butter** · 5 min
 
@@ -104,7 +108,7 @@ Golden Diner's (New York) tall pancakes, by chef Sam Yoo. Yeast and buttermilk m
 
 5. **Bake the pancakes** · 1 hr
 
-   Weigh the batter (about **1540g**). Each pancake takes about **255g**.
+   Weigh the batter (about **1530g**). Each pancake takes about **255g**.
 
    Take the hot pan out with an oven glove and pour in one pancake's worth of batter. Bake for 9 min, until risen and golden. Turn it out onto a plate, golden side up. Keep cooked pancakes warm under foil.
 
@@ -127,3 +131,4 @@ Golden Diner's (New York) tall pancakes, by chef Sam Yoo. Yeast and buttermilk m
 ## Adjustment Log
 
 - 2026-11-09: Added from Not Quite Nigella's version of Sam Yoo's New York Times recipe. Untried. Hand whisking of the starter and batter moved to the Kenwood K-beater on low; the honey butter stays hand-whisked because it's a small amount. Instant yeast 14g kept as 2 × 7g fast action sachets. Plain "butter" taken as unsalted. The source's 520g flour, "divided in two", is split 260g for the starter and 260g for the batter. Estimated weights: buttermilk 600ml → ~620g, oil 120ml → ~110g, eggs → ~200g, bicarb 1½ tsp → ~8g, cornflour ½ tsp → ~1.5g, lemon zest ~6g per tbsp. Source's lemon zest is "1 tbsp per pancake"; written here as 1 tbsp per serving (3 tbsp), since 6 tbsp seemed a lot — check when made. Oven temp from the source's 230°C fan; the 250°C conventional figure is my conversion. Pan reheat time between pancakes (2 min) and the batter weight per pancake are my additions.
+- 2026-11-09: No maple syrup or buttermilk in the kitchen. Maple syrup 4 tbsp (80g) → extra honey, so honey 6 tbsp (120g) → 10 tbsp (200g); the sauce will be a little thicker and more floral. Buttermilk 600ml → 560ml whole milk + 2½ tbsp (~38g) lemon juice, soured in a jug; the acid still reacts with the bicarb. Batter weight ~1540g → ~1530g. Untried.
