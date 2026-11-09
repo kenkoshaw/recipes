@@ -4,6 +4,7 @@ category: bread
 source: Japanese home baker's recipe (pasted, no URL)
 servings: 2
 tags: [bread, baguette, overnight, no-knead, stretch-and-fold]
+thumbnail: ../images/baguettes/thumbnail.jpg
 versions: [Overnight, Same-day]
 ---
 
