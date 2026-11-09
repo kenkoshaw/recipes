@@ -168,6 +168,7 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 - [Rice Cooker Khao Man Gai](dinner/rice-cooker-khao-man-gai.md) — chicken cooked on seasoned rice, soy-oyster-miso sauce
 - [Sicilian Prawn and Tomato Spaghetti](dinner/sicilian-prawn-and-tomato-spaghetti.md) — anchovy toast on the side
 - [Swedish Meatballs](dinner/swedish-meatballs.md) — butter-basted, cream gravy, pomme purée, shop-bought lingonberry sauce and pickles
+- [Swedish Meatball Yoghurt Flatbread Wraps](dinner/swedish-meatball-yoghurt-flatbread-wraps.md) — frozen meatballs, 2-ingredient-style yoghurt flatbreads, dill yoghurt, lingonberry
 - [Tori-jaga](dinner/tori-jaga.md) — soy-braised chicken and potato, no mirin/sake
 
 **Dessert**
