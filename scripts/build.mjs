@@ -108,6 +108,15 @@ function parseMethod(text, bowlNames = []) {
   });
 }
 
+// Minutes from a Total like "~2 hr 45 (overnight)" or "55 min"; notes after "(" or "+" are ignored.
+function totalMinutes(total) {
+  const head = total.split(/[(+]/)[0];
+  const hr = head.match(/(\d+(?:\.\d+)?)\s*hr/);
+  const min = hr ? head.slice(hr.index + hr[0].length).match(/(\d+)/) : head.match(/(\d+)\s*min/);
+  const mins = (hr ? Number(hr[1]) * 60 : 0) + (min ? Number(min[1]) : 0);
+  return mins || null;
+}
+
 function firstImage(text) {
   const m = text.match(/!\[[^\]]*\]\(([^)]+)\)/);
   return m ? fixImagePaths(m[1]) : null;
@@ -133,6 +142,7 @@ async function loadRecipe(category, file) {
       makes: g.makes || glance.makes || '',
       total: g.total || glance.total || '',
       active: g.active || glance.active || '',
+      totalMins: totalMinutes(g.total || glance.total || ''),
       ingredients: ing.ingredients,
       bowls: ing.bowls,
       shopping: shop ? parseIngredients(shop) : [],
@@ -156,6 +166,8 @@ async function loadRecipe(category, file) {
     makes: v0.makes,
     total: v0.total,
     active: v0.active,
+    totalMins: v0.totalMins,
+    timeRange: [Math.min(...versions.map((v) => v.totalMins ?? Infinity)), Math.max(...versions.map((v) => v.totalMins ?? 0))].map((m) => (Number.isFinite(m) && m > 0 ? m : null)),
     intro: introText.trim() ? md(introText) : '',
     image,
     ingredients: v0.ingredients,

@@ -56,7 +56,9 @@
 
   // ---------- Data ----------
   let data = null;
-  const state = { query: '', category: 'all', homeScroll: 0 };
+  const state = { query: '', category: 'all', time: 'any', sort: store.get('sort', 'az'), homeScroll: 0 };
+  const TIMES = [['any', 'Any time'], ['30', '30 min or less'], ['60', '1 hr or less'], ['120', '2 hr or less'], ['long', 'Over 2 hr']];
+  const SORTS = [['az', 'A–Z'], ['quick', 'Quickest first'], ['long', 'Longest first']];
 
   const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const stripTags = (s) => s.replace(/<[^>]+>/g, ' ');
@@ -73,10 +75,19 @@
     return `<button class="fav ${on ? 'on' : ''}" data-fav="${esc(r.slug)}" aria-label="${on ? 'Remove from' : 'Add to'} favourites" aria-pressed="${on}">${ICONS.heart}</button>`;
   }
 
+  const fmtMins = (m) => (m < 60 ? `${m} min` : `${Math.floor(m / 60)} hr${m % 60 ? ` ${m % 60}` : ''}`);
+  function timeLabel(r) {
+    const [lo, hi] = r.timeRange || [];
+    if (!lo) return '';
+    if (lo === hi) return fmtMins(lo);
+    return hi < 60 ? `${lo}–${hi} min` : `${fmtMins(lo)}–${fmtMins(hi)}`;
+  }
+
   const card = (r) => `
     <a class="card" href="#/r/${esc(r.slug)}">
       ${thumb(r)}
       ${favButton(r)}
+      ${timeLabel(r) ? `<span class="time">${ICONS.clock}${esc(timeLabel(r))}</span>` : ''}
       <h3>${esc(r.title)}</h3>
       <p>${esc(r.blurb)}</p>
     </a>`;
@@ -92,11 +103,27 @@
     return q.toLowerCase().split(/\s+/).every((w) => r._search.includes(w));
   }
 
+  // A recipe with versions fits a time filter if any version does.
+  function fitsTime(r) {
+    if (state.time === 'any') return true;
+    const [lo, hi] = r.timeRange || [];
+    if (!lo) return false;
+    return state.time === 'long' ? hi > 120 : lo <= Number(state.time);
+  }
+
+  function byTime(a, b) {
+    const key = (r) => (state.sort === 'quick' ? r.timeRange[0] : r.timeRange[1]);
+    const ka = key(a), kb = key(b);
+    if (ka == null || kb == null) return (ka == null) - (kb == null);
+    return state.sort === 'quick' ? ka - kb : kb - ka;
+  }
+
   function filtered() {
     return data.recipes
       .filter((r) => state.category === 'all' || r.category === state.category)
       .filter((r) => matches(r, state.query))
-      .sort((a, b) => a.title.localeCompare(b.title));
+      .filter(fitsTime)
+      .sort((a, b) => (state.sort === 'az' ? 0 : byTime(a, b)) || a.title.localeCompare(b.title));
   }
 
   // ---------- Views ----------
@@ -124,6 +151,8 @@
           <button class="clear" id="clear" aria-label="Clear search" ${state.query ? '' : 'hidden'}>${ICONS.close}</button>
         </label>
         <div class="chips">${chips}</div>
+        <div class="chips time-chips">${TIMES.map(([k, l]) =>
+          `<button class="chip ${state.time === k ? 'active' : ''}" data-time="${k}">${k === 'any' ? '' : ICONS.clock}${l}</button>`).join('')}</div>
         <div id="results"></div>
       </div>`;
 
@@ -134,12 +163,25 @@
     const paint = () => {
       const list = filtered();
       const heading = state.query ? 'Results' : state.category === 'all' ? 'All recipes' : LABEL[state.category];
-      resultsEl.innerHTML = `<h2 class="section-title">${esc(heading)} <small>${list.length}</small></h2>` +
+      resultsEl.innerHTML = `<div class="results-head"><h2 class="section-title">${esc(heading)} <small>${list.length}</small></h2>
+        <label class="sort">Sort <select id="sort">${SORTS.map(([k, l]) => `<option value="${k}" ${state.sort === k ? 'selected' : ''}>${l}</option>`).join('')}</select></label></div>` +
         (list.length
           ? `<div class="grid">${list.map(card).join('')}</div>`
-          : `<div class="empty">${ICONS.search}<p>No recipes match “${esc(state.query)}”.</p></div>`);
+          : `<div class="empty">${ICONS.search}<p>${state.query ? `No recipes match “${esc(state.query)}”.` : 'No recipes fit this time.'}</p></div>`);
     };
     paint();
+
+    resultsEl.addEventListener('change', (e) => {
+      if (e.target.id !== 'sort') return;
+      state.sort = e.target.value;
+      store.set('sort', state.sort);
+      paint();
+    });
+    view.querySelectorAll('[data-time]').forEach((b) => b.addEventListener('click', () => {
+      state.time = b.dataset.time;
+      view.querySelectorAll('[data-time]').forEach((c) => c.classList.toggle('active', c === b));
+      paint();
+    }));
 
     input.addEventListener('input', () => {
       state.query = input.value.trim();
@@ -154,11 +196,11 @@
       paint();
       input.focus();
     });
-    view.querySelectorAll('.chip').forEach((b) => b.addEventListener('click', () => {
+    view.querySelectorAll('[data-cat]').forEach((b) => b.addEventListener('click', () => {
       state.category = b.dataset.cat;
       // Keep the address shareable (#/c/bread) without adding a history entry.
       history.replaceState(null, '', state.category === 'all' ? '#/' : `#/c/${state.category}`);
-      view.querySelectorAll('.chip').forEach((c) => c.classList.toggle('active', c === b));
+      view.querySelectorAll('[data-cat]').forEach((c) => c.classList.toggle('active', c === b));
       paint();
     }));
 

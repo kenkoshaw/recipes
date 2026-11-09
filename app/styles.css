@@ -97,6 +97,16 @@ input { font: inherit; color: inherit; }
 .card h3 { font-size: 16px; font-weight: 600; margin: 12px 8px 4px; line-height: 1.25; }
 .card p { margin: 0 8px; color: var(--text-2); font-size: 13px; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .card .fav { position: absolute; top: 14px; right: 14px; }
+.card .time { position: absolute; left: 14px; top: 14px; display: inline-flex; align-items: center; gap: 4px; height: 26px; padding: 0 9px; border-radius: 9px; background: rgba(23,23,26,.72); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); color: #fff; font-size: 12px; font-weight: 500; white-space: nowrap; }
+.card .time svg { width: 14px; height: 14px; }
+
+.time-chips { margin-top: 10px; }
+.time-chips .chip { height: 36px; padding: 0 14px; font-size: 14px; display: inline-flex; align-items: center; gap: 6px; }
+.time-chips .chip svg { width: 15px; height: 15px; }
+.results-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 28px 0 14px; }
+.results-head .section-title { margin: 0; gap: 8px; justify-content: flex-start; }
+.sort { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; color: var(--text-2); }
+.sort select { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 10px; height: 34px; padding: 0 8px; }
 
 .thumb { position: relative; overflow: hidden; background: var(--muted-surface); }
 .thumb img { width: 100%; height: 100%; object-fit: cover; }
