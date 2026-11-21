@@ -189,3 +189,4 @@ Optional one-line intro: what this is, key trade-off, link to a variant.
 - [Mont Blanc](dessert/mont-blanc.md) — fresh chestnut cream, split sponge, whipped cream dome
 - [Nutmeg & Ginger Apple Snaps](dessert/nutmeg-ginger-apple-snaps.md) — Fantastic Mr Fox cookies, step photos
 - [White Fig Clafoutis](dessert/white-fig-clafoutis.md) — all-milk custard bake
+- [Zwetschgendatschi](dessert/zwetschgendatschi.md) — German plum sheet cake, yeasted base, cinnamon streusel, 26cm square tin
